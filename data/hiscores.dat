@@ -1,0 +1,70 @@
+#HISCORES
+#TABLE
+Keyword    pkill
+Desc       Top 10 Killers~
+Vnum       -1
+MaxLength  10
+Entry      Myolin 9
+Entry      Talos 7
+Entry      Akari 6
+Entry      Nafya 1
+Entry      Felix 1
+Entry      Simple 1
+Entry      Dechyla 0
+Entry      Sheneron 0
+Entry      Aqer 0
+Entry      Nafai 0
+End
+
+#TABLE
+Keyword    pdeath
+Desc       Top 10 Runts~
+Vnum       -1
+MaxLength  10
+Entry      Akari 4
+Entry      Zen 4
+Entry      Myolin 3
+Entry      Nafya 2
+Entry      Nafai 2
+Entry      Lasrus 1
+Entry      Astrid 1
+Entry      Dechyla 0
+Entry      Mystical 0
+Entry      Simple 0
+End
+
+#TABLE
+Keyword    status
+Desc       Top 10 Status Holders~
+Vnum       -1
+MaxLength  10
+Entry      Talos 6
+Entry      Akari 1
+Entry      Felix 1
+Entry      Simple 1
+Entry      Dechyla 0
+Entry      Sheneron 0
+Entry      Aqer 0
+Entry      Nafya 0
+Entry      Nafai 0
+Entry      Asmodeus 0
+End
+
+#TABLE
+Keyword    qp
+Desc       Top 10 Questors~
+Vnum       -1
+MaxLength  10
+Entry      Simple 46092
+Entry      Zolo 28646
+Entry      Zen 19181
+Entry      Nafai 11400
+Entry      Akari 10633
+Entry      Felix 6100
+Entry      Nafya 5600
+Entry      Moksha 4000
+Entry      Janie 3100
+Entry      Myolin 3025
+End
+
+#END

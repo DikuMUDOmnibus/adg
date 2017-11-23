@@ -1,0 +1,208 @@
+#AREADATA
+Name        Kensai HQ~
+Builders    None~
+VNUMs       14080 14099
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#14080
+{x~
+A {Wdivine{x presence~
+{x
+~
+~
+3 0 1000 S
+258 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14081
+abcd~
+Ramirez~
+Ramirez, the old and faithful Highland Protector stands before you, a twinkle in his eye.
+~
+~
+8257 4727464 600 S
+1005 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#14080
+highlander lander racks~
+a storage rack~
+Twin storage racks await you, holding weapons of all sizes and shapes.~
+~
+15 0 0
+10000 0 0 0
+10000 0 0
+#0
+
+
+
+#ROOMS
+#14080
+The land of the Highlander.    {g[{RHQ{g]{x~
+You're standing out in the middle of the forest, hidden from the prying
+eyes of your mortal enemies.  There is a clearing to the east, and a smaller
+clearing to the north.  A small hut stands to your west.  
+~
+0 16387 3
+D0
+~
+~
+0 0 14082
+D1
+~
+~
+0 0 14083
+D3
+~
+~
+0 0 14081
+S
+#14081
+Holy Ground.    #C[#rHQ#C]#n~
+You are on holy ground - you are safe from others in here, none can
+attack you.  A small statue of an Oak tree graces the room, filling it with
+a sense of peace and harmony.  
+~
+0 25607 0
+D1
+~
+~
+0 0 14080
+S
+#14082
+The racks.    {g[{RHQ{g]{x~
+Even though you are outside, there is a wide clay circle, roughly 30 feet
+across.  Around the edge of the circle, there are bookcases and weapons
+racks, presumably to practice and study with.  Along the circumference of
+the room, the walls are lined with displays of swords and axes used
+throughout history by Immortals like yourself in combat against eachother to
+live and learn with.  The ways of death here are many and varied from the
+wavy blade of the kriss to the greatsword taller than most men.  
+~
+0 24579 3
+D0
+~
+~
+0 0 14090
+D2
+~
+~
+0 0 14080
+D3
+~
+~
+0 0 14084
+S
+#14083
+The Barbeque.    {g[{RHQ{g]{x~
+A large barbeque sits in the center of the clearning, with several rabbit
+and deer carcass's roasting on it.  Several tables with old manuscripts and
+diagrams on them are scattered throughout.  
+~
+0 24579 3
+D3
+~
+~
+0 0 14080
+S
+#14084
+A swirling mass.    {g[{RHQ{g]{x~
+A swirling portal consumes a small area, all light and life is drawn into
+it.  Through it, you see life forms moving about.  
+~
+0 24581 0
+D1
+~
+~
+0 0 14082
+D4
+~
+~
+0 0 3001
+S
+#14090
+The Highlander Hall of Records   #G[#rHQ#G]#x~
+There is a huge Obelisk at the centre of the clearing, it is made from
+smooth jet-black stone, and it appears to have words engraved upon it's
+surface.  
+~
+0 16385 0
+E
+obelisk~
+Upon further inspection you discover that the words are in fact names of
+famous Highlanders.  
+(Note Anatole to have your name added to the list)
+ 
+Gillmor
+Ashriel
+Skanda
+Kyzuu
+Rance
+Chrome
+Eladriell
+Sarien
+NoBody
+Chibazzi
+Kayos
+Unforgiven
+Scourge
+Manx
+Eltharion
+Beorn
+Lucius
+ 
+Eltek
+Iluvatar
+Kaeton
+~
+D2
+~
+~
+0 0 14082
+S
+#14099
+A gently sloping hill.    {g[{RHQ{g]{x~
+The hill gently slopes upwards at a leisurely angle.  Animals roam and
+play freely, and you wonder what they would taste like cooked with herbs and
+spices.  
+~
+0 24583 3
+D0
+~
+~
+0 0 14080
+S
+#0
+
+
+
+#SPECIALS
+M 14080 spec_cast_adept Load to: A {Wdivine{x presence
+M 14081 spec_clan_lander Load to: Ramirez
+S
+
+
+
+#RESETS
+M 0 14081 1 14080
+M 0 14080 1 14081
+O 0 14080 0 14082
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

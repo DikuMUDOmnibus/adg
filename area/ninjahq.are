@@ -1,0 +1,128 @@
+#AREADATA
+Name        Ninja HQ~
+Builders    None~
+VNUMs       14060 14079
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#14060
+(null)~
+Ninja~
+The ninja guardian skulks about here.
+~
+The Ninja guardian is really fucking hard, don't even try it.
+~
+65 4235944 1000 S
+991 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14061
+(none)~
+the ninja healer~
+The ninja healer stands here healing people.
+~
+The ninja healer is not to be fucked with.
+~
+67 4235944 1000 S
+307 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#14062
+no name~
+(no short description)~
+(no long description)~
+~
+1 0 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14060
+The Ninja DoJo.     #G[#rHQ#G]#n~
+The DoJo is a large but simple room, the floor is covered by mats and the
+walls are made of bamboo.  Ninjas come here to congergate and train together
+in hopes of become true masters of the way of shadows.  
+~
+0 16391 0
+D0
+~
+~
+0 -1 14061
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 14062
+S
+#14061
+Ninja Shrine.     #G[#rHQ#G]#n~
+This is the Shrine of the Ninjas.  They come here to meditate on many of
+life's different aspects.  
+~
+0 25607 0
+D2
+~
+~
+0 -1 14060
+S
+#14062
+The Masters Garden   #G[#rHQ#G]#w~
+This is the Master's Garden, it is here the students learn that through
+inner peace and tranquility you can learn the techniques of Stealth and
+Deception, only two students may be in this room at any one time.  
+~
+0 24579 0
+D1
+~
+~
+0 0 14060
+S
+#14079
+A Path Through Shadows   #G[#rHQ#G]#w~
+You walk through the shadows on this dark and lonely path, not knowing
+where it leads only that you have a burning desaire to find yourself...  
+You may have a shorter journey than you would imagine.
+~
+0 24583 0
+D3
+~
+~
+0 0 14060
+S
+#0
+
+
+
+#SPECIALS
+M 14061 spec_cast_adept Load to: the ninja healer
+S
+
+
+
+#RESETS
+M 0 14061 1 14061
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

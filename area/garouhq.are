@@ -1,0 +1,502 @@
+#AREADATA
+Name        Wolf HQ~
+Builders    None~
+VNUMs       14020 14039
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#14020
+{x~
+Kinicky~
+Kinicky offers you clean towels and refreshments.
+~
+Kinicky is a strange looking being.  He is a mix of wolf and human, an
+evolutionary reject.  His eyes glow red, just as any wolf.  His mouth sports
+an impressive display of razor sharp teeth, but his face is covered in
+scarred masses of flesh and fur.  His body is a twisted form of human parts
+and wolven parts.  
+~
+67 128 1000 S
+283 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14021
+(null)~
+Fenris~
+Fenris patrols the area, looking for intruders.
+~
+Fenris is a very old werewolf.  One of the very first of Gaia's creations
+to actually survive birth, he is perfectly built.  His muscles ripple
+beneath his skin...  His ever-changing skin, turning from fur to skin and
+back to fur within seconds.  His jaw has a full set of deadly sharp teeth,
+his claws are coated with poison.  As you stare into his eyes, you feel a
+shiver tingle down your spine.  
+~
+8193 4727464 0 S
+977 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#14020
+garou moon ring luna~
+a {Yluna{x ring~
+A glowing rock, shaped into a ring~
+~
+9 0 3
+0 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+#14021
+garou moon collar luna~
+a {Yluna{x collar~
+A glowing rock, shaped into a collar~
+~
+9 0 5
+0 0 0 0
+1 0 0
+A
+18 15
+A
+19 15
+#14022
+garou moon luna chestplate~
+a {Yluna{xstone chestplate~
+A glowing chestplate, made of luna rock~
+~
+9 0 9
+0 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+#14023
+garou moon luna belt~
+a belt made of a {Ymoon{xbeam~
+A glowing belt, made of a moonbeam~
+~
+9 0 2049
+0 0 0 0
+1 0 0
+A
+18 15
+A
+19 15
+#14024
+luna garou helm~
+a {Yluna{x helm~
+A glowing {Yyellow{x helm~
+~
+9 0 17
+0 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+#14025
+luna garou shorts~
+a pair of {Yluna{x shorts~
+A floating pile of {Yluna{x material~
+~
+9 0 33
+0 0 0 0
+1 0 0
+A
+18 15
+A
+19 15
+#14026
+luna garou sandals~
+a pair of {Yluna{x sandals~
+A floating pile of {Yluna{x rocks~
+~
+9 0 65
+0 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+#14027
+luna garou gloves~
+a pair of {Yluna{x fingerless gloves~
+A floating pile of {Yluna{x woven material~
+~
+9 0 129
+0 0 0 0
+1 0 0
+A
+18 15
+A
+19 15
+#14028
+luna garou armguards~
+a pair of {Yluna{x armguards~
+A floating pile of {Yluna{x armguards~
+~
+9 0 257
+0 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+#14029
+luna garou beltpouch~
+A {Yluna{x beltpouch~
+A {Yluna{x beltpouch~
+~
+9 0 2049
+0 0 0 0
+1 0 0
+A
+18 15
+A
+19 15
+#14030
+luna garou wristband~
+a {Yluna{x wristband~
+A {Yluna{x wristband hums~
+~
+9 0 4097
+0 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+#14031
+luna garou muzzle~
+A {Yluna{x muzzle~
+A {Yluna{x muzzle~
+~
+9 0 -32767
+0 0 0 0
+1 0 0
+A
+18 15
+A
+19 15
+#0
+
+
+
+#ROOMS
+#14020
+A huge cavern.     {g[{RHQ{g]{x~
+The cavern pulses with a soft light, which is immediatly relaxing. 
+About, you can hear the scamper of small animals.  There is a portrait of
+Gaia, the creator, the Earth Mother, lovingly carved onto a large wall. 
+There are several smaller caves branching off from here, and a small sign
+floats before you.  
+~
+0 16387 0
+E
+gaia portrait painting~
+Gaia, a proud figure standing on a mountain top before a full moon
+cradles a small were-pup in her hands, howling to the Earth.  Tussled brown
+hair, a light green dress, eyes of life and fire...  Yes...  Wolves are a
+proud race.  
+~
+E
+sign~
+A sign has been scrawled into the bare rock.  It reads -
+To the north, I have prepared a safehaven for my bretheren.
+Above you, you shall find transport to local Caerns.
+To your east, a small haven for your leaders.
+The west, a specially prepared sanctity for sparring your bretheren.
+West then South, your exit to the world.
+ 
+Remember, if you can't trust a wolf, who CAN you trust?   -Fenris.
+~
+D0
+~
+~
+0 0 14021
+D1
+~
+~
+0 0 14023
+D3
+~
+~
+0 0 14022
+D4
+~
+~
+0 0 14033
+S
+#14021
+SafeHaven of the Wolves.    {g[{RHQ{g]{x~
+Darkness shrouds the room, as you dont need a lightsource to see.  As you
+focus your eyes, you notice a dark form walking towards you, almost
+hesitantly.  As it gets closer, you realise its Kinicky, Maintainer of the
+Wolves.  He hands you a towl with which to clean the sweat off you, and
+while you do that he picks off all the blood and gut fragments that cover
+you, stashing them in a bowl for later consumption.  
+~
+0 25607 0
+D2
+~
+~
+0 0 14020
+S
+#14022
+The Lighted Cave.    {g[{RHQ{g]{x~
+The walls are covered with blood, both new and old.  Here and there lay
+scattered bodyparts from dozens of mock battles.  A voice echoes inside your
+head...  "Practice, learn, and live."  
+~
+0 24579 0
+D1
+~
+~
+0 0 14020
+D2
+~
+~
+0 0 14025
+S
+#14023
+A brightly lit cave.    {g[{RHQ{g]{x~
+A bush sits in the middle of the cave, living off a soft natural light
+that radiates from the walls.  As you look closer, you briefly note it to be
+a lunar material.  Around the base of the bush there are small padded
+cushions.  Obviously this is where wolves come to relax and talk about their
+day.  
+~
+0 24579 0
+E
+bush~
+The bush is covered with berries and fruits of all kinds.  The plants
+leaves are a rich green, and you can see that the plant has never been sick
+in all its days.  No dead leaves are on the floor, and the plant itself
+looks flawless.  
+~
+D3
+~
+~
+0 0 14020
+S
+#14024
+The Lunar Portal~
+You stand above the caves of the Garou.  As you look around, you notice
+the closeness of the moon.  You're almost sure you can touch it.  The land
+around you is rich, dense forest.  Thin trails have been cut through the
+trees, and in a few places you can just make out the spires of castles and
+battlements.  
+~
+0 8192 3
+D5
+~
+~
+0 0 14020
+S
+#14025
+Passing through rich, green shrubbery.    {g[{RHQ{g]{x~
+As you enter this section of the cave, you see a beautifully manicured
+wall of green.  The most wondrous plants are here, offering you an escape to
+the main city, Midgaard.  
+~
+0 24583 0
+D0
+~
+~
+0 0 14022
+D4
+~
+~
+0 0 3001
+S
+#14030
+Caern of Bone~
+"For Gaia's sake!"  "You think this is a social visit?"  He jabbed
+angrily in the geezer's direction with the battered cue.  "I told you I was
+here carrying a formal message from uptown - a message you could've gotten
+sooner if you'd do us all a favor and install those secure lines already -
+and all we've done is drink cheap beer - cheap, warm beer - and shoot
+nineball with seven balls and warped cues on a table that I'd swear
+somebody's given birth on!"  He slammed his cue down for good measure.  "Now
+are you going to guide me to your caern, or should I just go home now and
+leave you to the sweepers?"  "You're already in the bawn, ya little snot. 
+You just didn't notice, what with that thick head and all."  The old man
+pointedly picked at a chunk of food between his teeth then jerked his head
+in the direction of the closed door at the far end of the room.  "I'll take
+you deeper when you're good and ready.  But for now, wouldja do me a favor
+and take your damn shot?!"  
+The Caern Galliard holds the Accord for this Tribe.
+~
+0 24579 0
+D5
+~
+~
+0 0 14033
+S
+#14031
+Caern of the Fenrir     #G[#rHQ#G]~
+The cheering had become deafening.  Four shields lay broken on the
+ground; now each combatant was on their last one.  They circled each other
+in Crinos, two massive grey hulks with heavy axes dangling from their paws. 
+The male had crouched low, almost on all fours; the female stood tall in a
+display of confidence.  Then, almost faster than the eye could follow, they
+leapt forward at one another.  The sound of splintering wood was bone
+chilling.  Howls of disappointment and elation mixed together as the male
+fell, clearly favoring the deep axe wound in his left arm.  
+The Caern Galliard holds the accord for this tribe.
+~
+0 24579 0
+D2
+~
+~
+0 0 14033
+S
+#14032
+Caern of Shadow     #G[#rHQ#G]~
+As you step into this shadowed glen you are overcome by an encompassing
+feeling of dread which leaves a cold knot in the pit of your stomach. 
+Looking around, the area is scattered with many skulls, gleaming wickedly in
+the light of the great Luna above.  In the center of the clearing is a large
+mound of skulls, from the top of which is standing a crude cross.  The
+desicated corpse of a dead Vampire is crucifed on the cross, a steak driven
+clean through it's heart.  Gouged from the corpse's chest is a crude
+representation of the sigil of the Shadow Lords, the cruel masters of this
+Caern.  Dark eyes gleam in the shadows all around and you decide it may be
+in your best interest to leave...  
+The Caern Galliard holds the Accord for this Tribe.
+~
+0 24579 0
+D0
+~
+~
+0 0 14033
+S
+#14033
+Caern of the Phoenix     #G[#rHQ#G]~
+When we stood against you Wyrmcomers, we fell.  When you stood in our
+homes against the wicked spirits that you'd brought with you, you fell.  Now
+we stand together, and if our totems are willing, we will not fall.  Our
+cunning and your savagery, our wisdom and your speed - it makes my heart
+burn to say that we need one another, but there is no other option.  Come. 
+Let us shed blood together.  -Weeping Stone, Uktena Philodox 
+ 
+Ancient as the Garou themselves, a blue flame soars to the heavens.
+~
+0 24579 0
+E
+flame~
+These are the names of our brothers and sisters.  They are all valiant
+and implacable Wyrmfoe.  
+#P=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-
+ 
+#b[#oStargazer#b]#n
+-Geist
+ 
+#b[#oGet of Fenris#b]#n
+-Sharpe   Chief
+-Jake   Shaman
+-Misty
+-WolfLord
+ 
+#b[#oBone Gnawers#b]#n
+-Haonbobin   Chief
+-Shiv   Shaman
+-Dragoon
+-Cedeloa
+-Malagant
+ 
+#b[#oRed Talons#b]#n
+-Sanka   Chief
+ 
+#b[#oShadow Lords#b]#n
+-Biblos   Chief
+-Annok   Shaman
+ 
+#b[#oRonin#b]#n
+-Nagra
+-Sorilas
+-Bastet
+~
+D0
+~
+~
+0 0 14031
+D1
+~
+~
+0 0 14034
+D2
+~
+~
+0 0 14032
+D4
+~
+~
+0 0 14030
+D5
+~
+~
+0 0 14020
+S
+#14034
+Caern of the Talon     #G[#rHQ#G]~
+I have nothing against you - you didn't choose where you were born.  I
+have nothing against your Kinfolk - they've learned respect for creatures
+other than themselfs.  But the apes down there, snug in their beds, feeding
+off the flesh of tortured prey and living on the land that was slashed and
+mutilated for their convenience - they are my enemies.  Out of respect for
+you, I will not hunt them...  Unless they give me a specific reason to do
+so.  If they do, then do not stand between me and my prey.  
+-Silent Moon of the Lodge of the Predator Kings
+~
+0 24579 0
+D3
+~
+~
+0 0 14033
+S
+#14039
+Behind the bushes.    {g[{RHQ{g]{x~
+The bushes fight you briefly for a second, before parting and allowing
+you through.  Thorns and prickles stick to your hair and clothing.  
+~
+0 24583 0
+D4
+~
+~
+0 0 14020
+S
+#0
+
+
+
+#SPECIALS
+M 14020 spec_cast_adept Load to: Kinicky
+M 14021 spec_clan_werewolf Load to: Fenris
+S
+
+
+
+#RESETS
+M 0 14021 1 14020
+M 0 14020 1 14021
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

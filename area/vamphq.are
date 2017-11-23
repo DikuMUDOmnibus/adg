@@ -1,0 +1,443 @@
+#AREADATA
+Name        Vampire HQ~
+Builders    None~
+VNUMs       14000 14019
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#14000
+(null)~
+A huge voshd~
+A huge voshd slavers on itself.
+~
+A voshd is a huge war ghoul created by melding numerous people into one huge body. This particular voshd stands 17 feet tall with 6 arms.
+~
+8257 4203176 0 S
+982 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14001
+{x~
+A totem Spirit~
+A dark shadow bares its fangs at you in greeting.
+~
+A huge spirit resembling a wolf.
+~
+67 8744 0 S
+321 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#14002
+no name~
+(no short description)~
+(no long description)~
+~
+1 0 0 S
+7 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#14000
+vampire ebony ring~
+an ebony ring~
+An ebony ring rolls to a stop at your feet~
+~
+9 0 3
+0 0 0 0
+1 1000000 0
+#14001
+vampire ebony collar~
+an ebony collar~
+A shimmering piece of ebony floats here~
+~
+9 0 5
+0 0 0 0
+1 0 0
+#14002
+vampire ebony plate~
+a glimmering ebony plate~
+A pile of bones lay here, clicking at you.~
+~
+9 0 9
+0 0 0 0
+1 0 0
+#14003
+vampire ebony skullcap~
+an ebony skullcap~
+A skullcap calls to you...take it...~
+~
+9 0 17
+0 0 0 0
+1 0 0
+#14004
+vampire ebony leggings~
+a pair of ebony leggings~
+A small pile of bones~
+~
+9 0 33
+0 0 0 0
+1 0 0
+#14005
+vampire ebony shoes~
+a pair of ebony shoes~
+A dangerous looking pair of shoes~
+~
+9 0 65
+0 0 0 0
+1 0 0
+#14006
+clawed ebony vampire gloves~
+a pair of ebony claws~
+A pair of wicked looking talos tap the ground~
+~
+9 0 129
+0 0 0 0
+1 0 0
+#14007
+ebony vampire sleeves~
+a pair of spiked ebony sleeves~
+A scattering of bones fly toward you~
+~
+9 0 257
+0 0 0 0
+1 0 0
+#14008
+cape vampyric flesh~
+a vampyric flesh-cape~
+A cape made of flesh lies here~
+~
+9 0 1025
+0 0 0 0
+1 0 0
+#14009
+vampire ebony belt~
+an ebony belt~
+A strip of ebony curls up at your approach~
+~
+13 0 2049
+0 0 0 0
+1 0 0
+#14010
+ebony bracelet vampire~
+an ebony bracelet~
+A small piece of ebony~
+~
+9 0 4097
+0 0 0 0
+1 0 0
+#14011
+ebony facemask vampire~
+an ebony mask~
+A small piece of ebony~
+~
+9 0 -32767
+0 0 0 0
+1 0 0
+#14012
+vampire sabre~
+a wicked looking sabre~
+A sabre is buried in the ground, blade first.~
+~
+5 0 8193
+0 25 50 3
+1 0 0
+#14019
+ceramic pot~
+a {yceramic{x pot~
+A {yceramic{x pot full of {Rblood{x stands here.~
+~
+17 0 0
+10000 10000 13 0
+0 0 0
+#0
+
+
+
+#ROOMS
+#14000
+The Vampire Elysium.   {g[{RHQ{g]{x~
+The Vampire Elysium is a dark crypt deep underground to avoid the suns rays. 
+On its walls hang human sized skulls their fangs still extended.
+~
+0 16387 0
+D0
+~
+~
+0 -1 14002
+D1
+~
+~
+0 -1 14003
+D3
+~
+~
+0 -1 14004
+D5
+~
+~
+0 0 14001
+S
+#14001
+The Portal Room.    {g[{RHQ{g]{x~
+This room has portals that lead to the clan halls.  Note these members
+names, they could be your enemies soon...  
+~
+0 24576 0
+D0
+~
+~
+0 0 14009
+D1
+~
+~
+0 0 14012
+D2
+~
+~
+0 0 14008
+D3
+~
+~
+0 0 14010
+D4
+~
+~
+0 0 14000
+D5
+~
+~
+0 0 14011
+S
+#14002
+The Sanctuary.    {g[{RHQ{g]{x~
+Blood drips off the walls, its source unknown.  A huge cross lays in the
+centre of the room, fallen, crashed.  The form of the soul nailed to it
+forlorn, a look of despair carved onto its ivory face.  The walls echo your
+footsteps, and you know that you are safe here.  
+~
+0 25607 0
+D2
+~
+~
+0 -1 14000
+S
+#14003
+The Slumber Chamber.    {g[{RHQ{g]{x~
+Vampires use this room to slumber during the day. 
+It contains 5 huge stone coffins each one decorated with a clan symbol denoting its owner.
+The Founders sleep lightly you had better leave before waking them.
+~
+0 24577 0
+D3
+~
+~
+0 -1 14000
+S
+#14004
+The blood bank.       {g[{RHQ{g]{x~
+The room contains many ceramic pots each one with a tube connecting it to a body hanging from the ceiling. A grizzly yet effient way of providing the vampires with blood.
+~
+0 24579 0
+D1
+~
+~
+0 -1 14000
+D3
+~
+~
+0 0 14005
+S
+#14005
+A swirling blood-red vortex.    {g[{RHQ{g]{x~
+A swirling vortex invites you to step into it, however you almost relish the evil
+vibes it sends out to you.
+~
+0 24583 0
+D1
+~
+~
+0 0 14004
+D4
+~
+~
+0 0 3001
+S
+#14008
+Room of Set    #G[#rHQ#G]#x~
+The walls in this room are covered in heiroglyphys, impossible to read
+unless your at least 4000 years old.  You are suddenly aware that the floor
+in this room is moving, you are afraid to look down but you force your eyes
+to look.  The floor is covered in deadly asps....  Someone really likes
+snakes!  
+There is a piece of parchment on the far wall, past the snakes, it has a list of names on it.
+~
+0 24583 0
+E
+Parchment~
+Here is a list of the Setite Clan Members.
+(note Anatole to update it)
+Primogen:  Memnok
+Princess:  Miasma
+Prince: Ikioi
+Prince: Eltharion
+~
+D0
+~
+~
+0 0 14001
+S
+#14009
+A Hall of Faces        #G[#rHQ#G]#x~
+This room depicts the ancient and proud lineage of the Tzimisce clan. 
+Pictures of grotesque, malformed but beautiful faces adorn each canvas.  The
+frames are made of some sort of material, then it strikes you.  The frames
+are made of bone, and the canvas...  The canvas appears to be made of skin,
+yes you realize now that these are not pictures of people, but are instead
+the people put into pictures.....  
+~
+0 24583 0
+E
+Pictures~
+These are pictures of the members of Clan Tzimisce.  Each picture is a
+human, remodelled into the face of a member of the clan.  
+The first and largest picture is of the clan founder.
+(See Anatole to update this list)
+ 
+Primogen: Scorn
+Childe: Mira
+Childe: Gond
+~
+D2
+~
+~
+0 0 14001
+S
+#14010
+A Dark Forest     #G[#rHQ#G]#x~
+This forest, once long ago was the home of the first Gangrel, it still is
+their home.  The trees here have animal skins hung up, each skin has a
+different set of writings on it.  The forest is dry and dark, with many
+animals for hungry vampires to feed off of, time passes slowly in this
+place.  
+One of the skins seems to have a list of names on it.
+~
+0 24583 0
+E
+Skin~
+This skin contains the names of the members to the Gangrel Clan.
+(Note Anatole to update this list)
+ 
+Primogen: Tanj
+ 
+ 
+ 
+~
+D1
+~
+~
+0 0 14001
+S
+#14011
+Desert Outpost     #G[#rHQ#G]#x~
+This old building has stood throughout time, it's location hidden by the
+ancients.  Even though the outpost is located in a desert, which sunlight
+perpetuates and saturizes, the inside is always dark.  A perfect place for
+Arabian secrets...  
+A contract written in Blood has been left on a table, it contains a few names.
+~
+0 24583 0
+E
+Contract~
+This contract contains a list of those who are Assamites.
+(Note Anatole to update this list)
+ 
+Primogen: Daen
+Child: Angel
+~
+D4
+~
+~
+0 0 14001
+S
+#14012
+An Entrance through the Veil   #G[#rHQ#G]#x~
+This is a simple room.  Stone walls, candles burning, well preserved rugs
+and strange occult markings on the floor.  However it is not the room that
+is special but instead is the fact that the veil between worlds is
+exceptionally thin here.  Cappadocians spend their time here learning about
+death and talking about how to control the creatures who exist after death. 
+There is a scrap of paper that hasn't got any arcane notes on it, instead there are names.
+~
+0 24583 0
+E
+Scrap~
+This is a list of the surviving Cappadocians.
+(Note Anatole to update this list)
+ 
+The original founder of this clan: Nero, has passed on,
+he has moved through the veil to discover what lies
+on the far side of mortality... he may yet return to us...
+ 
+Primogen: Sekhmet
+Prince: Nakago
+Child: Vesper
+Child: Prilath
+Child: Modi
+Child: Rayjuken
+Child: Prelin
+Child: Larse
+Child: Phoenix
+Child: Santiago
+Child: Plasma
+Child: Lucaz
+ 
+~
+D3
+~
+~
+0 0 14001
+S
+#14019
+Entrance to a dark crypt.    {g[{RHQ{g]{x~
+You've stumbled down a small flight of stairs into a crypt.  Ahead of you
+there is a small chamber, while you cant tell where you just came from. 
+Almost as if by magic...  
+~
+0 24581 0
+D0
+~
+~
+0 0 14000
+S
+#0
+
+
+
+#SPECIALS
+M 14000 spec_clan_vampires Load to: A huge voshd
+M 14001 spec_cast_adept Load to: A totem Spirit
+S
+
+
+
+#RESETS
+M 0 14000 1 14000
+O 0 14019 0 14004
+M 0 14001 1 14002
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1044 @@
+#AREADATA
+Name        Paradox Realms~
+Builders    Anatole~
+VNUMs       11200 11299
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#11288
+lag Monster~
+lag Monster~
+Lag Monster
+~
+~
+133 524328 0 S
+733 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#11294
+A Paradox God~
+The paradox sends fear through your soul...~
+This is a god of Paradox
+~
+~
+33 73898 8000 S
+1241 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#11295
+A Paradox Prince~
+Paradox Prince~
+A Prince of Paradox
+~
+~
+33 73898 100 S
+739 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#11296
+Paradox Priest~
+The Paradox Priest~
+The #R Paradox #B Priest
+~
+~
+71 40 1500 S
+174 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#11297
+Greater Paradox Spirit~
+Greater Paradox Spirit~
+This being is only one ruler of many in this domain, escape it's wrath if you can...
+~
+~
+33 8362 3000 S
+709 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#11298
+Lesser Paradox Spirit~
+Lesser Paradox Spirit~
+This holy spirit of paradox wanders this realm, protecting all spirits from the unholy wrath that is you.
+~
+~
+33 8874 2000 S
+375 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#11299
+Paradox Sentry~
+Paradox Sentry~
+The Paradox Sentry stands here watching for those who would try to escape
+~
+~
+33 40 1000 S
+211 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#11266
+anatole's Ritual Blade~
+anatole's Ritual Blade~
+Anatole's Ritual Blade lies here~
+~
+5 0 8193
+0 30 50 3
+0 0 0
+#11275
+paradox blade~
+a paradox blade~
+A paradox blade lies here embedded in the floor.~
+~
+5 323 8193
+0 20 100 3
+1 10000 0
+A
+18 20
+A
+19 20
+A
+13 150
+A
+14 150
+#11287
+lag Monster~
+lag Monster~
+A clay model of the lag monster~
+~
+1 1 1
+0 0 100 0
+0 0 0
+#11292
+A piece of Anatole's Birthday Cake~
+A piece of Anatole's Birthday Cake~
+A piece of Anatole's Birthday Cake~
+~
+19 1 8193
+100 0 0 0
+0 0 0
+#11296
+Paradox key~
+Paradox key~
+Paradox key~
+~
+18 8192 8192
+0 0 0 0
+0 0 0
+#11200
+#gMidouri#n~
+a bottle of #gMidouri#n~
+A bottle of #gMidouri#n, it seems to never run out...~
+~
+17 8193 1
+100 100 7 0
+0 0 0
+#0
+
+
+
+#ROOMS
+#11276
+Entrance to the Paradox Realms~
+This is an entrance to a realm of paradox...the spirits here
+were created by the misuse of magic, in fact the entire realm
+was created when one mage went out of control and attempted
+to control all creatures in Another Damn GodWars, instead
+this place was formed and he was killed instantly.
+Even though the mage is dead, this place remains as a lesson
+so that history doesn't repeat itself.
+Tread carefully inside this realm as death stalks the corridors
+and he is looking for a fight...
+~
+0 4 0
+D2
+~
+~
+0 0 11201
+D4
+~
+~
+0 0 1329
+S
+#11200
+Paradox Cell 1~
+You have been a very, very naughty player to have ended up here...
+~
+0 8192 0
+D3
+~
+~
+0 0 11201
+S
+#11201
+Main Paradox Corridor~
+This twisted corridor seems to run forever...
+~
+0 24576 0
+D0
+~
+~
+0 0 11276
+D1
+~
+~
+0 0 11200
+D2
+~
+~
+0 0 11202
+S
+#11202
+Main Paradox Corridor~
+This twisted corridor seems to run forever...
+ 
+~
+0 24576 0
+D0
+~
+~
+0 0 11201
+D1
+~
+~
+0 0 11203
+D2
+~
+~
+0 0 11204
+S
+#11203
+Paradox cell 2~
+You must have been a very, very naughty player to have ended up here...
+~
+0 8192 0
+D1
+~
+door~
+0 0 11202
+S
+#11204
+Main Paradox Corridor~
+This twisted corridor seems to run forever...
+~
+0 24576 0
+D0
+~
+~
+0 0 11202
+D1
+~
+~
+0 0 11205
+D2
+~
+~
+0 0 11206
+S
+#11205
+Paradox Cell 3~
+You must have been a very, very naughty player to have ended up here...
+~
+0 8192 0
+D1
+~
+door~
+0 11296 11204
+S
+#11206
+Main Paradox Corridor~
+This twisted corridor seems to run forever...
+ 
+~
+0 24576 0
+D0
+~
+~
+0 0 11204
+D1
+~
+~
+0 0 11207
+D2
+~
+~
+0 0 11208
+S
+#11207
+Paradox Cell 4~
+You must have been a very, very naughty player to have ended up here...
+~
+0 8192 0
+D1
+~
+door~
+0 11296 11206
+S
+#11208
+Main Paradox Corridor~
+This twisted corridor seems to run forever...
+~
+0 24576 0
+D0
+~
+~
+0 0 11206
+D1
+~
+~
+0 0 11209
+D2
+~
+~
+0 0 11210
+S
+#11209
+Paradox Cell 5~
+You must have been a very, very naughty player to have ended up here...
+~
+0 8192 0
+D1
+~
+door~
+0 11296 11208
+S
+#11210
+Main Paradox Corridor~
+This twisted corridor turns sharply Eastwards but still runs off to infinity...
+There is also a Brass door set into the Southern Wall with a sign posted on the door.
+~
+0 8192 0
+E
+Sign~
+From here inwards there is a no mob arena, you may use this for private
+duels against other players.  
+~
+D0
+~
+~
+0 0 11208
+D1
+~
+~
+0 0 11213
+D2
+~
+~
+0 0 11211
+S
+#11211
+Paradox Arena Entrance~
+This room is bare except for the door in the South wall. Above the door is
+the faded lettering of 'MAIN ARENA'.
+~
+0 8196 0
+D0
+~
+~
+0 0 11210
+D2
+~
+~
+0 0 11212
+S
+#11212
+Private PK Arena~
+This is a private PK Arena, the rules are simple and you will follow them,
+there will be no group PK'ing, no recalling or teleporting to or from this room
+and anyone brought here must know what it is for.
+~
+0 24580 0
+D0
+~
+~
+0 0 11211
+S
+#11213
+Main Paradox Corridor~
+The twisted corridor bends here and leads to the South.
+~
+0 8192 0
+D2
+~
+~
+0 0 11214
+D3
+~
+~
+0 0 11210
+S
+#11214
+Main Paradox Corridor~
+Once again the corridor twists and turns and heads East.
+~
+0 24576 0
+D0
+~
+~
+0 0 11213
+D1
+~
+~
+0 0 11215
+S
+#11215
+Main Paradox Corridor~
+There is an Ultraviolet door etched into the Southern wall, a plaque above it Reads:
+Paradox chapel may the infernal gods be kind to you.
+The corridor continues to the East.
+~
+0 24576 0
+D1
+~
+~
+0 0 11217
+D2
+~
+~
+0 0 11216
+D3
+~
+~
+0 0 11214
+S
+#11216
+Paradox Chapel~
+This dark, empty and lonely place is the home of the paradox priest.
+This creature craves, not the destruction of reality, but instead the
+preservation of life. It is for this reason that he waits here
+to heal lost travellers.
+~
+0 1028 0
+D0
+~
+~
+0 0 11215
+S
+#11217
+Paradox Staircase~
+Twisted stairs lead upward towards a never-ending spiral.
+ 
+~
+0 24576 0
+D3
+~
+~
+0 0 11215
+D4
+~
+~
+0 0 11218
+S
+#11218
+The Upper Levels of Paradox~
+This corridor at the top of the stairs is unlike the main paradox corridor, this one ends before it begins, what a strange place...
+~
+0 24580 0
+D1
+~
+~
+0 0 11219
+D4
+~
+~
+0 0 11244
+D5
+~
+~
+0 0 11217
+S
+#11219
+The Paradox Circle~
+Welcome to the Circle, no it isn't a maze (though it may seem like it) but a large circle of rooms.
+You must have been very good to have gotten this far, I wonder if you will survive up here though.
+~
+0 24576 0
+D0
+~
+~
+0 0 11220
+D2
+~
+~
+0 0 11242
+D3
+~
+~
+0 0 11218
+S
+#11220
+The Paradox Circle~
+Be wary young adventurer, these spirits don't take kindly to strangers.
+ 
+~
+0 24576 0
+D0
+~
+~
+0 0 11222
+D2
+~
+~
+0 0 11219
+D3
+~
+~
+0 0 11221
+S
+#11221
+Paradox of Destiny~
+Destiny, one of lifes many paradox's, is our future written before we are even born or does it get made up as we go along.
+Have a word with this Spirit and see what it has to say about the matter...
+~
+0 24582 9
+D1
+~
+~
+0 0 11220
+S
+#11222
+The Paradox Circle~
+Be wary young adventurer, these spirits don't take kindly to strangers
+~
+0 24576 0
+D1
+~
+~
+0 0 11223
+D2
+~
+~
+0 0 11220
+D3
+~
+~
+0 0 11224
+S
+#11223
+Paradox of Life~
+One of the largets paradox's in existence, have a debate about this but watch out, it may turn violent.
+~
+0 24576 0
+D3
+~
+~
+0 0 11222
+S
+#11224
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+ 
+~
+0 24576 0
+D0
+~
+~
+0 0 11225
+D1
+~
+~
+0 0 11222
+D3
+~
+~
+0 0 11226
+S
+#11225
+Paradox of Time~
+Does time exist or is it merely an illussion created by these cruel spirit. Kill it and find out.
+~
+0 0 0
+D2
+~
+~
+0 0 11224
+S
+#11226
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+~
+0 24576 0
+D0
+~
+~
+0 0 11227
+D1
+~
+~
+0 0 11224
+D2
+~
+~
+0 0 11228
+S
+#11227
+Paradox of Motion~
+Is all motion a lie, we really travel without moving or do we just stand still in life.... This spirit might know the answer...
+~
+0 24576 0
+D2
+~
+~
+0 0 11226
+S
+#11228
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+~
+0 24576 0
+D0
+~
+~
+0 0 11226
+D2
+~
+~
+0 0 11229
+D3
+~
+~
+0 0 11230
+S
+#11229
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+~
+0 24576 0
+D0
+~
+~
+0 0 11228
+D1
+~
+~
+0 0 11232
+D2
+~
+~
+0 0 11231
+S
+#11230
+Paradox of Religion~
+Is there a god? Is there an almighty being in the heavens that is omni-present? Or is it all a big joke?
+This spirit might know but it's not talking about it.
+Maybe it started the joke in the first place...
+~
+0 24576 0
+D1
+~
+~
+0 0 11228
+S
+#11231
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+~
+0 24576 0
+D0
+~
+~
+0 0 11229
+D1
+~
+~
+0 0 11233
+D2
+~
+~
+0 0 11234
+S
+#11232
+Paradox of Reason~
+This spirit plays with logic like a cat plays with anything that moves.
+No matter what happens you must believe whatever I tell you, everything I say is the truth. But I always lie. Is it still the truth?
+~
+0 24576 0
+D3
+~
+~
+0 0 11229
+S
+#11233
+Paradox of Reality~
+This spirit plays with reality, can you tell what is real and what is illusion anymore? well if you have managed to find this room you can't be too fooled by 
+it
+~
+0 24576 0
+D3
+~
+~
+0 0 11231
+S
+#11234
+The Paradox Circle~
+Be wary young adventurer these spirits don't take to kindly to strangers
+~
+0 24576 0
+D0
+~
+~
+0 0 11231
+D1
+~
+~
+0 0 11235
+D3
+~
+~
+0 0 11236
+S
+#11235
+Paradox of Dreams~
+This spirit seems to be able to command dreams themselves.... could you be dreaming now?
+Hmmmm.... I wonder.... could all of this MUD be a dream..... kill the spirit, you never know the dream might end...
+~
+0 24576 0
+D3
+~
+~
+0 0 11234
+S
+#11236
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+ 
+~
+0 24576 0
+D1
+~
+~
+0 0 11234
+D2
+~
+~
+0 0 11237
+D3
+~
+~
+0 0 11238
+S
+#11237
+Paradox of Control~
+Control is..well it's undescribable, when are you truely in control, be honest now..... the answer is never.
+This spirit has decided that he is in control are you going to argue with it?
+~
+0 24576 0
+D0
+~
+~
+0 0 11236
+S
+#11238
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+~
+0 24576 0
+D0
+~
+~
+0 0 11240
+D1
+~
+~
+0 0 11236
+D2
+~
+~
+0 0 11239
+S
+#11239
+Paradox of Mastery~
+Mastery....well it's not really a paradox but this spirit doesn't seem to care, teach it a lesson the lesson that you are really the master.
+~
+0 24576 0
+D0
+~
+~
+0 0 11238
+S
+#11240
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+ 
+~
+0 24576 0
+D0
+~
+~
+0 0 11242
+D2
+~
+~
+0 0 11238
+D3
+~
+~
+0 0 11241
+S
+#11241
+Paradox of Politics~
+Now this is one twisted little spirit, I can think of noone else who would ever create this evil force known as politics.
+Power corrupts and politics include supreme power, so kill this corrput spirit and remove politics from the AR.
+ 
+~
+0 24576 0
+D1
+~
+~
+0 0 11240
+S
+#11242
+The Paradox Circle~
+Be wary young adventurer these spirits don't take kindly to strangers.
+~
+0 24576 0
+D0
+~
+~
+0 0 11219
+D2
+~
+~
+0 0 11240
+D3
+~
+~
+0 0 11243
+S
+#11243
+Paradox of Emotions~
+How do you classify emotions? How do you explain them? as chemical imbalances? Maybe.
+but then Science can't explain paradox so why explain emotions...?
+~
+0 24576 0
+D1
+~
+~
+0 0 11242
+S
+#11244
+The Paradox Temple~
+You have chosen to visit the temple... How sweet, lets hope the Spirits see it like that...
+Be warned this area is only advisable for very, very tough players...
+Well don't say we didn't warn you.....
+~
+0 24580 0
+D0
+~
+~
+0 0 11245
+D1
+~
+~
+0 0 11249
+D5
+~
+~
+0 0 11218
+S
+#11245
+Paradox Alter~
+Welcome to the alter, are you prepared for sacrifice?
+~
+0 24576 0
+D0
+~
+~
+0 0 11247
+D1
+~
+~
+0 0 11246
+D2
+~
+~
+0 0 11244
+D3
+~
+~
+0 0 11248
+D4
+~
+~
+0 0 11246
+D5
+~
+~
+0 0 11248
+S
+#11246
+The Paradox Temple~
+You are deep inside the temple
+~
+0 24576 0
+D0
+~
+~
+0 0 11250
+D1
+~
+~
+0 0 11247
+D2
+~
+~
+0 0 11248
+D3
+~
+~
+0 0 11245
+D4
+~
+~
+0 0 11249
+D5
+~
+~
+0 0 11245
+S
+#11247
+The Paradox Temple~
+You are deep inside the temple
+~
+0 24576 0
+D1
+~
+~
+0 0 11248
+D2
+~
+~
+0 0 11245
+D3
+~
+~
+0 0 11246
+D4
+~
+~
+0 0 11250
+D5
+~
+~
+0 0 11249
+S
+#11248
+Paradox Temple~
+You are deep inside the temple
+~
+0 24576 0
+D0
+~
+~
+0 0 11246
+D1
+~
+~
+0 0 11245
+D2
+~
+~
+0 0 11249
+D3
+~
+~
+0 0 11247
+D4
+~
+~
+0 0 11245
+D5
+~
+~
+0 0 11250
+S
+#11249
+The Paradox Temple~
+You are deep inside the temple
+~
+0 24576 0
+D0
+~
+~
+0 0 11248
+D2
+~
+~
+0 0 11250
+D3
+~
+~
+0 0 11244
+D4
+~
+~
+0 0 11247
+D5
+~
+~
+0 0 11246
+S
+#11250
+The Paradox Temple~
+You are deep inside the temple
+~
+0 24576 0
+D0
+~
+~
+0 0 11249
+D2
+~
+~
+0 0 11246
+D4
+~
+~
+0 0 11248
+D5
+~
+~
+0 0 11247
+S
+#0
+
+
+
+#SPECIALS
+M 11288 spec_thief Load to: lag Monster
+M 11294 spec_cast_mage Load to: The paradox sends fear through your soul...
+M 11295 spec_cast_judge Load to: Paradox Prince
+M 11296 spec_cast_adept Load to: The Paradox Priest
+M 11297 spec_breath_any Load to: Greater Paradox Spirit
+M 11298 spec_cast_judge Load to: Lesser Paradox Spirit
+M 11299 spec_cast_mage Load to: Paradox Sentry
+S
+
+
+
+#RESETS
+M 0 11297 10 11239
+M 0 11294 2 11248
+E 0 11275 0 16
+M 0 11297 5 11222
+M 0 11295 10 11228
+M 0 11296 1 11216
+M 0 11298 20 11217
+M 0 11299 15 11210
+M 0 11299 15 11204
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

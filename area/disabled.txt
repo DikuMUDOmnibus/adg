@@ -1,0 +1,14 @@
+darkness 12 Tracker
+mastery 12 Tracker
+spiritgrip 12 Tracker
+entomb 12 Tracker
+bridgegate 12 Tracker
+stake 12 Tracker
+switch 12 Tracker
+quicksand 12 Tracker
+snarl 12 Tracker
+itempurge 12 Tracker
+voodoo 12 Tracker
+cannibal 12 Tracker
+hatch 12 Tracker
+END

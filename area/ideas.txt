@@ -1,0 +1,14 @@
+[ 8125] TsunamI: necklace
+[   19] Desulupine: corpse
+[30009] Cyrus: wak
+[30009] Mintor: wak
+[31903] Josephine: sword
+[ 3001] Genebiel: sword
+[ 3744] Genebiel: sword
+[ 3016] Darcy: quest
+[ 8011] Darcy: set up the who list, so that all players will be listed, including the invisable ones.
+[ 3722] Pjatabe: branoi
+[ 3722] Pjatabe: brain
+[19208] Laeh: book
+[ 2214] Sheol: tant
+[    1] Mystical: Fart

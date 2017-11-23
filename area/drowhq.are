@@ -1,0 +1,119 @@
+#AREADATA
+Name        Drow HQ~
+Builders    None~
+VNUMs       14120 14139
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#14120
+(null)~
+A Giant Man-Spider~
+A Giant Man-Spider skulks about here.
+~
+The Drow guardian is really fucking hard, don't even try it.
+~
+65 4235944 -1000 S
+992 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14121
+(null)~
+the drow healer~
+The drow healer stands here healing people.
+~
+The drow healer is not to be fucked with.
+ 
+~
+67 4235944 -1000 S
+276 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14120
+Drow City #G(#rHQ#G)#w~
+The underground caverns of Drow City are vast.  Cobwebs line the cavern
+walls and a huge man-spider statue sits in the direct centre of the city. 
+It is here that the Drow live and they will defend this realm with their
+lives.  
+~
+0 16389 0
+D0
+~
+~
+0 -1 14121
+D1
+~
+~
+0 0 14122
+D4
+~
+~
+0 0 3001
+S
+#14121
+Shrine to Lloth.     #G[#rHQ#G]#n~
+This is the Shrine to Lloth, many evil things come to pray here.
+~
+0 25605 0
+D2
+~
+~
+0 -1 14120
+S
+#14122
+A Cobweb Filled Room #G[#rHQ#G]#w~
+This is a very small room that has been chisled straight out of the
+caves, it has been lined with cobwebs and will comfortably fit two people.  
+~
+0 25091 0
+D3
+~
+~
+0 0 14120
+S
+#14139
+A Very High Subterranean Cliff #G(#rHQ#G)#w~
+This verticle cliff that you stand atop falls deep into darkness, parts
+of it are covered in cobwebs, you would need to have a hell of a lot of
+skill and luck to get down this cliff in one piece.  
+~
+0 24583 0
+D5
+~
+~
+0 0 14120
+S
+#0
+
+
+
+#SPECIALS
+M 14121 spec_cast_adept Load to: the drow healer
+S
+
+
+
+#RESETS
+M 0 14121 1 14121
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

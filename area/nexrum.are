@@ -1,0 +1,1461 @@
+#AREADATA
+Name        Nexrum's Knights~
+Builders    Nexrum~
+VNUMs       31700 31799
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#31701
+A Knight of the Past~
+Knight of the Past~
+A Knight of the Past stands here.
+~
+~
+65 4194816 0 S
+350 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31702
+Emperor~
+the Emperor~
+A Little boy sits lost in his robes.
+~
+~
+131 0 0 S
+163 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31703
+Empress~
+Empress~
+The Empress sits here.
+~
+~
+131 0 0 S
+154 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31704
+Counselors~
+Counselor~
+A Counselor is here thinking of politics
+~
+~
+129 0 0 S
+128 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31705
+Peasants~
+Peasant~
+A peasant is here working very hard.
+~
+~
+1 0 0 S
+154 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31706
+Gar~
+a Gar~
+A Gar starts to charge towards you
+~
+~
+65 4228608 0 S
+302 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31707
+Emperor's Gaurd~
+Gaurd~
+The Emperor's Guard stands here blocking your way.
+~
+~
+3 4203008 0 S
+367 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#31744
+Entrance to the Secret Chambers~
+A small tunnle leads off into the distance.  You think it's for servants,
+so that guests dont see thos lower than them, as packed dirt should not be
+walked on my noble people.  
+~
+0 0 0
+D3
+~
+~
+0 0 31745
+D4
+~
+~
+0 0 31721
+S
+#31745
+Torch-lit Passage~
+As you go deeper into the tunnle it seems less suited as a servants
+tunnel.  It seems to be very clean, and it's a proper floor that you are
+walking on.  Not just packed dirt...  
+~
+0 0 0
+D1
+~
+~
+0 0 31744
+D2
+~
+~
+0 0 31755
+D3
+~
+~
+0 0 31761
+S
+#31746
+Concealed Taoist Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 31747
+D1
+~
+~
+0 0 31751
+S
+#31747
+Concealed Taoist Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 31748
+D1
+~
+~
+0 0 31750
+D2
+~
+~
+0 0 31746
+S
+#31748
+Concealed Taoist Temple~
+~
+0 0 0
+D1
+~
+~
+0 0 31749
+D2
+~
+~
+0 0 31747
+S
+#31749
+Concealed Taoist Temple~
+~
+0 0 0
+D1
+~
+~
+0 0 31754
+D2
+~
+~
+0 0 31750
+D3
+~
+~
+0 0 31748
+S
+#31750
+Concealed Taoist Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 31749
+D1
+~
+~
+0 0 31753
+D2
+~
+~
+0 0 31751
+D3
+~
+~
+0 0 31747
+S
+#31751
+Concealed Taoist Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 31750
+D1
+~
+~
+0 0 31752
+D3
+~
+~
+0 0 31746
+S
+#31752
+Concealed Taoist Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 31753
+D3
+~
+~
+0 0 31751
+S
+#31753
+Concealed Taoist Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 31754
+D2
+~
+~
+0 0 31752
+D3
+~
+~
+0 0 31750
+S
+#31754
+Concealed Taoist Temple~
+~
+0 0 0
+D2
+~
+~
+0 0 31753
+D3
+~
+~
+0 0 31749
+S
+#31755
+Shadowed Corner~
+A smaller side tunnle leads off from the main one.  There are runners
+along the ground which seem to have been used for moving large kegs.  
+~
+0 0 0
+D0
+~
+~
+0 0 31745
+D1
+~
+~
+0 0 31756
+S
+#31756
+Dimly-Lit Passage~
+This passage seems to be leading downwards to some sort of storage room. 
+The tunnle slowly widens.  
+~
+0 0 0
+D2
+~
+~
+0 0 31757
+D3
+~
+~
+0 0 31755
+S
+#31757
+Abandoned Storage Room~
+The tunnle widens out into a large storage area.  Spider webs and dust
+are the only thigs here now.  
+~
+0 0 0
+D0
+~
+~
+0 0 31756
+D2
+~
+~
+0 0 31758
+D3
+~
+~
+0 0 31760
+S
+#31758
+Abandoned Storage Room~
+The tunnle widens out into a large storage area.  Spider webs and dust
+are the only thigs here now.  
+~
+0 0 0
+D0
+~
+~
+0 0 31757
+D3
+~
+~
+0 0 31759
+S
+#31759
+Abandoned Storage Room~
+The tunnle widens out into a large storage area.  Spider webs and dust
+are the only thigs here now.  
+~
+0 0 0
+D0
+~
+~
+0 0 31760
+D1
+~
+~
+0 0 31758
+S
+#31760
+Abandoned Storage Room~
+The tunnle widens out into a large storage area.  Spider webs and dust
+are the only thigs here now.  
+~
+0 0 0
+D1
+~
+~
+0 0 31757
+D2
+~
+~
+0 0 31759
+S
+#31761
+The Gilded Ladder~
+An iron ladder is in frount of you.  As you start climbing the ladder you
+start making out a faint glow at the top.  
+~
+0 25600 0
+D1
+~
+~
+0 0 31745
+D4
+~
+~
+0 0 31772
+S
+#31762
+The Emperor's Bed Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 31769
+D2
+~
+~
+0 0 31763
+D3
+~
+~
+0 0 31768
+S
+#31763
+The Emperor's Bed Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 31762
+D3
+~
+~
+0 0 31764
+S
+#31764
+The Emperor's Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 31768
+D1
+~
+~
+0 0 31763
+D3
+~
+~
+0 0 31765
+S
+#31765
+The Emperor's Bed Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 31766
+D1
+~
+~
+0 0 31764
+S
+#31766
+The Emperor's Bed~
+~
+0 0 0
+D0
+~
+~
+0 0 31771
+D1
+~
+~
+0 0 31768
+D2
+~
+~
+0 0 31765
+D3
+~
+~
+0 0 31767
+S
+#31767
+The Mistress' Secret Entrance~
+~
+0 0 0
+D1
+~
+~
+0 0 31766
+S
+#31768
+The Emperor's Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 31770
+D1
+~
+~
+0 0 31762
+D2
+~
+~
+0 0 31764
+D3
+~
+~
+0 0 31766
+S
+#31769
+The Emperor's Bed Chamber~
+~
+0 0 0
+D2
+~
+~
+0 0 31762
+D3
+~
+~
+0 0 31770
+S
+#31770
+The Emperor's Bed Chamber~
+~
+0 0 0
+D1
+~
+~
+0 0 31769
+D2
+~
+~
+0 0 31768
+D3
+~
+~
+0 0 31771
+S
+#31771
+The Emperor's Bed Chamber~
+~
+0 0 0
+D1
+~
+~
+0 0 31770
+D2
+~
+~
+0 0 31766
+S
+#31772
+Top of the Ladder~
+At the top of the ladder you climb into a small room.  There is only one
+exit, a small drain covering in the room.  As you streach out to it a 'lid'
+slides over the ladder cutting off ur escape.  The only way is on.  
+~
+0 4 0
+D4
+~
+~
+0 0 8006
+S
+#31700
+#bStone Archway~
+You enter a dark sandstone archway, which seems to lead off into the distance.
+~
+0 4 0
+D0
+~
+~
+0 0 31701
+D4
+~
+~
+0 0 2356
+S
+#31701
+Entrance to the Forbidden City~
+The land is dry and barren.  A once mighty road is now no more than
+rubble.  Walking slowy as not to trip on any of the lose rock you look
+around, The land scape around the road and almost as far as you can see has
+been torn apart by warfare.  Great holes in the land show where explosions
+have been.  
+~
+0 0 0
+D0
+~
+~
+0 0 31702
+D2
+~
+~
+0 0 31700
+S
+#31702
+Outer Courtyard~
+Somehow the courtyard is still as new as it was when it was first built. 
+Small gardens line the pathes with bright blues and reds.  The ground keeper
+must have there work cut out for them.  
+~
+0 0 0
+D0
+~
+~
+0 0 31710
+D1
+~
+~
+0 0 31714
+D2
+~
+~
+0 0 31701
+D3
+~
+~
+0 0 31703
+S
+#31703
+Southwestern Corner~
+It has the look of a thousand years and a thousand battles.  It still
+seems as strong now as when it was first built.  It is the SouthWest wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 31704
+D1
+~
+~
+0 0 31702
+S
+#31704
+Western Wall~
+The Western wall, standing now as when first built.  
+~
+0 0 0
+D0
+~
+~
+0 0 31705
+D2
+~
+~
+0 0 31703
+S
+#31705
+Northwestern Corner~
+A lookout tower stands in the NorthWest wall...empty.
+The gaurds no longer needed.
+~
+0 0 0
+D1
+~
+~
+0 0 31710
+D2
+~
+~
+0 0 31704
+D3
+~
+~
+0 0 31706
+S
+#31706
+Guards Quarters~
+The sentry on gaurd seems to be half-asleap.  He knows nothing is going
+to happen..  It never has.  
+~
+0 0 0
+D1
+~
+~
+0 0 31705
+D2
+~
+~
+0 0 31707
+D3
+~
+~
+0 0 31709
+S
+#31707
+Guards Quarters~
+The gaurd are all of duty here and they all are relly bothered that your
+interupting them.  That is interupting there sleep.  
+They have a very hard job you know...
+~
+0 0 0
+D0
+~
+~
+0 0 31706
+D3
+~
+~
+0 0 31708
+S
+#31708
+Guards Quarters~
+This room is the stereotype of the 'summer camp'.  Old bunk-beds, that
+look as if they are going to fall down at any time, line the walls.  Small
+chests sit up against the foot of each bed most of them with a rusted lock
+on them.  
+~
+0 0 0
+D0
+~
+~
+0 0 31709
+D1
+~
+~
+0 0 31707
+S
+#31709
+Guards Quarters~
+This is the officers mess.  And it's just that.  Chairs, tables, bottles,
+everythings scattered all over the place.  Must have been one hell of a
+party..  
+~
+0 0 0
+D1
+~
+~
+0 0 31706
+D2
+~
+~
+0 0 31708
+S
+#31710
+Center of the Courtyard~
+As you approach the center of the courtyard a huge fountain rises out of
+the ground infrount of you.  It was built by the secound Emperor to the
+gods.  
+~
+0 0 0
+D0
+~
+~
+0 0 31711
+D1
+~
+~
+0 0 31713
+D2
+~
+~
+0 0 31702
+D3
+~
+~
+0 0 31705
+S
+#31711
+Northern Wall~
+This is the North wall.  It has the look of a thousand years and a
+thousand battles.  It still seems as strong now as when it was first built. 
+~
+0 0 0
+D0
+~
+~
+0 0 31719
+D1
+~
+~
+0 0 31712
+D2
+~
+~
+0 0 31710
+S
+#31712
+Northeastern Corner~
+An opening in the wall leads of to training grounds to the east.  This
+seem to be where the men come when there off duty.  
+~
+0 0 0
+D1
+~
+~
+0 0 31715
+D2
+~
+~
+0 0 31713
+D3
+~
+~
+0 0 31711
+S
+#31713
+Eastern Wall~
+This is the Eastern wall.  It has the look of a thousand years and a
+thousand battles.  It still seems as strong now as when it was first built. 
+~
+0 0 0
+D0
+~
+~
+0 0 31712
+D2
+~
+~
+0 0 31714
+D3
+~
+~
+0 0 31710
+S
+#31714
+Southeastern Corner~
+A lookout tower stands here, half of it falling down.  It's not used
+anymore at least..  Nor has it in a long time.  
+~
+0 0 0
+D0
+~
+~
+0 0 31713
+D3
+~
+~
+0 0 31702
+S
+#31715
+Barracks~
+Weapons of all types are on the walls and on stands.  This is the
+barracks.  The men seem to be always on the edge as if constant war is just
+a eye blink away.  
+~
+0 0 0
+D2
+~
+~
+0 0 31716
+D3
+~
+~
+0 0 31712
+S
+#31716
+Musty Barracks~
+This part of the barracks seems to have been forgoten.  Size the army has
+never been used it has grown smaller over the years.  Now there is no need
+for these rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 31715
+D1
+~
+~
+0 0 31717
+S
+#31717
+Back Corner of Barracks~
+This part of the barracks seems to have been forgoten.  Now there is no
+need for these rooms.  This back area seems to have been a storage room. 
+Rusted armor and weapons are still on the racks they were left on.  
+~
+0 0 0
+D0
+~
+~
+0 0 31718
+D3
+~
+~
+0 0 31716
+S
+#31718
+Barracks Lock Room~
+This room seems to have never been opened.  It has a large table in the
+center that used to have maps of the area on it.  There's just a pile of
+dust and spider webs now.  
+~
+0 0 0
+D2
+~
+~
+0 0 31717
+S
+#31719
+Grand Corridor~
+The corridor is grafted with gold and silver the like you have never
+seen.  Rose petals line the walls and seem to have been grown, not carved. 
+Pantings of the old rulers line the walls.  Emperor's of the past of the
+right, Empress' on the left.  
+~
+0 0 0
+D0
+~
+~
+0 0 31720
+D2
+~
+~
+0 0 31711
+S
+#31720
+Grand Corridor~
+You walk along the corridor amazed at the quality of the craftmanship. 
+It seems almost imposible for this kind of work to be done...  But yet it's
+right in frount of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 31722
+D1
+~
+~
+0 0 31721
+D2
+~
+~
+0 0 31719
+S
+#31721
+Hidden Room~
+A small section of the wall look off to your eyes.  When pushed a small
+section of the wall comes away.  Entering you come into a small room. 
+Theres holes in the wall at diffrent levels.  They seem to look into other
+rooms.  
+~
+0 0 0
+D3
+~
+~
+0 0 31720
+D5
+~
+~
+0 0 31744
+S
+#31722
+Grand Corridor~
+You walk along the corridor amazed at the quality of the craftmanship. 
+It seems almost imposible for this kind of work to be done...  But yet it's
+right in frount of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 31723
+D2
+~
+~
+0 0 31720
+S
+#31723
+#gInner Courtyard~
+As you emerge from the corridor a flood of light assails your senses and
+you find yourself in a beautiful inner courtyard.  Ahead of you is a gilded
+fountain and the walls are lined with fragrant flowers and herbs.  
+~
+0 0 0
+D0
+~
+~
+0 0 31728
+D1
+~
+~
+0 0 31729
+D2
+~
+~
+0 0 31722
+D3
+~
+~
+0 0 31724
+S
+#31724
+#gIvy Corner~
+Curly tendrils of ivy embrace the marble wall here, their slender vines
+climbing ever skyward.  Large, broad leaves fringed with crimson and gold
+reach out for the last bit of sunlight.  
+~
+0 0 0
+D0
+~
+~
+0 0 31725
+D1
+~
+~
+0 0 31723
+S
+#31725
+#rCampion Wall~
+Crimson campion flowers fill planters all about you, their fragrant aroma
+clearing your senses.  Small, delicate petals rustle in a soft breeze, and
+their astounding color almost seems to enable you to see better.  Then
+again, it may just be your imagination.  
+~
+0 0 0
+D0
+~
+~
+0 0 31726
+D1
+~
+~
+0 0 31728
+D2
+~
+~
+0 0 31724
+S
+#31726
+Guelder Rose Corner~
+Pale, small white flowers bloom here.  Though not fragrant, their petals
+are soft and pleasing to the touch.  The broad green leaves of the rose
+plant seem to shine and glisten in the setting sun.  
+~
+0 0 0
+D1
+~
+~
+0 0 31727
+D2
+~
+~
+0 0 31725
+S
+#31727
+#yGaillardia Wall~
+A pair of carved, delicate wooden doors stand before you, surrounded by
+bright, vibrant red and orange Gaillardia flowers.  Small petals piled layer
+upon layer give the flowers an air of omnipotence as they tower above all
+other flowers within the garden.  
+~
+0 0 0
+D0
+~
+~
+0 0 31732
+D1
+~
+~
+0 0 31731
+D2
+~
+~
+0 0 31728
+D3
+~
+~
+0 0 31726
+S
+#31728
+#yGilded Fountain~
+Here you find yourself beside an enormous, three tiered fountain.  On the
+top, three golden koi spit water into the air, only for it to rain down upon
+the second tier.  The water is crystal clear, and seems to sing as it spills
+from the second tier into the large pool of the third.  Gold leaf decorates
+the ornate fountain, tracing the curves of the rim.  The water seems to beg
+to be drinked, and your lips begin to ache with the need to quench your
+thirst.  
+~
+0 0 0
+D0
+~
+~
+0 0 31727
+D1
+~
+~
+0 0 31730
+D2
+~
+~
+0 0 31723
+D3
+~
+~
+0 0 31725
+S
+#31729
+#pSnapdragon Corner~
+As you near this corner you find yourself surrounded by every color of
+the rainbow, reds, yellows, blues, greens, purples, oranges.  Snapdragons,
+about two feet tall, grow all about you, their flowers looking similair to
+the heads of a frilly dragon.  Pulling down upon the lower part of the
+flower, you see that it opens, creating a large mouth for the dragon.  You
+notice a dried up flower, and pluck it from the stem, only to find it
+crumble in your hand, leaving dozens of small black seeds within the palm of
+your hand.  
+~
+0 0 0
+D0
+~
+~
+0 0 31730
+D3
+~
+~
+0 0 31723
+S
+#31730
+#bLily Pond~
+Here you find a small, delicate lily pond.  Large pink, white and yellow
+blossoms seem to glide across the water's surface, weaving amongst the lily
+pads.  A large white heron stands on silent vigilance over the pond, a wary
+eye watching for unsuspecting koi.  Along the water's edge, long vines of
+algae creep into the pond, their green color adding depth and beauty to the
+pond.  Legend has it that this very algae gave the Emperor's Dragon the
+strength needed to raise the sun.  
+~
+0 0 0
+D0
+~
+~
+0 0 31731
+D2
+~
+~
+0 0 31729
+D3
+~
+~
+0 0 31728
+S
+#31731
+#oTea Tree Corner~
+Within this corner you find a small grove of tea trees, their aroma
+reaching out to you and making your eyes and nose tingle.  A crisp, clean
+smell permeates the area, almost smelling of mint and rosemary.  The tea
+tree's thin, needle-like leaves branch out and give shade to a path of moss
+across the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 31730
+D3
+~
+~
+0 0 31727
+S
+#31732
+#rEntrance to the Throne Room~
+As you enter the throne room, you find yourself assaulted with colors of
+mahogany and crimson, with gold and jade.  The floor is of rich marble and
+large candles line the walls about the room.  The Emperor's guards eye the
+room warily, and to the north you see the Emperor himself, sitting beside
+the Empress.  
+~
+0 0 0
+D0
+~
+~
+0 0 31737
+D1
+~
+~
+0 0 31738
+D2
+~
+~
+0 0 31727
+D3
+~
+~
+0 0 31733
+S
+#31733
+#eA Concealed Corner~
+You slip behind a large, ornate carving made of wood, and find yourself
+in a concealed corner from where you can peek through the lattice of the
+wood and watch all of the Throne Room.  
+~
+0 0 0
+D0
+~
+~
+0 0 31734
+D1
+~
+~
+0 0 31732
+S
+#31734
+#RThrone Room~
+In this part of the Throne Room you find yourself surrounded with the
+Emperor's counselors, each arguing over the day's newest political topic. 
+The smell of ink and incense waft from their robes, and you determine
+quickly that these men have no other life than those the Emperor wishes to
+give them.  
+~
+0 0 0
+D0
+~
+~
+0 0 31735
+D1
+~
+~
+0 0 31737
+D2
+~
+~
+0 0 31733
+S
+#31735
+#RThrone Room~
+Here you find yourself surrounded by the Emperor's servants, each
+bustling with a tray filled with exotic delicacies.  At all meals the
+Emperor demands 130 different meals, and these servants are constantly
+hurrying to fulfill the Emperor's slightest wish.  Their lives depend upon
+it.  
+~
+0 0 0
+D1
+~
+~
+0 0 31736
+D2
+~
+~
+0 0 31734
+S
+#31736
+#bEmperor's Dais~
+Suddenly you find yourself upon a large dais, and as you turn about, you
+find yourself standing beside the Emperor himself.  But what is this?  Upon
+closer inspection you realize that the Emperor is no more than a boy.  His
+clothes appear too large, as does his position upon the throne.  
+~
+0 0 0
+D1
+~
+~
+0 0 31740
+D2
+~
+~
+0 0 31737
+D3
+~
+~
+0 0 31735
+S
+#31737
+#RThrone Room~
+All about you, guards, servants, councilors, handmaid's and those seeking
+the Emperor's counsel bustle about you.  To your north you seem an
+impressive dais raise over the room, casting a foreboding air across the
+floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 31736
+D1
+~
+~
+0 0 31739
+D2
+~
+~
+0 0 31732
+D3
+~
+~
+0 0 31734
+S
+#31738
+Throne Room~
+The smell of ink and incense waft from their robes, and you determine
+quickly that these men have no other life than those the Emperor wishes to
+give them.  
+These are the Emperor's counselors.
+~
+0 0 0
+D0
+~
+~
+0 0 31739
+D1
+~
+~
+0 0 31743
+D3
+~
+~
+0 0 31732
+S
+#31739
+Throne Room~
+All about you, guards, servants, councilors, handmaid's and those seeking
+the Empress' audience bustle about you trying to be noticed and perhaps win
+favour.  
+~
+0 0 0
+D0
+~
+~
+0 0 31740
+D1
+~
+~
+0 0 31742
+D2
+~
+~
+0 0 31738
+D3
+~
+~
+0 0 31737
+S
+#31740
+#bEmpress' Dais~
+Sitting here demurely, you find the Empress.  Perhaps in her early
+twenties, the Empress is pale of skin, and seems to have spent all her life
+beneath the shelter of a roof.  Her eyes cast downward, she seems to not
+notice your presence.  
+~
+0 0 0
+D1
+~
+~
+0 0 31741
+D2
+~
+~
+0 0 31739
+D3
+~
+~
+0 0 31736
+S
+#31741
+Throne Room~
+Here you find yourself surrounded by the Emperor's servants, each
+bustling with a tray filled with exotic delicacies.  At all meals the
+Emperor demands 130 different meals, so the Empress' has them as well. 
+Altho she has never eating anything in court, it would insult the guests if
+she didnt have the meal there .  
+
+~
+0 0 0
+D2
+~
+~
+0 0 31742
+D3
+~
+~
+0 0 31740
+S
+#31742
+Throne Room~
+Around you are the clans men and allies to the Emperor and the City. 
+Some of them are talking as loud as they dear to brag about there victories,
+while other are talking in hushed whispers about current situations.  
+~
+0 0 0
+D0
+~
+~
+0 0 31741
+D2
+~
+~
+0 0 31743
+D3
+~
+~
+0 0 31739
+S
+#31743
+Concealed Corner~
+You slip behind a large, ornate carving made of wood, and find yourself
+in a concealed corner from where you can peek through the lattice of the
+wood and watch all of the Throne Room.  
+~
+0 0 0
+D0
+~
+~
+0 0 31742
+D3
+~
+~
+0 0 31738
+S
+#0
+
+
+
+#SPECIALS
+M 31701 spec_guard Load to: Knight of the Past
+M 31706 spec_cast_undead Load to: a Gar
+M 31707 spec_breath_any Load to: Gaurd
+S
+
+
+
+#RESETS
+M 0 31701 5 31701
+M 0 31701 2 31701
+M 0 31701 5 31714
+M 0 31701 2 31714
+M 0 31701 4 31715
+M 0 31701 8 31710
+M 0 31701 5 31706
+M 0 31701 1 31706
+M 0 31701 2 31723
+M 0 31701 5 31726
+M 0 31701 1 31726
+M 0 31701 1 31731
+M 0 31701 5 31732
+M 0 31701 4 31732
+M 0 31702 1 31736
+M 0 31703 1 31740
+M 0 31704 5 31738
+M 0 31704 5 31734
+M 0 31705 3 31702
+M 0 31705 3 31713
+M 0 31706 5 31756
+M 0 31706 2 31756
+M 0 31706 1 31758
+M 0 31705 1 31708
+M 0 31707 1 31736
+M 0 31701 10 31710
+M 0 31701 10 31710
+M 0 31701 5 31706
+M 0 31701 10 31710
+M 0 31701 6 31715
+M 0 31701 8 31723
+M 0 31701 20 31716
+M 0 31701 6 31729
+M 0 31701 6 31727
+M 0 31701 6 31731
+M 0 31701 5 31714
+M 0 31701 5 31714
+M 0 31701 5 31703
+M 0 31701 5 31703
+M 0 31701 5 31705
+M 0 31701 5 31708
+M 0 31701 5 31711
+M 0 31701 5 31711
+M 0 31701 5 31720
+M 0 31701 5 31730
+M 0 31701 5 31731
+M 0 31701 5 31725
+M 0 31701 5 31732
+M 0 31701 5 31732
+M 0 31701 5 31733
+M 0 31701 6 31737
+M 0 31706 67 31717
+M 0 31706 6 31712
+M 0 31706 6 31720
+M 0 31706 6 31745
+M 0 31701 40 31713
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,133 @@
+#AREADATA
+Name        Monk HQ~
+Builders    None~
+VNUMs       14100 14119
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#14100
+(null)~
+the monk guardian~
+The monk guardian skulks about here.
+~
+The Monk guardian is really fucking hard, don't even try it.
+~
+65 4235944 1000 S
+997 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14101
+(nope)~
+the monk healer~
+The monk healer stands here healing people.
+~
+The monk healer is not to be fucked with.
+~
+67 4235944 1000 S
+302 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14100
+The Monk Temple.     #G[#rHQ#G]#n~
+This tranquil temple high up on the mountainous peaks in isolation is the
+home to the monks.  The temple is surrounded by herb and vegetable gardens,
+there is a pool of fish and a small orchard just outside the temple.  To the
+North you can make out some sort of shrine, and to the east a large hall.  
+~
+0 16391 0
+D0
+~
+~
+0 -1 14101
+D1
+~
+~
+0 0 14103
+D5
+~
+~
+0 0 3001
+S
+#14101
+Monk Shrine.     #G[#rHQ#G]#n~
+This is the Shrine of the Monks.  They come here to meditate on many of
+life's different aspects and to rest in seclusion and safety from the rest
+of the world.  
+~
+0 25605 0
+D2
+~
+~
+0 -1 14100
+S
+#14102
+Inner-Sanctum   #G[#rHQ#G]#w~
+This is a private and holy place where monks may congregate in private to
+worship their god and commune with each other.  
+~
+0 25091 0
+D2
+~
+~
+0 0 14103
+S
+#14103
+Outer-Sanctum  #G[#rHQ#G]#w~
+This is the Outer-Sanctum of the temple, it here where monks from the
+various orders may congregate in harmony.  
+~
+0 24579 0
+D0
+~
+~
+0 0 14102
+D3
+~
+~
+0 0 14100
+S
+#14119
+Stone Steps #G[#rHQ#G]#w~
+These long and winding stone steps lead up the mountain to the Sacred Temple of the Monks.
+~
+0 24581 0
+D4
+~
+~
+0 0 14100
+S
+#0
+
+
+
+#SPECIALS
+M 14101 spec_cast_adept Load to: the monk healer
+S
+
+
+
+#RESETS
+M 0 14101 1 14101
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

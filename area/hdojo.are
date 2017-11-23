@@ -1,0 +1,550 @@
+#AREADATA
+Name        Hidden DoJo~
+Builders    Kyrlin~
+VNUMs       31900 31999
+Security    3
+Flags       0
+End
+
+
+#MOBILES
+#31900
+finch bird~
+grey finch~
+A grey finch flys about over head.
+~
+The finch is a beutiful shade of grey, it's tail has a wonderful black and white striped affect.
+~
+67 533032 0 S
+117 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31901
+panda~
+giant panda~
+A giant panda sits here eating bamboo.
+~
+The Panda is huge and seems to be sporting a rather nifty black and white patter akin to those of it's species.
+~
+67 8744 0 S
+280 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31902
+ninja1~
+the ninja~
+The ninja skulks in the shadows waiting for you.
+~
+The ninja looks well hard under all that black.
+~
+99 107178 0 S
+480 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31903
+ninja2~
+the ninja~
+The ninja skulks in the shadows waiting for you.
+~
+The ninja looks well hard under all that black.
+~
+99 107178 0 S
+470 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31904
+ninja3~
+the ninja~
+The ninja skulks in the shadows waiting for you.
+~
+The ninja looks well hard under all that black.
+~
+99 107178 0 S
+504 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31905
+ninja4~
+the ninja~
+The ninja skulks in the shadows waiting for you.
+~
+The ninja looks well hard under all that black.
+~
+99 107178 0 S
+491 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31906
+ninja5~
+the ninja~
+The ninja skulks in the shadows waiting for you.
+~
+The ninja looks well hard under all that black.
+~
+99 107178 0 S
+524 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31907
+ninja6~
+the ninja~
+The ninja skulks in the shadows waiting for you.
+~
+The ninja looks well hard under all that black.
+~
+99 107178 0 S
+493 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31908
+ninja7~
+the ninja~
+The ninja skulks in the shadows waiting for you.
+~
+The ninja looks well hard under all that black.
+~
+99 107178 0 S
+512 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#31900
+shrine~
+a shrine~
+A shrine stands here, it is covered in candles.~
+~
+12 65 0
+0 0 0 0
+10000 0 0
+E
+shrine~
+This shrine will get a full desc later.~
+#31901
+weapons rack~
+a weapons rack~
+A weapons rack stands here, full of hurty goodness.~
+~
+15 0 0
+0 5 0 0
+10000 0 0
+E
+weapons rack~
+This weapons rack bristles with many different things.~
+#31902
+sword wakazashi~
+a wakazashi~
+A wakazashi rests here.~
+~
+5 0 8193
+0 0 0 3
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+A
+2 3
+E
+sword wakazashi~
+This is a fine folded steel Wakazashi, the blade is highly polished and has a light engraving of a dragon down both sides of the blade, the Tsubu is solid gold and the standard oval shape, the hilt is a honeycomb ivory style wrapped with red cord.~
+#31903
+iron wa fan~
+an iron war fan~
+An iron war fan lies here.~
+~
+5 0 8193
+0 0 0 9
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+A
+1 3
+E
+iron war fan~
+This war fan is made from iron, the leaves of the fan are covered with a hardend black cotton and silk, depicted on the fan are two dragons engaged in battle one White the other Red.~
+#31904
+nunchuka~
+a pair of nunchuka~
+A pair of nunchuka lie here.~
+~
+5 0 8193
+0 0 0 7
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+E
+nunchuka~
+These Nunchuka are made from the finest ebony and have been engraved with the image of a King Cobra ready to strike on each handle.~
+#31905
+bo staff~
+a bo staff~
+A bo staff lies here.~
+~
+5 0 8193
+0 0 0 8
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+E
+bo staff~
+This Bo Staff is about six feet long and is made from Red Oak.~
+#31906
+hanbo~
+a hanbo~
+A hanbo lies here.~
+~
+5 0 8193
+0 0 0 7
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+E
+hanbo~
+This Hanbo is about three feet long and is made from Red Oak.~
+#31907
+sai~
+a sai~
+A sai lies here.~
+~
+5 0 8193
+0 0 0 2
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+E
+sai~
+This Sai is a typical three pronged dagger used for disarming opponents. The blade is steel and the hilt is bound with black silk.~
+#31908
+gi~
+a black gi~
+A black gi lies in a heap here.~
+~
+9 0 9
+0 0 0 0
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+E
+gi~
+This is a typical black gi as worn by ninjas. It is made from heavyweight cotton providing both protection and warmth.~
+#31909
+tabi boots~
+a pair of tabi boots~
+A pair of tabi boots lie here.~
+~
+9 0 65
+0 0 0 0
+5 0 0
+A
+18 10
+A
+19 10
+A
+17 -50
+#0
+
+
+
+#ROOMS
+#31900
+The Lost Trail~
+You stumble upon a hidden trail in the mountains.
+~
+0 4 5
+D0
+~
+~
+0 -1 31901
+S
+#31901
+Along the Lost Trail~
+Along the Lost trail in the mountains. There are some rocks here.
+~
+0 0 5
+E
+rocks rock~
+The rocks appear to be covered in some strange white substance, probably bird shit.~
+D0
+~
+~
+0 -1 31902
+D2
+~
+~
+0 -1 31900
+S
+#31902
+Further along the Lost Trail~
+Further along the Lost Trail, all around you are patches of bamboo and up ahead is a large wooden building.
+~
+0 0 5
+E
+bamboo~
+Looks like the pandas are trying to make it extinct.~
+E
+wooden building dojo~
+The building in the distance is made of wood, perhaps you should get closer before trying to look?~
+D0
+~
+~
+0 -1 31903
+D2
+~
+~
+0 -1 31901
+S
+#31903
+Outside the Hidden DoJo~
+You are outside the Hidden DoJo, who knows what lies within.
+~
+0 0 5
+D0
+~
+~
+0 -1 31904
+D2
+~
+~
+0 -1 31902
+S
+#31904
+Inside the Hidden DoJo~
+The DoJo is outfitted in traditional Japaneese style.
+~
+0 0 0
+D0
+~
+~
+0 -1 31905
+D1
+~
+~
+0 -1 31910
+D2
+~
+~
+0 -1 31903
+D3
+~
+~
+0 -1 31907
+S
+#31905
+The Middle of the DoJo~
+This is the middle of the DoJo, matts cover the floor, to the north appears to be some sort of shrine.
+~
+0 0 0
+D0
+~
+~
+0 -1 31906
+D1
+~
+~
+0 -1 31911
+D2
+~
+~
+0 -1 31904
+D3
+~
+~
+0 -1 31908
+S
+#31906
+The Shrine at the Hidden DoJo~
+This is the Shrine in the DoJo, disturbing it would be a big mistake.
+~
+0 0 0
+D1
+~
+~
+0 -1 31912
+D2
+~
+~
+0 -1 31905
+D3
+~
+~
+0 -1 31909
+S
+#31907
+A corner of the Hidden DoJo~
+This is the southwestern corner of the Hidden DoJo.
+~
+0 0 0
+D0
+~
+~
+0 -1 31908
+D1
+~
+~
+0 -1 31904
+S
+#31908
+West side of the Hidden DoJo~
+This is the Western side of the Hidden DoJo, there is a weapons rack here.
+~
+0 0 0
+D0
+~
+~
+0 -1 31909
+D1
+~
+~
+0 -1 31905
+D2
+~
+~
+0 -1 31907
+S
+#31909
+A corner of the Hidden DoJo~
+This is the northwestern corner of the Hidden DoJo.
+~
+0 0 0
+D1
+~
+~
+0 -1 31906
+D2
+~
+~
+0 -1 31908
+S
+#31910
+A corner in the Hidden DoJo~
+This is the southeastern corner of the Hidden DoJo.
+~
+0 0 0
+D0
+~
+~
+0 -1 31911
+D3
+~
+~
+0 -1 31904
+S
+#31911
+East side of the Hidden DoJo~
+This is the Eastern side of the Hidden DoJo.
+~
+0 0 0
+D0
+~
+~
+0 -1 31912
+D2
+~
+~
+0 -1 31910
+D3
+~
+~
+0 -1 31905
+S
+#31912
+A corner in the Hidden DoJo~
+This is the northeastern corner of the Hidden DoJo.
+~
+0 0 0
+D2
+~
+~
+0 -1 31911
+D3
+~
+~
+0 -1 31906
+S
+#0
+
+
+
+#SPECIALS
+M 31901 spec_fido Load to: giant panda
+M 31902 spec_thief Load to: the ninja
+M 31903 spec_thief Load to: the ninja
+M 31904 spec_thief Load to: the ninja
+M 31905 spec_thief Load to: the ninja
+M 31906 spec_thief Load to: the ninja
+M 31907 spec_thief Load to: the ninja
+M 31908 spec_thief Load to: the ninja
+S
+
+
+
+#RESETS
+O 0 31900 0 31906
+O 0 31901 0 31908
+M 0 31900 10 31901
+M 0 31901 10 31902
+M 0 31902 5 31903
+E 0 31908 0 5
+E 0 31909 0 8
+E 0 31902 0 16
+M 0 31903 5 31904
+E 0 31908 0 5
+E 0 31909 0 8
+E 0 31907 0 16
+M 0 31904 5 31905
+E 0 31908 0 5
+E 0 31909 0 8
+E 0 31903 0 16
+M 0 31905 5 31907
+E 0 31908 0 5
+E 0 31909 0 8
+E 0 31904 0 16
+M 0 31906 5 31909
+E 0 31908 0 5
+E 0 31909 0 8
+M 0 31907 5 31910
+E 0 31908 0 5
+E 0 31909 0 8
+M 0 31908 5 31912
+E 0 31908 0 5
+E 0 31909 0 8
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

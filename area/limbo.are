@@ -1,0 +1,322 @@
+#AREADATA
+Name        Limbo~
+Builders    None~
+VNUMs       1 24
+Security    2
+Flags       0
+End
+
+
+#MOBILES
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+~
+1 0 1000 S
+12 1 10 550d4+6 3d0+0
+10000 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+20 0 1
+1 0 0 0
+1 0 0
+#3
+coins gold~
+%d coins~
+A pile of gold coins.~
+~
+20 0 1
+20 0 0 0
+1 0 0
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+23 0 1
+0 0 0 1
+100 0 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+24 0 0
+0 0 0 1
+100 0 0
+#12
+head %s~
+the severed head of %s~
+The severed head of %s is lying here.~
+~
+13 0 16385
+10 0 12 0
+5 0 0
+#13
+heart %s~
+the torn-out heart of %s~
+The torn-out heart of %s is lying here.~
+~
+19 0 16385
+16 0 13 0
+2 0 0
+#14
+arm %s~
+the sliced-off arm of %s~
+The sliced-off arm of %s is lying here.~
+~
+19 0 16385
+20 0 14 0
+5 0 0
+#15
+leg %s~
+the sliced-off leg of %s~
+The sliced-off leg of %s is lying here.~
+~
+19 0 16385
+20 0 15 0
+5 0 0
+#16
+turd~
+the steaming turds of %s~
+The steaming turds of %s assail your nostrils.~
+~
+13 0 0
+5 0 0 1
+1 0 0
+#20
+pineapple tart~
+a {Ypineapple{x tart~
+A stale {Ypineapple{x tart crumbles to dust.~
+~
+19 0 1
+5 0 0 0
+1 10 0
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 0 1
+0 0 -1 0
+1 0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+~
+25 64 0
+100000 100000 0 0
+5000 10 0
+#23
+spring blood~
+a blood spring~
+A spring of dark red liquid flows from the ground here.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 4 3
+D2
+~
+~
+0 0 2
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 17412 1
+S
+#10
+The Immortal's Gathering Place     #y[#rImm#y]#n~
+This room serves as a meeting point for Immortals.  It is a nexus of
+space time, without constant or substance.  The immortals of this land shape
+the void into whatever form is needed.  
+~
+0 4 0
+D0
+~
+~
+0 0 11
+D1
+~
+~
+0 0 13
+D2
+~
+~
+0 0 19
+D3
+~
+~
+0 0 12
+D4
+~
+~
+0 0 14
+D5
+~
+~
+0 0 3001
+S
+#11
+Blech~
+~
+0 16896 0
+D2
+~
+~
+0 0 10
+S
+#12
+Office~
+~
+0 26118 0
+E
+pillow~
+These pillows are of giant proportions or would be if you were stoned.  
+~
+E
+table~
+This is a small coffee table.  It is covered with bongs and other smoking
+devices.  
+~
+D1
+~
+~
+0 0 10
+S
+#13
+Office~
+~
+0 17922 0
+D3
+~
+~
+0 0 10
+S
+#14
+Immortal Area     #y[#rImm#y]#n~
+This floor leads to other Immortals private rooms.
+~
+0 17410 0
+D0
+~
+~
+0 0 15
+D1
+~
+~
+0 0 17
+D2
+~
+~
+0 0 18
+D3
+~
+~
+0 0 16
+D4
+~
+~
+0 0 25
+D5
+~
+~
+0 0 10
+S
+#15
+Store room~
+~
+0 17926 0
+D2
+~
+~
+0 0 14
+S
+#16
+Office~
+~
+0 8710 0
+S
+#17
+Nexrum's Sanctuary    #y[#rImm#y]#n~
+As you walk into the room a sence of purity passes over you.  The room is
+small and very clean and covered with soft mats.  The ceiling is polished
+cedar and the walls are lathes of cedar, in squares, covered with an opaque
+paper that mutes the light pleasantly.  There is a low table in the center
+of the room facing the door.  A few scrolls are neatly on one side of it.  
+~
+0 17926 0
+D3
+~
+~
+0 0 14
+S
+#18
+Store room~
+~
+0 17414 0
+D0
+~
+~
+0 0 14
+S
+#19
+The Conference room.    {Y[{RImm{Y]~
+This room is used for speaking with players personally.
+There are many reasons why you could be here. Perhaps you've
+been a naughty person.
+~
+0 24580 0
+S
+#20
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1 1 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

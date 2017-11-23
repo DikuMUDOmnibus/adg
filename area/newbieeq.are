@@ -1,0 +1,272 @@
+#AREADATA
+Name        Odds & Ends~
+Builders    Kyrlin~
+VNUMs       31000 31016
+Security    2
+Flags       0
+End
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#31000
+newbie sack bag~
+{wA {D[{r>{yNe{Ywb{Wie {YSa{yck{r<{D]{x~
+A newbie sack lays here.~
+~
+15 0 1
+999 0 0 0
+1 10000 0
+#31001
+newbie breastplate~
+{D[{CNEW{D]{w Breastplate{x~
+A breastplate lays here.~
+~
+9 0 9
+0 0 0 0
+20 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31002
+newbie helmet~
+{D[{CNEW{D]{w Helmet{x~
+A helmet lays here.~
+~
+9 0 17
+0 0 0 0
+10 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31003
+newbie sleeves~
+{D[{CNEW{D]{w Sleeves{x~
+A pair of sleeves lay here.~
+~
+9 0 257
+0 0 0 0
+9 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31004
+newbie leggings~
+{D[{CNEW{D]{w Leggings{x~
+A pair of leggings lay here.~
+~
+9 0 33
+0 0 0 0
+9 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31005
+newbie gloves~
+{D[{CNEW{D]{w Gloves{x~
+A pair of newbie gloves.~
+~
+9 0 129
+0 0 0 0
+9 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31006
+newbie boots~
+{D[{CNEW{D]{w Boots{x~
+A pair of boots lay here.~
+~
+9 0 65
+0 0 0 0
+10 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31007
+newbie bracer~
+{D[{CNEW{D]{w Bracer{x~
+A bracer lays here.~
+~
+9 0 4097
+0 0 0 0
+4 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31008
+newbie sword~
+{D@{r[{yxxxx{r]{D({w>{cN{w>{ce{w>{cw{w>{cb{w>{ci{w>{ce{w>>{cS{w>{cw{w>{co{w>{cr{w>{cd{w>{r>{R>{x~
+A sword lays here.~
+~
+5 16384 8193
+57034 10 20 3
+5 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31009
+newbie buckler~
+{D[{CNEW{D]{w Buckler{x~
+A buckler lays here.~
+~
+9 0 513
+0 0 0 0
+15 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31010
+newbie ring~
+{D[{CNEW{D]{w Ring{x~
+A newbie ring lays here.~
+~
+9 0 3
+0 0 0 0
+3 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31011
+newbie collar~
+{D[{CNEW{D]{w Collar{x~
+A newbie collar lays here.~
+~
+9 0 5
+0 0 0 0
+3 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31012
+newbie lantern~
+{D[{CNEW{D]{w Lantern{x~
+A lantern lays here.~
+~
+1 0 1
+0 0 -1 0
+15 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31013
+newbie dagger~
+{D[{CNEW{D]{w Dagger{x~
+A newbie dagger~
+~
+5 16384 8193
+0 10 20 11
+5 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31014
+newbie belt nnbelt~
+{D[{CNEW{D]{w Belt{x~
+A newbie belt~
+~
+9 0 2049
+0 0 0 0
+10 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31015
+newbie cloak~
+{D[{CNEW{D]{w Cloak{x~
+A newbie cloak lays here.~
+~
+9 0 1025
+0 0 0 0
+5 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#31016
+nnmask newbie mask~
+{D[{CNEW{D]{w Mask{x~
+A newbie mask lays here.~
+~
+9 0 -32767
+0 0 0 0
+10 10000 0
+A
+17 -10
+A
+18 5
+A
+19 5
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

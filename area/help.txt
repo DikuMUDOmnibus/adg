@@ -1,0 +1,3453 @@
+[14041] Kahlid: quin
+[30009] Shiva: demonarmor
+[ 8124] Shiva: confuse
+[ 8124] Shiva: dconfuse
+[ 3001] Kahlid: tact
+[ 3001] Kahlid: tactics
+[ 3001] Kahlid: straty
+[ 3001] Kahlid: strat
+[ 3001] Kahlid: mastery magic
+[ 3001] Kahlid: spell bonus
+[ 9504] Kahlid: cap
+[30001] Kahlid: malleate
+[30001] Kahlid: gifts metis
+[30001] Kahlid: lupis
+[ 3054] Kahlid: track
+[31515] Johnny: colot
+[ 3054] Leoncour: kyrlin
+[ 9502] Miffer: xfuck
+[ 9502] Miffer: x-fuck
+[ 9502] Miffer: xm-mfuck
+[ 3001] Revelation: x soxials
+[ 3001] Revelation: social;s
+[ 3001] Revelation: x-social
+[ 3001] Revelation: x-socials
+[ 9516] Miffer: xm
+[ 9516] Miffer: xsocials
+[ 3054] Kahlid: sec
+[ 3054] Kahlid: sect
+[ 3054] Kahlid: court
+[ 3054] Kahlid: enoch
+[30009] Shiva: dimp
+[ 3040] Johnny: rabbit
+[ 9229] Bane: leap
+[30000] Bane: dfreezeweapon
+[30000] Bane: dhorns
+[30009] Bane: demon armor
+[30009] Bane: demonarmor
+[ 3054] Cyric: uktenna
+[30009] Jace: toem
+[ 2477] Jace: aim
+[19253] Cyric: ukena
+[ 7718] Jace: demonpower
+[ 7718] Jace: demonpowers
+[ 7720] Jace: classs
+[ 9500] Xzar: anamilism
+[30000] Jace: calss
+[30000] Jace: calss
+[ 9246] Bane: dhorns
+[ 9246] Bane: dhorn
+[ 3207] Bane: might
+[ 3207] Bane: dtail
+[30009] Bane: dsire
+[30009] Bane: pact
+[30009] Bane: fallenclans
+[ 3001] Bane: rules1
+[ 3001] Revelation: philododx
+[14020] Johnny: Klaive
+[ 5300] Revelation: reed
+[ 9511] TsunamI: freqs u tart
+[ 9503] Revelation: reed
+[ 9503] Revelation: lupusa
+[ 9506] Teaken: leap
+[ 9506] Teaken: demoninparts
+[ 9506] Teaken: inparts
+[ 9506] Teaken: dimp
+[ 9506] Teaken: dspeed
+[ 9506] Teaken: lifespan
+[31708] Teaken: arena
+[ 3001] Teaken: freqsa
+[14046] Fulrae: Rune
+[14046] Fulrae: action
+[ 9500] Revelation: sileb
+[ 9510] Miffer: therge
+[ 9721] Revelation: gl
+[ 3054] Shiva: mirror
+[30009] Teaken: mage train
+[30009] Teaken: chant
+[30009] Teaken: magechant
+[30009] Teaken: dspeed
+[30009] Teaken: damrol
+[30009] Teaken: damroll
+[30009] Teaken: parry
+[30009] Teaken: colors
+[31712] Teaken: shards
+[31712] Teaken: demonarmor
+[31712] Teaken: demonarmuor
+[30009] Shiva: whelp
+[31712] Teaken: major
+[31712] Teaken: skills
+[ 3005] Miffer: abomination
+[ 3005] Miffer: news
+[ 3005] Miffer: moknspirit
+[ 3005] Miffer: fightingstyle
+[ 3005] Miffer: news
+[ 3005] Miffer: news
+[30009] Shiva: dlord
+[30009] Shiva: dreq
+[30009] Shiva: fallenclans
+[30000] Shiva: demonlord
+[30009] Shiva: asuras
+[30009] Shiva: daimone
+[30000] Bane: 10000
+[30000] Bane: dimp
+[14046] Fulrae: spirir
+[11207] Johnny: ansi
+[11207] Johnny: masteruy
+[11207] Johnny: masteru
+[10102] Xzar: quiestus
+[10102] Xzar: obreah
+[ 3054] Xzar: dainoinon
+[ 3001] Gehn: dain
+[31718] Revelation: stancesa
+[31718] Revelation: stances
+[31718] Revelation: autostance
+[ 9509] Johnny: magetribes
+[ 9509] Johnny: magetribe
+[ 9509] Johnny: mageclan
+[31712] Revelation: stances
+[31712] Revelation: advancestance
+[30000] Teaken: ingem
+[30000] Teaken: dimp
+[ 9724] Eltek: triggers
+[14081] Eltek: dbs
+[14081] Eltek: dpowers
+[ 3005] Miffer: history
+[ 3005] Miffer: log
+[30009] Shiva: builder
+[30009] Shiva: aggravated
+[31535] Nazuki: luna
+[31535] Nazuki: childredn
+[ 6103] Nazuki: ukenta
+[31511] Nazuki: siletn
+[14021] Nazuki: gauro
+[14021] Nazuki: guaro
+[ 9506] Nazuki: gilliard
+[ 9506] Nazuki: gillard
+[ 9503] Nazuki: theurfe
+[ 3001] Nazuki: gnosis
+[ 3001] Nazuki: colors
+[ 9500] Nazuki: ukenta
+[31533] Nazuki: klaive
+[ 9722] Eltek: fallenclans
+[30009] Shiva: polymorph
+[30009] Shiva: 'mastery magic'
+[30009] Shiva: mpolymorph
+[30009] Shiva: aeolus
+[30009] Shiva: chant
+[30009] Shiva: magecreate
+[ 3206] Nazuki: garuo
+[31534] Nazuki: wand
+[ 3054] Nazuki: fetish
+[ 3001] Nazuki: fetishdoll
+[ 3001] Nazuki: doll
+[ 3001] Nazuki: vooddo
+[ 3758] Maldor: gleaming
+[ 3758] Maldor: katana
+[11055] Maldor: bonus
+[30009] Bane: dtail
+[30009] Bane: might
+[30009] Bane: dblink
+[30009] Bane: help caust
+[ 3006] Teaken: drunk
+[31532] Nazuki: advancestance
+[ 5104] Desulupine: hand
+[31516] Nazuki: garuo
+[31516] Nazuki: rage
+[31516] Nazuki: trive
+[ 3014] Desulupine: cut
+[ 9507] Teaken: edges
+[ 9507] Teaken: edges
+[ 3054] Aisha: accept
+[ 3054] Aisha: propose
+[ 3001] Cyric: galliad
+[ 3054] Aisha: birth
+[ 9504] Nazuki: ronin
+[ 9504] Nazuki: pact
+[ 9504] Nazuki: ronin pact
+[ 9500] Nazuki: garuotribes
+[ 3001] Teaken: colors
+[ 9709] Desulupine: grep
+[ 9721] Desulupine: detox
+[30078] Mahan: range
+[10140] Eltek: detox
+[ 9521] Nazuki: philidox
+[31534] Nazuki: imbuded
+[ 7737] Teaken: addyt
+[ 7737] Teaken: addy
+[14120] Rennyn: fallenclans
+[14120] Rennyn: fallenclans
+[ 3001] Teaken: grant
+[ 3001] Teaken: spiderform
+[ 7708] Teaken: superstances
+[30078] Shiva: move
+[30078] Shiva: attacks
+[30078] Shiva: attack
+[30078] Shiva: num
+[30078] Shiva: att
+[30078] Shiva: skills
+[ 9507] Nanook: trust
+[ 3001] Nanook: monkaa
+[ 3001] Nanook: monkaq
+[ 9720] Santiago: garou tribes
+[ 9710] Desulupine: detox
+[14122] Rennyn: demonclans
+[14122] Rennyn: fallentribe
+[14000] Sekhmet: demonclans
+[14000] Sekhmet: demonclan
+[14120] Rennyn: stances
+[14120] Rennyn: autostances
+[14120] Rennyn: autostance
+[ 7714] Teaken: rabbit
+[31532] Teaken: demonamour
+[31532] Teaken: demonamuor
+[31532] Teaken: demonanuor
+[31532] Teaken: demonnuor
+[31532] Teaken: demonarmuor
+[14120] Rennyn: fallentribe
+[14120] Rennyn: demonclan
+[14120] Rennyn: demonclans
+[14120] Rennyn: demontribes
+[14120] Rennyn: fallenclans
+[ 7709] Teaken: rank
+[ 7709] Teaken: rank
+[30078] Shiva: band
+[30078] Shiva: items
+[30078] Shiva: item
+[30078] Shiva: mitem
+[30078] Shiva: masteryitems
+[31720] Shiva: magetrain
+[31702] Shiva: mtrain
+[30078] Shiva: ote
+[ 7725] Teaken: relis
+[ 7725] Teaken: relic
+[ 7725] Teaken: relics
+[25003] Desulupine: history
+[19259] Desulupine: private
+[ 3014] Xzar: chimserstry
+[14000] Desulupine: vamps
+[14100] Desulupine: rad
+[ 3743] Uriel: m onk
+[ 7771] Rennyn: ignore
+[11210] Johnny: ignore
+[14000] Nakago: bloodwall
+[31175] Teaken: leap
+[11044] Teaken: bite
+[11044] Teaken: dbite
+[30009] Xizor: mythical
+[30009] Xizor: questing
+[30009] Xizor: site
+[14025] Desulupine: majest
+[14025] Desulupine: majesty
+[14100] Desulupine: shadwo
+[14100] Desulupine: gmajesty
+[14100] Desulupine: introduce
+[ 3001] Desulupine: chimersty
+[ 9730] Jossy: majesty
+[ 3005] Desulupine: prescence
+[14020] Desulupine: tharmatur
+[ 3001] Miffer: powers
+[ 3014] Desulupine: offer
+[14120] Ihop: drows
+[14120] Ihop: grant
+[ 3054] Desulupine: stake
+[30000] Teaken: poke
+[ 3025] Miffer: staves
+[ 3025] Miffer: scrolls
+[ 1148] Kazrak: alias
+[ 1144] Kazrak: viper
+[ 1105] Shiva: pact
+[ 1105] Kazrak: grafgt
+[ 1105] Shiva: pact
+[ 1105] Shiva: induct
+[ 1105] Kazrak: pact
+[ 1105] Shiva: induct
+[ 1105] Shiva: dsire
+[ 1105] Shiva: clanset
+[ 1105] Shiva: set
+[ 1105] Shiva: allow
+[ 1105] Kazrak: kinderclans
+[ 1105] Kazrak: set
+[ 1105] Kazrak: pact
+[ 1105] Kazrak: clanning
+[ 1105] Kazrak: clanset
+[ 1105] Kazrak: commands commands
+[ 1105] Shiva: make
+[ 1105] Shiva: pact
+[ 1105] Kazrak: pray
+[ 1105] Kazrak: human
+[ 1105] Shiva: news
+[ 1105] Shiva: news
+[ 1105] Kazrak: dpray
+[ 1105] Kazrak: dinpart
+[ 1105] Kazrak: dchampions
+[ 1105] Kazrak: pray
+[ 1105] Shiva: mortal
+[ 3054] Kahlid: ali
+[ 5359] Cyrus: nr
+[ 5359] Cyrus: natural resistances
+[ 3722] Kazrak: reqs demon
+[31702] Miffer: majesty
+[31702] Miffer: awe
+[31702] Miffer: icy
+[31713] Miffer: i want my own tribe
+[ 9201] Kazrak: stances
+[ 3054] Altelis: offer
+[ 3014] Altelis: align
+[ 3016] Kazrak: alignment
+[ 3001] Kazrak: align
+[ 3001] Kazrak: alignment
+[ 9203] Desulupine: freqa
+[ 3054] Kazrak: demonpoinst
+[ 3054] Kazrak: bull
+[ 3004] Kazrak: news
+[ 5313] Kazrak: ddray
+[ 5313] Kazrak: dpray
+[ 5313] Kazrak: pray
+[ 5313] Kazrak: dpoints
+[ 3054] Kazrak: pk
+[ 3001] Alyth: drowcreate
+[ 9501] Dranic: black son
+[31706] Desulupine: knight
+[30009] Kazrak: improce
+[30009] Kazrak: demopoints
+[ 3041] Kazrak: bull
+[ 3100] Kazrak: damcap
+[31755] Kazrak: breath
+[31713] Xizor: mythical
+[30009] Xizor: xizor
+[14040] Aisha: challenge
+[30000] Xizor: brief
+[30000] Xizor: breif
+[ 9246] Alyth: drowshield
+[ 9721] Desulupine: gods
+[30009] Mintor: memtem
+[30009] Kazrak: lifespan
+[30009] Kazrak: truesight
+[31712] Kazrak: might
+[31712] Kazrak: dimp
+[31712] Kazrak: leap
+[30009] Kazrak: timer
+[31704] Kazrak: 2.imp
+[14081] Eltek: awe
+[14081] Eltek: fallenclans
+[30009] Shiva: dclan
+[30009] Shiva: fallenclan
+[14020] Desulupine: resist pain
+[14020] Desulupine: 'resist pain'
+[ 8008] Kazrak: confuse
+[ 9513] Xzar: anamilism
+[ 9513] Xzar: animslism
+[10111] Xzar: sepnetis
+[31704] Kazrak: weaponform
+[30009] Kazrak: confuse
+[30000] Kestal: how to get kyrlin in the sack
+[31712] Kazrak: spam
+[31712] Kazrak: combat
+[ 1344] Alyth: spiderarms
+[30009] Shiva: reistance
+[ 3700] Eladriell: newbiek
+[ 3700] Eladriell: kit
+[ 3701] Eladriell: fraq
+[ 3701] Eladriell: faq
+[ 9708] Kazrak: queest
+[ 9503] Kazrak: falllen
+[ 9503] Kazrak: falllenilks
+[31081] Miffer: cappadocian
+[31081] Miffer: kindredtribes
+[ 3001] Desulupine: eyeofcobr
+[ 3001] Gehn: vampireclan
+[ 3001] Gehn: Enoch
+[   12] Yakutat: pretitle
+[ 3054] Kahlid: gatg
+[ 3054] Kahlid: nightstar
+[ 5273] Kahlid: stake
+[31742] Kazrak: trust
+[31723] Desulupine: darmor
+[31723] Desulupine: darm
+[ 9507] Kazrak: red shield
+[31740] Kazrak: damagecap
+[31740] Kazrak: cap
+[   12] Toast: damcap
+[ 9701] Desulupine: gaout
+[ 9504] Kazrak: paradox
+[ 9517] Kazrak: tiger
+[30009] Shiva: spring
+[31081] Miffer: 2.imbue
+[31081] Miffer: edges
+[31081] Miffer: abomination
+[14046] Aisha: quest wear
+[14080] Kaeton: chant
+[14080] Kaeton: slowtime
+[14080] Kaeton: makepreg
+[14080] Kaeton: pstat
+[14080] Kaeton: promote
+[14080] Kaeton: prep
+[14080] Kaeton: pinfo
+[14080] Kaeton: incog
+[14080] Kaeton: vlist
+[14080] Kaeton: exlist
+[ 9506] Kazrak: circle
+[ 9704] Kazrak: attacks
+[ 9704] Kazrak: move
+[ 9704] Kazrak: constitution
+[30001] Kahlid: doll
+[14040] Kahlid: poly
+[14040] Kahlid: polymorph
+[30009] Kazrak: loyal
+[30000] Shiva: dlord
+[ 3001] Kazrak: djinn
+[ 3001] Kazrak: dpray
+[30009] Shiva: aeolis
+[30009] Shiva: aeolus
+[30009] Shiva: mcurse
+[30009] Shiva: 'mastery magic'
+[   10] Kaeton: learn
+[   10] Kaeton: incog
+[ 3700] Kaeton: qmake
+[   10] Kaeton: EXTRA_FLAGS
+[   10] Kaeton: ashow
+[   10] Kaeton: witch
+[14001] Gehn: ff
+[ 3054] Rayjuken: gate
+[ 3054] Rayjuken: gate
+[ 3054] Rayjuken: vanish
+[31743] Shiva: map
+[30001] Kahlid: trust
+[30001] Kahlid: quest trust
+[14061] Renzaburo: paradox
+[31126] Alyth: glamour
+[ 7753] Rennyn: cap
+[   10] Kaeton: ragabash learn
+[14046] Jossy: news
+[ 3001] Eugenides: chages
+[ 3054] Kahlid: bat
+[ 3054] Kahlid: bar
+[ 3054] Kahlid: barr
+[   12] Kaeton: pinfo
+[   10] Kaeton: "SPELL FLAGS"
+[30009] Kazrak: 'resist pain'
+[30009] Kazrak: cleanwarp
+[ 3206] Kyrlin: room-glags
+[30009] Kazrak: advancestane
+[30009] Kazrak: advancestan
+[30009] Kazrak: ignore
+[ 9503] Kazrak: green
+[30009] Kazrak: cougar
+[ 9504] Kazrak: mongoose
+[ 9507] Kazrak: advancestance
+[14033] Geist: promt
+[ 3054] Geist: cpromt
+[ 9721] Eltek: hp
+[ 9721] Eltek: hp
+[ 9721] Eltek: cap
+[ 9721] Eltek: paradox
+[30009] Kazrak: bandage
+[30009] Kazrak: specs
+[30009] Kazrak: watch
+[30009] Kazrak: dimp
+[ 3001] Toast: blank
+[32000] Kaeton: ACT-BITS
+[ 3001] Desulupine: dclan
+[ 9712] Desulupine: chei
+[32000] Kaeton: link
+[14001] Santiago: fallen ilks
+[30000] Shiva: rules1
+[ 9514] Santiago: mastery?
+[30001] Kazrak: card
+[31701] Desulupine: frews
+[31701] Desulupine: frews
+[ 3054] Daen: monk_spirit
+[   12] Kyrlin: eliminate
+[14021] Lacien: edges
+[31717] Shiva: card
+[14004] Selfie: embrace
+[ 3025] Shidai: powers
+[30009] Shiva: powers
+[30009] Shiva: power
+[14021] Lacien: powers
+[30009] Shiva: clandisc
+[14000] Selfie: blood
+[14000] Selfie: daiminion
+[ 3757] Ash: delete
+[ 3730] Shidai: bloodagony
+[ 3730] Shidai: serpentus
+[ 9204] Shidai: sepentis
+[31903] Shiva: sweep
+[31903] Shiva: technique
+[31903] Shiva: combat
+[31903] Shiva: bull
+[31903] Shiva: circle
+[ 3744] Shidai: daiminion
+[ 3744] Shidai: daiminion
+[ 3744] Shidai: daiminion
+[ 9703] Alyth: drowpoison
+[ 9203] Mortimer: technocracy
+[ 3054] Mortimer: quest piece
+[ 3759] Caiden: regs
+[ 9706] Eltek: fallenclans
+[ 9710] Eltek: fallenclans
+[ 9710] Eltek: fallenclan
+[14000] Selfie: diamoinon
+[14000] Selfie: diamoinon
+[ 9209] Selfie: plasma
+[14004] Selfie: shroud
+[ 9503] Kazrak: qcreate
+[ 9503] Kazrak: quset create
+[30009] Kazrak: sorcery
+[ 9503] Kazrak: relic
+[30009] Kazrak: stake
+[ 7711] Rennyn: demonclans
+[ 7711] Rennyn: demonclans
+[ 7711] Rennyn: fallenclans
+[ 7711] Rennyn: fallenhouse
+[ 9505] Kazrak: rabbitstance
+[11032] Maldor: superstance is the only one I know
+[11168] Desulupine: sw
+[ 3732] Shidai: daiminion
+[ 3732] Shidai: daiminion
+[ 3727] Shidai: daimoinion
+[14002] Selfie: beah
+[14002] Selfie: pancea
+[ 3700] Nero: vamps
+[ 3700] Nero: vampireclans
+[ 3700] Nero: vampireclan
+[30009] Shiva: pill
+[30009] Shiva: wand
+[ 9212] Mortimer: ancient
+[ 1379] Kaeton: rinciples
+[ 3760] Eladriell: human
+[ 1381] Kaeton: ninjagear
+[ 3054] Shiro: ninjaki
+[14060] Shiro: principals
+[ 9226] Selfie: golconda
+[30009] Kazrak: propose
+[30009] Kazrak: stats
+[ 3054] Mortimer: cappadocians
+[ 3054] Mortimer: cappadocian
+[ 3054] Mortimer: mortis
+[31713] Sekhmet: power
+[ 3729] Azygos: info
+[ 3739] Azygos: weapon
+[ 9504] Johnny: paws
+[ 3759] Azygos: energyflux
+[ 3759] Azygos: spellproff
+[ 3735] Tenen: abomination'
+[ 3735] Tenen: abomination
+[30009] Shiva: rules5
+[ 3054] Misanity: reborn
+[ 3054] Misanity: kei
+[ 3054] Misanity: abom
+[ 3700] Shandor: abomination
+[ 3729] Shandor: reborn
+[ 3757] Azygos: grant
+[ 3757] Azygos: drowcreate
+[ 3728] Shandor: write
+[ 3728] Shandor: page
+[   29] Tremo: reqards
+[   29] Tremo: reqards
+[31716] Lacien: trive
+[ 3700] Praetorian: powers
+[ 3759] Arjuna: practise
+[ 3001] Arjuna: leave
+[14000] Selfie: prsence
+[14000] Selfie: awe
+[14060] Shiro: ningennop
+[10130] Shiro: chic
+[30009] Mintor: dshadow
+[ 9314] Arjuna: reqa
+[   19] Kaeton: tide
+[14120] Azygos: drowcreate
+[14101] Daen: monktemple
+[ 3054] Desulupine: eyeofcobra
+[ 3054] Mortimer: ancient
+[ 3054] Mortimer: mastery magic
+[ 3054] Mortimer: 'mastery magic'
+[25006] Azygos: darkness
+[25006] Azygos: contol wea
+[30306] Desulupine: haste
+[25000] Azygos: drowfire
+[  954] Azygos: spider
+[30009] Shiva: trust
+[ 3001] Miffer: wat
+[14004] Selfie: assassinate
+[14002] Selfie: shroud
+[ 9211] Azygos: ass
+[ 3054] Azygos: drowwarr
+[14120] Azygos: pk
+[ 3709] Izlander: frenxy
+[ 3716] Izlander: care
+[ 3716] Izlander: care
+[14002] Selfie: silencedeath
+[ 3746] Nero: legend
+[ 9203] Nero: gounder
+[ 9203] Nero: garoutribed
+[ 9203] Nero: nightstalker
+[ 9203] Nero: changtes
+[ 9207] Nero: monj
+[14002] Selfie: garouclan
+[ 3700] Elendil: superstances
+[   10] Kaeton: breakup
+[ 3734] Sahid: power
+[ 3734] Sahid: smote
+[ 9227] Shidai: daimionon
+[ 3732] Sahid: human
+[ 9725] Miffer: fenrir
+[ 3757] Miffer: chainsaw
+[ 3720] Chainsaw: scroll
+[ 3700] Samhain: reborn
+[ 3700] Samhain: keuijin
+[ 3001] Miffer: induct
+[ 3001] Miffer: induct
+[ 3001] Miffer: cub
+[ 3001] Miffer: cire
+[ 3054] Chainsaw: fe
+[ 3001] Miffer: shaman
+[ 3001] Miffer: shamen
+[ 3001] Miffer: outcast
+[ 3758] Chainsaw: gnosis
+[ 9701] Miffer: garoutribesd
+[ 3054] Chainsaw: banshee
+[ 3001] Chainsaw: card
+[14040] Kabal: create miner
+[14040] Kabal: pill
+[   28] Nexrum: giffts
+[14040] Kabal: pill
+[   10] Kaeton: potion
+[25008] Chainsaw: camo
+[ 7740] Selfie: bloodpool
+[14002] Santiago: mortal
+[ 3722] Shandor: mastery magic
+[ 3722] Shandor: copy
+[ 3722] Shandor: create major
+[ 3744] Tirade: describe
+[ 3700] Buffy: questpoints
+[ 3759] Arjuna: alignment
+[ 3759] Arjuna: align
+[ 3759] Arjuna: change align
+[25008] Azygos: grant
+[14100] Draken: learn
+[ 4022] Draken: monk body
+[ 9218] Draken: monk combat
+[14121] Azygos: spider
+[ 9218] Eladriell: katana
+[14120] Azygos: grant
+[14120] Azygos: lloth
+[ 9210] Draken: combat
+[ 9209] Draken: moncfocus
+[ 9209] Draken: monhfocus
+[ 2217] Draken: monkbody]
+[ 3001] Draken: monkfightstyle
+[ 3014] Selfie: fallenclans
+[ 3014] Selfie: fallenclan
+[ 3001] Selfie: bite
+[ 3738] Sharyn: warlock houses
+[ 3737] Sharyn: true
+[ 3737] Sharyn: 'mastery magic'
+[ 3001] Cynder: mortal
+[ 3001] Fadecourt: lupis
+[ 3733] Fadecourt: ronin
+[ 3728] Fadecourt: lupis
+[ 9203] Fadecourt: lupis
+[ 9217] Fadecourt: klaive
+[31126] Selfie: tide
+[ 9227] Fadecourt: stances
+[   10] Kaeton: ninjadojos
+[ 7716] Selfie: read
+[14020] Kira: klaive
+[ 9505] Santiago: death-match
+[ 9505] Santiago: "death match"
+[ 3001] Fadecourt: burrow
+[ 3001] Fadecourt: say sure
+[31550] Fadecourt: clearstats
+[ 3722] Shandor: warlock houses
+[ 3722] Shandor: warlock ho
+[ 3744] Zaldan: upgrade
+[ 3744] Zaldan: upgrade
+[14002] Blackfall: alignment
+[ 3712] Allec: stats
+[ 3712] Allec: reroll
+[14020] Miffer: induct
+[14020] Miffer: sires
+[14020] Miffer: apply
+[ 6004] Pongo: communcitu
+[ 6004] Pongo: communtication
+[ 6004] Pongo: questp
+[ 3054] Timothy: edges
+[14120] Azygos: shadowwalk
+[ 3001] Azygos: castquest
+[ 3025] Ihop: ihop
+[ 3054] Azygos: colors
+[ 3700] Melody: nightstar
+[ 9730] Miffer: learn
+[ 9707] Desulupine: snarl
+[ 3014] Tenen: fuzzy
+[ 3001] Tenen: michi
+[30306] Tenen: generation
+[14002] Desulupine: clandisc
+[30009] Mintor: demn
+[14021] Desulupine: haste
+[ 3700] Aiken: reqa
+[ 3700] Aiken: class Highlander
+[ 3700] Aiken: freqa
+[ 3700] Aiken: news
+[ 9716] Miffer: wand
+[   19] Kaeton: ninjenno
+[ 3758] Euryale: arcanoi
+[ 3758] Euryale: arcanoi
+[14005] Xzar: killing
+[30009] Mintor: warpwarp
+[ 3712] Aeron: dying
+[30009] Slake: mal
+[30009] Slake: malleable
+[30009] Slake: maleable
+[30009] Slake: copy
+[30009] Slake: mcopy
+[30009] Slake: daiminion
+[14060] Fuzzy: chiku
+[14060] Fuzzy: ningentto
+[14060] Fuzzy: meinaka
+[ 3207] Azygos: advac
+[ 9713] Desulupine: elem
+[11053] Azygos: shadoww
+[14040] Rowan: wand
+[ 6004] Pongo: qp
+[ 6004] Pongo: glow
+[14000] Selfie: ninaj
+[14000] Selfie: kakusu
+[ 9246] Fadecourt: the website is           godwars.cjb.net
+[ 3001] Fadecourt: reshape
+[  926] Beaver: gnosis
+[14031] Geist: thrurge
+[14042] Rowan: statsu
+[ 3001] Azygos: spec
+[ 9710] Desulupine: syntax
+[ 3700] Daos: angel
+[ 3700] Daos: edges
+[ 3207] Ryu: dragon
+[ 3207] Ryu: dragons
+[ 9201] Ryu: ninjagear
+[ 3207] Armageddon: sign
+[ 3054] Seifer: classme
+[ 9218] Seifer: daiminion
+[ 9218] Seifer: daiminion
+[31725] Azygos: trasnporter
+[ 9218] Seifer: mortal
+[ 1320] Armageddon: green
+[25000] Seifer: locker
+[ 3001] Azygos: hp
+[ 3700] Weber: legend
+[ 3714] Seregil: changling
+[ 3054] Seifer: syntax
+[ 3739] Seregil: quickening
+[ 3054] Chigra: darkness
+[ 7428] Azygos: transporter
+[30001] Azygos: stake
+[30001] Fadecourt: drowfire
+[ 9214] Seregil: katana
+[ 9214] Seregil: pk
+[14121] Azygos: loyal
+[ 3001] Fadecourt: warders
+[ 3001] Fadecourt: gaoutribes
+[14121] Azygos: amor
+[14121] Azygos: armour
+[14121] Azygos: holy
+[14121] Azygos: holy
+[30001] Mintor: demn
+[30009] Slake: nki
+[14060] Josephine: chyku
+[ 3700] Michael: higl
+[ 3758] Brokken: kindred of the east
+[ 3758] Brokken: kindred east
+[ 3758] Brokken: mummies
+[30009] Kazrak: relic
+[30009] Kazrak: weapon
+[ 3726] Reno: mantra
+[ 3054] Seifer: nija
+[ 3001] Seifer: bonegnawers
+[ 3054] Azygos: tokenb
+[ 9253] Seregil: insert page
+[ 9253] Seregil: copy
+[ 9253] Seregil: extra spells
+[ 9253] Seregil: quintessence
+[ 9205] Seregil: quintessence
+[ 9205] Seregil: quint
+[ 2211] Seifer: katana
+[ 9259] Seregil: bonuty
+[30245] Josephine: highln
+[ 9253] Seregil: corest
+[14040] Seregil: learn
+[14040] Seregil: runes
+[14040] Seregil: glyphs
+[14040] Seregil: major
+[14040] Seregil: run
+[14040] Seregil: rune
+[14040] Seregil: magecreate
+[ 9250] Seregil: frces
+[14061] Gabriel: nija
+[31081] Kira: burrow
+[ 9729] Azygos: advfa
+[ 9729] Azygos: stancetablwe
+[14061] Gabriel: soru
+[14061] Gabriel: shadowwalk
+[14061] Gabriel: misotamouyo
+[ 3724] Rion: garotribes
+[ 3724] Rion: chant
+[ 2211] Seifer: prinic
+[14061] Gabriel: chikru
+[ 3724] Neo: ferqs
+[ 3744] Cyndre: rews
+[14040] Seregil: deathknight
+[ 3207] Eladriell: quest_trust
+[ 3207] Eladriell: trust
+[ 3001] Kabal: wwbrew
+[14061] Josephine: harakiri
+[ 3054] Gabriel: glyph
+[ 3700] Petronel: energyflux
+[ 3744] Mango: autostance
+[  115] Mango: chant
+[  115] Mango: polymorph
+[  115] Mango: mastery magic
+[  115] Mango: magic mastery
+[  115] Mango: insert page
+[  115] Mango: insert
+[  115] Mango: Chant
+[11216] Petronel: leap
+[11216] Petronel: might
+[14040] Mango: magetalk
+[ 3744] Mango: poly
+[ 3744] Mango: polymorph
+[14041] Mango: quint
+[14041] Mango: quintessene
+[14041] Mango: quintessence
+[14090] Seifer: anatole
+[ 3054] Kira: ahround
+[14081] Seifer: katana
+[14081] Seifer: relic
+[   10] Toast: getof fenris
+[ 3007] Renzaburo: Garou Tribes
+[ 3001] Leoparnicus: goroutribes
+[  699] Leoparnicus: gnosis
+[ 3727] Shandor: reborn
+[ 3727] Shandor: mummies
+[ 3054] Xzar: timothy
+[   12] Kyrlin: lupis
+[ 3054] Leoparnicus: fionna
+[14021] Leoparnicus: wedigo
+[ 3700] Perish: pray
+[ 3758] Perish: natural resistance
+[ 3758] Perish: natural resistances
+[ 3758] Perish: resistances
+[ 3744] Perish: skills
+[ 3759] Perish: energyflux
+[ 3759] Perish: puncher
+[19214] Perish: curative
+[ 3001] Perish: combat
+[19208] Perish: regeneration
+[19203] Perish: morted
+[ 3740] Perish: telekenesis
+[14040] Kabal: mageclan
+[19214] Perish: mort
+[19214] Perish: mortal
+[19214] Perish: paradox
+[19214] Perish: loot
+[19214] Perish: pk
+[ 3758] Perish: grab
+[ 3759] Perish: rank
+[19214] Perish: advanced stance
+[19200] Perish: magecreate
+[19203] Perish: mortally wounded
+[19203] Perish: mort
+[19203] Perish: page
+[19207] Perish: mortal
+[19207] Perish: mortal
+[ 3759] Perish: track
+[ 3759] Perish: energyflux
+[ 3759] Perish: wwbrew
+[ 3759] Perish: tranport
+[ 3759] Perish: track
+[ 3001] Beaver: gnosis
+[14030] Beaver: silent strides
+[14030] Beaver: 'silent strides'
+[ 3207] Petronel: generation
+[31720] Revelation: stances
+[14041] Mango: hot
+[14040] Mango: itempurge
+[14040] Mango: clearstats
+[14040] Mango: major
+[14040] Mango: major creation
+[ 3054] Revelation: wuests
+[ 3744] Pirvan: ninja]
+[ 3700] Rekien: reborn
+[ 1477] Mango: quint
+[ 1477] Mango: quintessence
+[ 1477] Mango: rub
+[ 3709] Darkmoon: whimpy
+[14040] Perish: defense
+[19206] Perish: yellow sorcery
+[19206] Perish: 'yellow sorcery'
+[19206] Perish: shiroken
+[19206] Perish: magecreate
+[19206] Perish: teach
+[19206] Perish: mastery magic
+[19206] Perish: 'mastery magic'
+[19206] Perish: 'find fimiliar'
+[19206] Perish: find fimiliar
+[19206] Perish: create major
+[19207] Perish: mastery magic
+[19207] Perish: copy
+[ 3759] Perish: fcommand
+[ 3759] Perish: [
+[ 3759] Perish: insert page
+[ 3759] Perish: page
+[ 3758] Perish: readaura
+[ 3758] Perish: quintessence
+[ 3759] Perish: polymorph
+[19200] Perish: red spell
+[ 3759] Perish: imrpove
+[ 3001] Perish: quintessence
+[ 3001] Perish: quint
+[ 3001] Perish: qp
+[ 2216] Perish: soulbade
+[30013] Mahan: gaia
+[ 8026] Perish: permamort
+[19204] Perish: gold
+[19204] Perish: bank
+[14040] Perish: spam
+[14040] Perish: yellow
+[14040] Seregil: sphers
+[14040] Seregil: spherss
+[ 9201] Seregil: pk
+[14041] Perish: mort
+[14041] Perish: peasent
+[14043] Perish: major creation
+[14043] Perish: copy
+[14043] Perish: rune
+[14043] Perish: elemental pull
+[ 3727] Styx: fenrir
+[ 3736] Styx: vampclans
+[ 3736] Styx: vampireclans
+[14045] Perish: spehre
+[19207] Perish: scrye
+[19216] Perish: magecreate
+[19216] Perish: teach
+[19216] Perish: chant
+[14040] Perish: chant
+[14040] Perish: transfer
+[14040] Perish: sigil
+[14040] Perish: pen
+[14040] Seregil: teach
+[ 3054] Yandros: garou tribes
+[ 3001] Seregil: runes
+[ 3001] Perish: learn
+[ 3001] Seregil: create major
+[ 3001] Seregil: 'create major'
+[14040] Seregil: major
+[14040] Seregil: create major
+[14040] Seregil: createmajor
+[14040] Seregil: 'create major'
+[14040] Seregil: extra spells
+[14040] Seregil: 'mastery magic'
+[14040] Seregil: rune
+[14040] Seregil: glyph
+[14040] Seregil: copy
+[14040] Seregil: turn
+[11001] Perish: bull
+[14040] Perish: haste
+[14040] Perish: chaos blast
+[11055] Perish: slowtime
+[11045] Perish: stancestable
+[11045] Perish: unerve
+[11045] Perish: sheath
+[ 3505] Seregil: page
+[ 3505] Seregil: major
+[11024] Perish: earthembrace
+[14040] Kabal: corrse
+[ 9206] Seregil: probe
+[ 3001] Mango: again
+[11010] Perish: damcap
+[11034] Mango: autodrop
+[ 8116] Perish: spamming
+[14049] Nanama: remove page
+[14049] Nanama: remove page
+[14049] Nanama: insert page
+[14044] Nanama: runes
+[14044] Nanama: rune
+[14040] Mango: cougar
+[ 3001] Nanama: teach
+[14047] Chernan: aedpt
+[14040] Rjin: teach
+[14061] Josephine: rules 2
+[14061] Josephine: vicitimised
+[14050] Mango: teach
+[14050] Mango: teach
+[14020] Desulupine: promtp
+[   19] Nanama: file3
+[   19] Nanama: files3
+[   19] Nanama: files
+[   10] Kaeton: martyrdom
+[   10] Kaeton: edges
+[   10] Kaeton: awareness
+[   10] Kaeton: abomination
+[14047] Chernan: mastery magic
+[30009] Kazrak: merci
+[32009] Kaeton: burrow
+[ 2219] Yandros: gifts fianna
+[ 3207] Yandros: gnosis
+[ 3207] Yandros: points
+[14060] Pirvan: princ improve
+[11056] Perish: alterstate
+[14040] Perish: hq
+[14040] Perish: headquarters
+[ 9254] Pirvan: chikya
+[ 3014] Kira: crinos
+[19201] Perish: mort
+[14049] Perish: scrye
+[31701] Kazrak: pact
+[14050] Perish: poly
+[14050] Perish: 'resist pain'
+[14050] Perish: blood
+[14050] Perish: track
+[14040] Seregil: rune
+[ 3700] ValtOr: abomination
+[14040] Perish: slowtime
+[14040] Kabal: rune
+[14040] Kabal: major
+[14040] Kabal: major creation
+[14040] Kabal: rune
+[14040] Kabal: mine
+[14040] Kabal: rune
+[ 3700] ValtOr: rules1
+[ 3739] ValtOr: dclass
+[14040] Perish: learn
+[14040] Perish: rune
+[14040] Kabal: learn
+[ 3700] Ramus: mintor
+[ 3054] Perish: grep
+[14049] Perish: demon shield
+[ 3054] Perish: maleable
+[ 3054] Perish: malaebles
+[ 3054] Perish: stalk
+[14040] Perish: renaming
+[14040] Perish: rename
+[14041] Perish: qps
+[14040] Rowan: quest trust
+[14040] Perish: questrust
+[14101] Nanook: quest trust
+[14101] Nanook: 'quest trust'
+[14101] Nanook: temple
+[14101] Nanook: monkt
+[14101] Nanook: monkfounder
+[14101] Nanook: frwqs
+[14101] Nanook: monkclansd
+[14049] Perish: questrust
+[14040] Perish: scrye
+[14049] Chernan: entrophy
+[14049] Perish: slowtime
+[14049] Perish: speedtime
+[30009] Desulupine: info
+[14044] Rjin: slowtime
+[14044] Rjin: speedtime
+[ 3504] Seregil: 'eye of cobra'
+[ 3510] Seregil: 'create major'
+[ 3510] Seregil: create major
+[ 3510] Seregil: 'major creation'
+[ 3510] Seregil: major creation
+[ 3510] Seregil: creation
+[ 3510] Seregil: major
+[ 3054] Josephine: brief
+[30009] Kazrak: eye
+[ 3510] Seregil: copy
+[ 9209] Pirvan: rbief
+[ 9209] Pirvan: brief
+[14047] Perish: elementalshield
+[14047] Perish: aruas
+[14047] Perish: auras
+[14047] Perish: shields
+[14047] Perish: elemental
+[ 3700] Buffy: alternative
+[ 3700] Buffy: alternative
+[ 3700] HoriZon: abomination
+[ 9723] Jossy: speedtime
+[ 3054] HoriZon: stances
+[14021] Leoparnicus: galiard
+[ 3019] Baalzamon: demonarmor
+[14044] Perish: fury
+[14040] Perish: psirit
+[14040] Perish: telekinesis
+[14040] Perish: telek
+[14042] Perish: shiroken
+[ 3043] Perish: petcommands
+[ 3745] Slayer: classreq
+[ 3054] Baalzamon: demoninparts
+[ 3054] Baalzamon: inparts
+[   12] Kyrlin: demonclan
+[19207] Perish: autostance
+[14040] Perish: step
+[ 3700] Michael: reqa
+[ 3732] Michael: spriggan
+[   19] Petronel: mythi
+[ 7711] Petronel: damcap
+[ 7711] Petronel: unp
+[32010] Kaeton: ACT-BITS
+[32010] Kaeton: reset
+[32010] Kaeton: resets
+[   10] Kaeton: exlist
+[   65] Jossy: wat
+[14040] Perish: map
+[ 3054] Perish: loywal
+[ 3054] Perish: loyal
+[14060] Pirvan: trust
+[14042] Perish: stake
+[   12] Tijer: colro
+[   12] Toast: rule2
+[   12] Toast: rule3
+[ 3740] Tsunami: all
+[14040] Perish: generation
+[ 3005] Kovak: vampireclans
+[ 3005] Kovak: vampclans
+[ 3207] Kovak: glasswalker
+[ 3207] Kovak: glass
+[25013] Daen: monktemples
+[14041] Perish: quest damroll
+[14040] Perish: aggravated
+[ 9214] Kovak: glass
+[ 9214] Kovak: glasswalkers
+[14040] Perish: adapt
+[14040] Perish: magecreate
+[14040] Perish: chant
+[14040] Perish: mastery magic
+[14040] Perish: 'create major'
+[14040] Perish: 'major creation'
+[14040] Perish: 'insert page'
+[14040] Perish: 'remove page'
+[14040] Perish: copy
+[31710] Fadecourt: chillrstlne
+[ 5555] Bluestar: garouclans
+[ 5555] Bluestar: garouribe
+[ 3001] Fadecourt: nog
+[31717] Petronel: mightstar
+[14041] Perish: rules5
+[14040] Chernan: victimizing
+[14040] Chernan: victimising
+[14040] Perish: 'fine familiar
+[   12] Kyrlin: foudner
+[ 3054] Ihop: garou tribe
+[ 3001] Revelation: colors
+[25000] Perish: forge
+[14040] Perish: page
+[ 3005] Miffer: ahoun
+[ 9503] Fenrir: stances
+[ 9500] Fenrir: welp
+[ 9500] Fenrir: whelp
+[ 9500] Fenrir: whelp
+[ 9505] Fenrir: spriggan
+[ 9718] Eladriell: forge
+[   12] Kyrlin: katana
+[ 3054] Kovak: burrow
+[ 3206] Kyrlin: act-bits
+[ 3206] Kyrlin: heart
+[ 3757] Maja: pkill
+[ 3713] Maja: mort
+[ 3722] Azlar: forge
+[ 3722] Azlar: edges
+[ 3723] Azlar: crate spring
+[ 3725] Azlar: abomination
+[ 3725] Azlar: abomination
+[ 3725] Azlar: reborn
+[ 9209] Azlar: align
+[ 9209] Azlar: alignment
+[ 9212] Azlar: wounded
+[ 9212] Azlar: dead
+[ 9212] Azlar: wounded
+[ 9212] Azlar: aid
+[ 9212] Azlar: mortally wounded
+[ 9212] Azlar: mortal
+[ 3040] Kian: casting
+[ 3757] Leila: advance stance
+[ 3054] Perish: katana
+[ 3054] Perish: forge
+[ 3739] Myorthos: selfcalss
+[14040] Perish: eagle
+[14040] Perish: cobra
+[10128] Perish: forge
+[ 3700] Dante: lclass
+[ 3700] Dante: calss
+[14042] Perish: weakness
+[ 9516] Perish: astralplane
+[ 9516] Perish: shadowplane
+[ 9516] Perish: untether
+[ 9516] Perish: breach
+[ 9503] Perish: aggravated 
+[ 9503] Perish: aggra
+[14041] Perish: finger
+[14041] Perish: artifact
+[14041] Perish: notravel
+[14040] Perish: heartofice
+[ 9503] Perish: heartofice
+[14060] Josephine: ninjafriends
+[14060] Josephine: ninjaclan
+[   12] Kyrlin: auhru
+[   12] Kyrlin: ao
+[ 9504] Fenrir: finanna
+[ 9504] Fenrir: uktana
+[ 7715] Perish: rule2
+[ 7711] Perish: burrow
+[14040] Perish: regen warp
+[ 9701] Fenrir: silve fangs
+[14040] Rowan: statustable
+[14021] Fenrir: tiger
+[ 3054] Perish: mystery
+[ 3001] Fenrir: all
+[31900] Josephine: sixthsense
+[31900] Josephine: forge
+[ 9724] Fenrir: sixthsense
+[31758] Eladriell: forge
+[14081] Eladriell: sixthsense
+[ 3014] Fenrir: clap
+[ 3054] Eladriell: sixthsense
+[ 3054] Eladriell: forge
+[14081] Eladriell: yeh..seems to have stopped now
+[14081] Eladriell: energyflux
+[30000] Kestal: forge
+[ 3054] Fenrir: wyld
+[ 3054] Perish: stare
+[ 3054] Kovak: ancient
+[ 3207] Fadecourt: spri
+[   19] Buffy: xsocial
+[   19] Buffy: xsocials
+[14040] Mango: merciful blow
+[14040] Kabal: forge
+[14050] Mango: rules1
+[30000] Tsunami: advstancetable
+[30000] Tsunami: advancetable
+[30000] Tsunami: stancelis
+[ 3014] Adune: quickened
+[30009] Petronel: forge
+[30000] Tsunami: forge
+[ 9500] Adune: forge
+[   10] Kaeton: forge
+[ 9514] Adune: monkl
+[30000] Kestal: oclor
+[31505] Adune: magehouses
+[ 3712] Menju: changelings
+[ 3001] Kestal: delete
+[30009] Baalzamon: darkshield
+[14045] Mango: write
+[31714] Perish: mongoose
+[ 3054] Perish: dmon
+[ 3054] Perish: upkeep
+[ 3054] Perish: wartypes
+[ 3054] Baalzamon: trust
+[ 3054] Perish: teach
+[ 3054] Perish: fcommand
+[30000] Baalzamon: srie
+[31902] Josephine: brief
+[14060] Josephine: brief
+[14060] Josephine: brief1
+[14060] Josephine: brief2
+[14060] Josephine: brief3
+[31714] Perish: stalk
+[31702] Perish: bear
+[ 7712] Perish: familiar
+[31107] Baalzamon: wrptypes
+[ 3001] Eladriell: forge
+[30009] Tsunami: favor
+[32016] Kaeton: inparts
+[32016] Kaeton: pact
+[ 3700] Eterared: jedi
+[ 3054] Perish: delete
+[ 3054] Rowan: paradox
+[ 9236] Fadecourt: wwbrew
+[ 3700] Fadecourt: agon
+[14045] Kabal: kid
+[14045] Kabal: sex
+[14045] Kabal: mudsex
+[ 3001] Fadecourt: djinn
+[ 9186] Fadecourt: bloodlines
+[ 9186] Fadecourt: field
+[ 3054] Fenrir: himid
+[14081] Eladriell: sense
+[14061] Josephine: feeding
+[14021] Kovak: colors
+[14060] Pirvan: forge
+[14061] Pirvan: ashriel
+[14021] Kovak: reshape
+[14084] Eladriell: riposte
+[14084] Eladriell: higlander
+[14084] Eladriell: riposte
+[ 3054] Kovak: pkpowers
+[ 3054] Kovak: powers
+[ 3054] Kovak: pk
+[ 3054] Kovak: playerkill
+[ 3054] Kovak: murder
+[31133] Kovak: bried
+[31133] Kovak: brief
+[14101] Nanook: forge
+[14101] Nanook: forge
+[14101] Nanook: riposte
+[32000] Kaeton: alignment
+[ 3001] ETerared: behead
+[14081] Eltek: forge
+[ 3001] FENRIR: tal
+[ 3758] Toor: news
+[31703] Baalzamon: stancetabe
+[ 3001] Eterared: highlandeer
+[ 3700] Tasari: reborn
+[ 3700] Tasari: edges
+[ 9367] Kazrak: dshield
+[14062] Josephine: garouclans
+[14020] Lacien: induct
+[14020] Kovak: induct
+[14020] Kovak: favor
+[30009] Baalzamon: werewolfl
+[14062] Josephine: rules5
+[ 3054] Ceralkillah: rules6
+[14020] Miffer: paradox
+[ 9732] Fenrir: sahdow
+[14044] Rowan: forge
+[14044] Rowan: sense
+[14044] Rowan: sixthsense
+[14044] Rowan: mastery magic
+[14081] Eladriell: sixthsense
+[ 3722] Inarius: Highlands
+[14048] Kelset: warlockhout
+[ 7714] Baalzamon: demonarmor
+[14020] Lacien: ansi
+[   12] Tijer: riposte
+[ 3718] Ninianne: lantern
+[30009] Kazrak: deyespy
+[30009] Kazrak: confuse
+[30009] Kazrak: dconfuse
+[32018] Kaeton: resetarea
+[30009] Kazrak: doll
+[14021] Miffer: forge
+[14041] Rowan: wehostmuds
+[14041] Rowan: polymorph
+[ 3700] Cortez: forms
+[ 3700] Cortez: crinos
+[ 3700] Cortez: rage
+[ 3700] Cortez: greek gangrel
+[ 3700] Cortez: assamite
+[ 3700] Cortez: lasombra
+[ 7736] Kazrak: doll
+[ 9705] Miffer: edges
+[31713] Baalzamon: eagle
+[14020] Nazuki: gifts wendigo
+[ 9506] Nazuki: hitroll
+[ 9506] Nazuki: hit
+[ 9506] Nazuki: cap
+[ 3054] Miffer: telke tastic
+[31712] Rennyn: ninjahouse
+[31712] Rennyn: ninjahouses
+[ 8132] Eladriell: blitz
+[ 9503] Adune: sixthsense
+[ 9514] Adune: dex
+[30009] Baalzamon: mastert
+[ 3001] Rowan: jailwater
+[11206] Geist: thrur
+[   12] Kyrlin: rule1
+[  938] Selfie: famp
+[14060] Josephine: clandisc
+[14060] Josephine: clandisc
+[ 3035] Cynder: clandisc
+[ 3142] Cynder: obsu
+[ 3739] Skater: fallen]
+[ 9258] Cynder: unveil
+[ 9258] Cynder: pigeon
+[ 9258] Cynder: shroud
+[ 9258] Cynder: shroudnight
+[ 9253] Cynder: proteen
+[ 9253] Cynder: proteen
+[ 9253] Cynder: thaunaturgy
+[ 9253] Cynder: serpa
+[ 3005] Fadecourt: clandisc
+[31081] Fadecourt: energyflux
+[ 3700] Gulli: abomination
+[ 3700] Gulli: abomi
+[ 3700] Gulli: redawrds
+[ 3700] Gulli: redawrd
+[ 3700] Gulli: reborn
+[ 3700] Gulli: fallenm
+[ 3700] Gulli: demonpower
+[ 3714] Gulli: rabbit
+[14060] Josephine: feeding
+[ 9215] Skater: truesight
+[ 9701] NEphashuto: combat
+[14021] NEphashuto: moon demon
+[14021] NEphashuto: advanced stance
+[14021] NEphashuto: superl
+[ 9703] NEphashuto: gfit
+[ 3054] NEphashuto: treurge
+[30000] Skater: arena
+[ 4761] Lacien: spect
+[ 4761] Lacien: specticals
+[ 3001] Kylaria: food
+[ 3001] Kylaria: eating
+[ 9705] Kazrak: voodoo dol'
+[ 9705] Kazrak: voodoo doll
+[ 3001] Prelin: abomination
+[ 9713] Revelation: rabbit
+[ 9219] Prelin: domination
+[14000] Prelin: clerity
+[ 3001] Kovak: silent striders\
+[30000] Baalzamon: confuse
+[30000] Baalzamon: confuse
+[30000] Chigra: dcaust
+[30000] Chigra: dhorns
+[30000] Chigra: dtail
+[30000] Chigra: confuse
+[30000] Chigra: dconfuse
+[30000] Chigra: dragon
+[ 3054] Sejik: forge
+[ 3759] Asantyr: energyflux
+[ 3758] Asantyr: weapon resistance
+[ 3732] Asantyr: ice shield
+[ 3744] Durent: clanname
+[ 3722] Exorian: classreq
+[ 3722] Exorian: classreqs
+[ 9209] Exorian: assassinate
+[ 3054] Exorian: vampowers
+[ 3054] Exorian: vamppowers
+[ 3744] Exorian: clandisc
+[ 3054] Exorian: kindredlcnas
+[14012] Exorian: portean
+[ 3700] Ravnos: reborn
+[ 3054] Uyliamin: leap
+[ 3054] Uyliamin: leap
+[14012] Exorian: demonclans
+[14012] Exorian: garsc
+[ 9707] Fenrir: furies
+[ 9711] Fenrir: whelp
+[14000] Exorian: obeahj
+[14000] Exorian: coil
+[14000] Exorian: presense
+[14000] Exorian: presense
+[14060] Josephine: tirbe
+[14060] Josephine: demonclan
+[14060] Josephine: demonclans
+[14060] Josephine: fallnils
+[14060] Pirvan: ninjaclan
+[14060] Pirvan: ninjailk
+[   12] Kyrlin: gavor
+[   12] Kyrlin: favor
+[14060] Josephine: ninjafamalies
+[ 7030] Miffer: newibe
+[   12] Kyrtest: lupis
+[   12] Kyrlin: untether
+[30009] Baalzamon: quest card
+[ 3757] Melkept: ss
+[14060] Josephine: ninjafamalies
+[30000] Slake: boards
+[11131] Exorian: mageclans
+[11135] Exorian: ninjaclans
+[ 3746] Orinon: statcaop
+[ 3054] Chibazzi: forge
+[14020] Leoparnicus: gnosis
+[14000] Exorian: fallenclans
+[14000] Exorian: demonclans
+[14000] Exorian: demontribes
+[14020] Amduscias: shaodw
+[ 3001] Nazuki: stancetabel
+[ 3001] Adune: stance table
+[ 3001] Johnny: klaive
+[ 3001] Dairokurou: minja
+[ 3004] Fuzzy: ,principlesa
+[ 3004] Fuzzy: principlesa
+[ 3004] Fuzzy: upkeep
+[31717] Exorian: mageclans
+[31717] Exorian: Monktemples
+[31717] Exorian: Monk temples
+[14012] Exorian: cappadocian
+[14012] Exorian: brujah
+[ 3700] Corgrath: mastery magic
+[ 3700] Killua: monktemples
+[ 3700] Killua: monktemples
+[ 3758] Xzibit: forhe
+[ 3758] Xzibit: forge
+[ 3054] Miffer: eladriell
+[30000] Hipacritis: sixthsense
+[ 3054] Timothy: forge
+[30000] Hipacritis: forge
+[ 9721] Eladriell: forge
+[ 3014] Eterared: forge
+[31512] Nazuki: garou tribes
+[ 3700] Keltan: reborn
+[14080] Adune: monkhouse
+[ 3054] Eterared: reborn
+[ 3700] Clown: abomination
+[ 3712] Ollie: ifts
+[ 3712] Ollie: bone gnawers
+[ 3712] Ollie: bone gnaw
+[ 3712] Ollie: bone gnawers
+[ 3054] Zaknafein: monktemples
+[ 3054] Zaknafein: ninhafamilies
+[ 9711] Nazuki: gifts galliard
+[ 9725] Nazuki: silber
+[ 9501] Nazuki: quesy
+[ 9252] Iago: magecreate
+[ 9252] Iago: detect mgic
+[ 3054] Malone: rakshasas
+[ 3054] Genebiel: pkill
+[ 9407] Genebiel: teach
+[ 9407] Genebiel: ragebash
+[ 3001] Genebiel: auspices
+[ 1116] Genebiel: abomination
+[ 1116] Genebiel: kindree
+[ 3001] Genebiel: reqps
+[ 3001] Genebiel: mastery magic
+[ 3001] Genebiel: create major
+[ 3001] Genebiel: insert page
+[ 3001] Genebiel: remove page
+[ 3001] Genebiel: copy
+[ 3001] Genebiel: la de da
+[ 3054] Genebiel: restore
+[ 3054] Genebiel: changwes
+[ 3001] Genebiel: attacks
+[ 3001] Genebiel: attack
+[ 3001] Genebiel: forge
+[ 3700] Craze: monktemples
+[ 3700] Craze: reborn
+[ 3700] Craze: mummies
+[ 3700] Craze: edge
+[31103] Kia: forge
+[31106] Kia: forge
+[31106] Kia: forge
+[31106] Kia: forge
+[31106] Kia: forge
+[31106] Kia: forge
+[ 3001] Genebiel: cappadocian
+[ 3001] Genebiel: cappa
+[ 3700] Lightblade: upgrade
+[ 3736] Valud: kindreed
+[ 3014] Valud: map
+[14080] Kyrus: polymorph
+[14080] Kyrus: 'create major'
+[ 3700] Belzec: reborn
+[31116] Kyrus: forge
+[ 3724] Aphrodite: food
+[ 3700] Lotharin: drowe
+[30009] Uyliamin: might
+[30000] Mintor: quest cards
+[31745] Petronel: generation
+[ 3054] Azreic: shard
+[ 7734] Kazrak: track
+[ 7737] Kazrak: edges
+[ 3758] Vincent: TRTAIN
+[ 7729] Kazrak: mob
+[ 3739] Vincent: autostance
+[ 3739] Vincent: stances
+[14040] Iago: advancedstane
+[ 3730] Vincent: crane
+[ 3730] Vincent: crane
+[ 3730] Vincent: stancectable
+[ 3759] Samaus: preactice
+[ 3758] Samaus: discription
+[ 3721] Samaus: news
+[ 3721] Samaus: NEWS
+[ 3732] SilDothi: monktemplews
+[ 3737] SilDothi: monktemples
+[ 3737] SilDothi: shaolin
+[ 9321] Demone: regs
+[30000] Petronel: statca[
+[30000] Petronel: twist
+[30000] Petronel: she
+[ 9702] Kyrus: entrophy
+[ 9702] Kyrus: dimmak
+[ 9203] Samaus: drain
+[ 9214] Kerradon: vampirehouses
+[ 3758] Samaus: dex
+[ 3712] Samaus: comet tail
+[ 3712] Samaus: comet's tail
+[ 3744] Samaus: tutorial
+[ 3744] Samaus: mud
+[ 5551] Samaus: pick up
+[ 3054] Samaus: leg
+[ 3054] Samaus: hit
+[ 3744] Jimi: reqas
+[ 3744] Demone: powers
+[ 3744] Demone: classeq
+[ 3054] Demone: cland
+[ 5348] Samaus: wount
+[ 5348] Samaus: wound
+[ 5348] Samaus: law
+[ 5348] Samaus: news
+[ 5348] Samaus: die
+[14000] Demone: golcanda
+[31130] Kyrus: favor
+[14000] Demone: shadowgate
+[ 9305] Demone: auspext
+[ 3745] Varek: calss
+[ 9715] Uyliamin: induxt
+[ 9255] Demone: powers
+[ 3054] Mintor: djinn
+[ 3054] Mintor: frqs
+[ 9204] Esmi: spehere
+[ 9204] Iago: sammis
+[ 9204] Samaus: warewolf
+[ 9204] Samaus: harewolf
+[ 9204] Samaus: warewolf
+[ 9209] Samaus: gnosis
+[ 9207] Samaus: garau
+[ 9259] Demone: visc
+[ 9259] Demone: viscissitude
+[ 2203] Samaus: taik
+[ 2203] Samaus: wand
+[ 2203] Samaus: element
+[ 2203] Samaus: info
+[14040] Esmi: propose
+[14040] Iago: propose
+[14040] Iago: xsocial
+[14040] Iago: marriage
+[ 2210] Samaus: mort
+[ 2210] Samaus: melom
+[   10] Toast: xsocials
+[   10] Toast: xsocial
+[ 5373] Samaus: gnosis
+[ 3207] Samaus: unclass
+[ 3745] Samaus: blade
+[ 3745] Samaus: weapon
+[ 3745] Samaus: dagger
+[ 3731] Buffy: immred
+[ 3731] Buffy: immref
+[ 3731] Buffy: olc
+[ 3731] Buffy: alsit
+[ 3731] Buffy: aedit
+[ 3731] Buffy: mp
+[30079] Zanathos: reborn
+[25006] Uyliamin: inparttypes
+[25006] Uyliamin: dtail
+[ 3001] Galon: nightstar
+[ 3022] Galon: combat
+[25002] Uyliamin: gradft
+[ 3207] Uyliamin: lifespan
+[25004] Galon: monktemples
+[14012] Exorian: forge
+[ 3004] Galon: body
+[ 3054] Uyliamin: darmor
+[ 3054] Uyliamin: demonamour
+[ 3054] Uyliamin: demonamour
+[14021] Beaver: garu
+[30000] Uyliamin: limb
+[ 5010] Nazuki: gifts homid
+[ 5010] Nazuki: lupis
+[ 5010] Nazuki: auhroun
+[ 5010] Nazuki: blck
+[ 3054] Nazuki: uktean
+[ 3504] Lucaz: reclass
+[14000] Exorian: keuijin
+[14000] Exorian: edges
+[14000] Exorian: torture
+[ 3759] Alerith: purp
+[ 8119] Exorian: rofl
+[ 8119] Exorian: hag
+[ 8119] Exorian: drain
+[ 8121] Exorian: Putrefaction
+[ 3729] Theryl: monktemples
+[30000] Uyliamin: warplist
+[30000] Uyliamin: demonamour
+[30000] Uyliamin: demonamour
+[10105] Uyliamin: confuse
+[10105] Uyliamin: confuse
+[10113] Uyliamin: tiger
+[10113] Uyliamin: autostance
+[ 9704] Uyliamin: move
+[10114] Uyliamin: ddemon
+[30000] Uyliamin: demonweapon
+[30000] Uyliamin: quest card
+[30001] Uyliamin: questing
+[ 3700] Hitadomo: communication
+[ 6303] Demone: vtwist
+[ 3206] Demone: trust
+[14020] Kovak: demonclans
+[14020] Kovak: bloodlines
+[14020] Kovak: baali
+[ 3054] Uyliamin: power
+[ 3700] Lox: abomination
+[ 3700] Lox: warlocko
+[ 3700] Lunak: classme
+[ 3757] Jeser: pk
+[ 3757] Jeser: player
+[ 3757] Jeser: play
+[ 3712] Jeser: autoexit
+[ 3005] Galon: body
+[ 3700] Galon: monkmind
+[ 9227] Demone: powers
+[ 3700] Greywolf: abomination
+[ 3757] Greywolf: mortal
+[ 3054] Uyliamin: alchemy
+[ 3054] Uyliamin: alchemy
+[ 3054] Uyliamin: alchemy
+[10120] Uyliamin: demonshield
+[10120] Uyliamin: confuse
+[ 9716] Uyliamin: move
+[ 9521] Uyliamin: pact
+[25002] Nazuki: vodoo
+[14020] Nazuki: siletn
+[14020] Nazuki: stafg
+[ 3700] Ezekial: reborn
+[14101] Nanook: abbotte
+[10126] Uyliamin: confuse
+[10132] Uyliamin: crane
+[10133] Uyliamin: dragon
+[14020] Kovak: e-mail
+[10124] Uyliamin: lifespan
+[ 3758] Lesk: minor creation potion
+[ 3741] Yakutat: xsocial
+[ 3755] Lesk: inl
+[   12] Yakutat: prefix
+[ 9303] Lesk: potion
+[ 9303] Lesk: create drink
+[ 5204] Lesk: move
+[ 5230] Lesk: food
+[ 3758] Lesk: become
+[14040] Esmi: disquiet
+[ 8125] Uyliamin: push
+[ 3005] Nazuki: giftst
+[ 3701] Carson: bear
+[ 3701] Carson: resistances
+[14021] Jake: truesight
+[ 3759] Lesk: blood
+[ 3759] Lesk: spring
+[ 3736] Lesk: levels
+[ 3007] Dakravel: ninjfamilies
+[ 3014] Dakravel: fclass
+[ 9514] Adune: Shakrin
+[14084] Adune: shakrin
+[31124] Esmi: sinwave
+[14084] Adune: shak
+[14040] Esmi: shakrin
+[14084] Adune: shakrin
+[   10] Simian: forge
+[14041] Rowan: shakrin
+[ 6017] Esmi: titles
+[14040] Esmi: copy
+[ 8130] Eladriell: shakrin
+[ 9505] Nazuki: klaive
+[   10] Simian: colors
+[   10] Simian: colours
+[14040] Esmi: vampirec
+[31517] Nazuki: coial
+[31533] Nazuki: klaive
+[31533] Nazuki: great
+[31533] Nazuki: good
+[31533] Nazuki: lesser
+[ 3700] Aramus: abombinations
+[ 3700] Aramus: abomination
+[ 3700] Aramus: Abomination
+[ 3700] Aramus: rebron
+[ 3700] Aramus: reborn
+[ 3700] Aramus: Reborn
+[ 3700] Supa: regs
+[ 3700] Supa: fregs
+[ 3744] Supa: stances
+[30000] Petronel: genera
+[ 3700] Kross: mummies
+[ 3040] Nazuki: mount spell
+[14033] Nazuki: gauroutribes
+[ 3700] Maelthos: gen
+[ 3700] Maelthos: age
+[ 3700] Maelthos: ghost
+[ 9504] Nazuki: arena
+[ 9504] Nazuki: challenge
+[ 1117] Lucaz: vamport
+[ 3001] Jericho: mortals
+[ 3001] Jericho: autoexit
+[ 3700] Crymthus: demonarmor
+[ 3712] Crymthus: selflcass
+[ 3712] Crymthus: selflclass
+[ 3712] Crymthus: clearstats
+[ 3712] Crymthus: advancedstances
+[ 3712] Crymthus: stances
+[ 3712] Crymthus: artifact
+[ 3712] Crymthus: autostance
+[ 3712] Crymthus: draw
+[ 3712] Crymthus: twist
+[ 3712] Crymthus: phase
+[ 3759] Crymthus: energyflux
+[ 3712] Crymthus: combat
+[ 3712] Crymthus: battle
+[ 3712] Crymthus: rank
+[ 3712] Crymthus: ranks
+[ 3700] Zyric: forge
+[ 3700] Zyric: forge
+[ 3700] Zyric: forge
+[ 3700] Zyric: iome
+[   10] Anatole: abomination
+[   10] Anatole: shakrin]
+[   16] Anatole: edges
+[14080] Chibazzi: forge
+[ 3054] Santiago: vampireclans
+[ 8118] Kia: kestal
+[11116] Kia: sphere spirit
+[11116] Kia: sphere time
+[11116] Kia: sphere time
+[30000] Mintor: 'red magic'
+[30000] Uyliamin: quintessence
+[ 3730] Jericho: bonus
+[ 3730] Jericho: admin
+[ 3001] Uyliamin: confuse
+[ 3001] Uyliamin: djinn
+[   10] Toast: rule2
+[   10] Toast: rules5
+[ 3727] Errtu: changelings
+[ 3732] Errtu: darkelves
+[ 3732] Errtu: darkelvesclan
+[ 9509] Nazuki: charge
+[ 9510] Nazuki: uktnea
+[ 9510] Nazuki: gaia
+[ 3207] Staind: quest trust
+[ 3054] Khelek: reborn
+[ 3054] Eterared: forge
+[ 3054] Cole: reborn
+[ 3054] Cole: abomination
+[ 3054] Cole: abom
+[ 3054] Cole: reqards
+[ 3739] Rune: abomination
+[ 3001] Sparky: reborn
+[ 3001] Sparky: reqsa
+[ 3734] Rune: piece
+[ 3734] Rune: quest piece
+[ 3734] Rune: gold
+[ 3734] Rune: questpieces
+[ 9504] Nazuki: charge
+[ 9504] Nazuki: wenidgo
+[ 9504] Nazuki: wendibo
+[ 9504] Nazuki: gifs
+[ 3743] Kly: reborn
+[ 3743] Kly: int
+[ 3743] Kly: intelligence
+[ 3743] Kly: wis
+[ 3743] Kly: strength
+[ 3743] Kly: trust
+[14021] Nazuki: delete
+[14021] Nazuki: del
+[14021] Nazuki: utena
+[ 3700] Madhkon: mageclans
+[ 3737] Sharyn: reborm
+[ 3054] Darpon: FOOD
+[ 3700] Jessiah: newib
+[ 3727] Hellblade: weapons
+[ 3727] Hellblade: weapon
+[ 3727] Hellblade: skills
+[ 3700] Axaea: xsocials
+[ 3054] Samaus: prompr
+[ 9209] Samaus: loot
+[ 3054] Naeblis: mastery magic
+[ 3054] Naeblis: create major
+[ 3054] Naeblis: 'create major'
+[14002] Blackfall: comand
+[ 3054] Khelek: monktemples
+[ 3054] Khelek: forge
+[ 3054] Khelek: reborn
+[ 3729] Khelek: demondiscs
+[ 3729] Khelek: demon discs
+[ 3001] Khelek: dblink
+[ 8001] Khelek: sixthsense
+[ 3014] Khelek: nightstar
+[ 3001] Adune: stance table
+[ 7768] Nazuki: haster
+[ 7768] Nazuki: haste
+[ 7768] Nazuki: haste
+[ 3001] Nazuki: threurge
+[ 3001] Nazuki: thurge
+[ 3700] Prophet: walock
+[ 3702] Jinx: food
+[ 3700] Famori: mummies
+[ 9510] Nazuki: qp
+[ 9510] Nazuki: points
+[ 3748] Kaine: pwer
+[ 3748] Kaine: power
+[ 3748] Kaine: disiplines
+[ 3724] Isis: upkeep
+[ 3759] Isis: malcav
+[ 3760] Isis: cellerity
+[ 3760] Isis: cimerstry
+[ 3760] Isis: chimeristry
+[ 3760] Isis: abtenebration
+[ 3760] Isis: abtenebration
+[ 3700] Coco: admin
+[ 3700] Coco: gods
+[ 3700] Coco: implementors
+[ 3700] Coco: coders
+[ 3700] Coco: builders
+[ 3700] Coco: admin
+[14040] Kabal: altreal
+[ 3744] Sauron: eagle
+[ 3700] Celewyn: conjure
+[ 3001] Celewyn: energy flux
+[ 3001] Celewyn: energyflux
+[  114] Celewyn: stances
+[  114] Celewyn: skills
+[  115] Celewyn: bull
+[ 3748] Celewyn: ill
+[ 3054] Celewyn: gold
+[ 3712] Celewyn: autostance
+[ 3001] Celewyn: rules5
+[ 3001] Celewyn: appeals
+[ 3001] Celewyn: appeals
+[14046] Jossy: post
+[ 3040] Nazuki: gaia
+[ 3040] Nazuki: gaia
+[14042] Kabal: mummies
+[14042] Kabal: reborn
+[ 3727] Aragon: monkbloick
+[ 3727] Aragon: monkcombos
+[ 3727] Aragon: spirt
+[ 3727] Aragon: monksprit
+[ 9237] Samaus: see
+[ 9421] Zamar: teleprot
+[ 9423] Zamar: glow
+[ 9423] Zamar: hum
+[ 3746] Azya: news
+[ 3001] Darcy: avator
+[ 3712] Riley: stoneskin
+[ 3712] Riley: energyflux
+[ 3712] Riley: minorcreation
+[ 3712] Riley: stoneskin
+[ 3712] Riley: eartquake
+[ 3712] Riley: energyflux
+[ 3712] Riley: protection good
+[ 3712] Riley: track
+[ 3712] Riley: energyflux
+[ 3712] Riley: energyflux
+[ 3712] Riley: energydrain
+[ 3712] Riley: track
+[ 3054] Eterared: abomination
+[ 3054] Eterared: fallem
+[ 3054] Riley: doz
+[ 6002] Riley: communication
+[ 3715] Riley: advancedstances
+[ 3700] Beldin: mud
+[ 3054] Riley: eru
+[ 3054] Riley: discilines
+[ 3054] Riley: embraced
+[ 3700] ThatGuy: upgrade
+[ 3716] Vol: deamon
+[ 3054] Vol: dex
+[ 3054] Vol: stats
+[ 3054] Vol: str
+[ 3712] Vol: demonmm
+[ 3020] Riley: lasombra
+[ 3020] Riley: malkavian
+[ 3001] Darcy: arena
+[ 3001] Darcy: chalenge
+[30328] Riley: combat
+[ 3001] Riley: embrace
+[ 9500] Lucaz: entrance
+[ 1157] Riley: shadowplane
+[ 3001] Riley: lasambra
+[ 8905] Riley: astralplane
+[ 8905] Riley: astral
+[30328] Riley: morph
+[ 2554] Riley: insubstantial
+[ 3001] Riley: plane
+[ 3001] Riley: planes
+[ 3001] Riley: gangrel
+[ 3001] Riley: clandisc
+[ 3001] Riley: powers
+[ 3001] Riley: shadowplane
+[ 3001] Riley: appeals
+[ 3001] Riley: appeals
+[ 3001] Riley: powers
+[ 3054] Riley: protection good
+[ 3054] Riley: powers
+[ 3055] Riley: drain
+[ 3006] Riley: sun
+[   12] Simian: vampty
+[   12] Simian: vampt
+[ 5106] Riley: birth
+[ 5106] Riley: birth control
+[ 3207] Riley: shadowstep
+[30328] Riley: thaugaturgy
+[ 5105] Riley: shroud
+[ 5136] Riley: umbravision
+[ 3020] Riley: gob
+[ 3713] Riley: shadowstep
+[ 3713] Riley: shadowwalk
+[ 3054] Riley: emppower
+[ 3054] Riley: empower
+[ 3001] Riley: abfuscate
+[ 5105] Riley: elemental shields
+[ 5105] Riley: elemental shields
+[ 5556] Riley: power
+[ 5556] Riley: disciples
+[ 5556] Riley: daiminion
+[ 5120] Riley: coil
+[ 3007] Eterared: Keui-Hin
+[14060] Josephine: priciples
+[ 9712] Shosuro: xsocials
+[ 9712] Shosuro: xsocial
+[ 5011] Riley: torpor
+[ 5124] Riley: cauldron
+[ 5109] Riley: unveil
+[ 3001] Riley: classs
+[ 3001] Riley: calss
+[ 3001] Riley: imortal
+[ 3001] Riley: mastery magic
+[ 3001] Riley: create minro
+[ 3001] Riley: polymorph
+[ 3001] Riley: wwbreew
+[ 3001] Riley: wwbrew
+[ 3001] Riley: wwbrew
+[ 3001] Riley: grifts
+[ 3054] Jae: drowpoers
+[ 3054] Jae: drowpoewrs
+[ 5002] Riley: fleshcraft
+[ 3700] Aztek: oldchanges1
+[ 3700] Aztek: dga
+[ 3712] Riley: daimninon
+[ 3715] Riley: obhea
+[ 3001] Riley: beckon
+[ 3001] Riley: bloodwall
+[ 9321] Darcy: riposte
+[ 3700] Tahj: fallem
+[ 3700] Tahj: pwarps
+[ 3700] Tahj: calss
+[30321] Cyanosis: weapons
+[ 5013] Riley: gourge
+[ 3714] Falcora: edges
+[ 3714] Falcora: fightstylehelp classes
+[30328] Riley: unveil
+[ 3746] BLiNK: mort
+[ 5117] Darcy: forge
+[ 5009] Riley: kindred clans
+[ 3700] Kylearean: appeals
+[ 3700] Kylearean: mccp
+[ 3735] Kylearean: mccp
+[ 3727] Kylearean: brief
+[19265] Darcy: forge
+[ 3556] Riley: pk
+[30001] Riley: quest card
+[30001] Riley: card
+[ 3001] Riley: quest items
+[ 7440] Riley: frag
+[ 3001] Riley: blast
+[ 3001] Riley: grep
+[ 5132] Riley: vicissituse
+[ 3001] Riley: assassinate
+[ 5012] Riley: daimoninon
+[ 5012] Riley: daimon
+[ 5012] Riley: dragonform
+[ 3739] Rza: angel
+[ 3700] Spaz: reborn
+[ 3001] OLEG: swort
+[ 3001] OLEG: food
+[11019] Nazuki: mortal
+[11019] Nazuki: pk
+[11019] Nazuki: plalyer
+[11019] Nazuki: player
+[11019] Nazuki: killing
+[11019] Nazuki: pking
+[ 3001] Rowan: xsocials
+[ 3001] Maeveen: write
+[ 3001] Maeveen: maeveen
+[ 3001] Maeveen: runes
+[ 3001] Maeveen: major
+[ 3001] Maeveen: create major
+[ 3001] Maeveen: major create
+[ 3001] Maeveen: create major object
+[ 3001] Maeveen: crat
+[ 3001] Maeveen: major creation
+[ 3001] Maeveen: creation major
+[ 3001] Maeveen: creatioin
+[ 3001] Maeveen: creation
+[ 3001] Maeveen: write
+[ 3001] Maeveen: rune
+[ 3001] Maeveen: major
+[ 3001] Maeveen: runes
+[ 3001] Maeveen: rune
+[ 3001] Maeveen: teach
+[14040] Maeveen: rune
+[14040] Maeveen: major
+[14040] Maeveen: create major
+[ 3700] Zencite: tobias
+[ 3700] Nuance: abomination
+[ 3700] Nuance: class fae
+[ 3700] Nuance: dowpowers
+[ 3700] Nuance: clases
+[ 3700] Nuance: edges
+[ 3700] Nuance: abomination
+[ 3700] Nuance: Abomination
+[ 3758] Nuance: rage
+[ 3712] Nuance: experiene
+[ 5104] Doran: nigenno
+[ 5104] Doran: nija
+[ 3700] Thrin: arti
+[ 3744] Thrin: ausprice
+[ 3744] Thrin: ribes
+[ 3744] Thrin: ribe
+[ 3700] Vampuro: vampuro
+[ 3739] Madrid: reqx
+[ 3001] Johnny: morph
+[14020] Johnny: shoot
+[14020] Johnny: giliard
+[ 3005] Riley: paradox
+[ 7439] Riley: summoning
+[ 5265] Riley: paradox
+[ 3001] Rowan: toast
+[ 3722] MegaTrunks: calls
+[11114] Kia: edges
+[ 3700] Greywolf: reqs warlock
+[ 3001] Tret: gems
+[ 3758] Pjatabe: stats
+[ 3725] Pjatabe: souldblade
+[ 3742] Riddel: monktemples
+[ 3054] Riddel: move
+[ 9215] Riddel: demonpower
+[ 9215] Riddel: demonpowers
+[ 9215] Riddel: inparts
+[ 3738] Saravok: forge
+[ 3738] Saravok: gem
+[14040] Rowan: quest piece
+[14040] Rowan: questitem
+[ 9331] Riddel: frostbraeth
+[ 9331] Riddel: frostbreath
+[30001] Riddel: lifespan
+[30001] Riddel: might
+[30001] Riddel: dspeed
+[30001] Riddel: dtail
+[30001] Riddel: dimp
+[ 3712] Talon: monktemples
+[ 3744] Alendra: combat
+[ 3725] Saravok: pesent
+[30000] Riddel: dtail
+[ 3700] Kenshin: falen
+[ 3700] Hoshiro: forge
+[ 3054] Gana: priest
+[30000] Riddel: asuras
+[30000] Riddel: djinn
+[ 3001] Megatrunks: join clan
+[ 3001] Megatrunks: cklan
+[ 3001] Megatrunks: finder
+[ 3001] Megatrunks: caln
+[ 3001] Megatrunks: nps
+[ 3001] Megatrunks: telport
+[ 3001] Megatrunks: werewolf teliport
+[ 3001] Megatrunks: moongate
+[ 3001] Megatrunks: cocoon
+[ 3001] Megatrunks: achieve
+[ 3001] Megatrunks: tride
+[ 3001] Megatrunks: news
+[ 3001] Megatrunks: keyword
+[ 3001] Megatrunks: mwalk
+[ 3001] Alendra: guild
+[ 3001] Alendra: guilds
+[ 3001] Njal: reqsa
+[ 3701] Nazerak: chant
+[ 3712] Nazerak: mastery magic
+[ 3712] Nazerak: find fimiliar
+[ 3712] Nazerak: find familiar
+[ 3712] Nazerak: find
+[ 3712] Nazerak: page
+[ 3712] Nazerak: insert
+[ 3041] Nazerak: copy
+[ 3700] Aelorn: copy
+[ 3054] Nazerak: major
+[ 3054] Nazerak: create major
+[ 3054] Nazerak: polymorph
+[ 3054] Nazerak: "major creation"
+[ 3054] Nazerak: "create major"
+[ 3054] Nazerak: spellbook
+[ 3054] Nazerak: copy
+[ 3054] Nazerak: COPY
+[ 3732] Aelorn: preqs
+[ 3054] Nazerak: entrophy
+[ 3054] Nazerak: entrophy
+[ 3054] Nazerak: quintessence
+[ 3054] Nazerak: quin
+[ 3054] Nazerak: quint
+[ 9236] Nazerak: reqa
+[ 3054] Nazerak: mmagic
+[ 3054] Nazerak: rune
+[ 3054] Nazerak: "help sample-affect-spell"
+[ 3054] Nazerak: "damage spells"
+[ 3054] Nazerak: "action spells"
+[ 3054] Nazerak: copy
+[ 3054] Nazerak: polymorph
+[ 3054] Nazerak: spellbook
+[ 3054] Nazerak: create major
+[ 3054] Nazerak: notetrust
+[ 3054] Nazerak: sphere correspondence
+[ 2211] Nazerak: piece
+[30328] Kira: thurge
+[30000] Riddel: bone
+[30001] Staind: trust
+[30001] Staind: quest trust
+[ 3207] Apex: align
+[ 3207] Apex: alignment
+[ 9212] Shallen: forge
+[ 5254] Shallen: alignment
+[ 9330] Ozzy: upgrade
+[ 9212] Ozzy: forge
+[ 3711] Chemnal: fore
+[ 3711] Chemnal: forge
+[ 3001] Shallen: powers
+[14004] Shallen: powers
+[14004] Shallen: pow
+[14004] Shallen: pow
+[14004] Shallen: pow
+[11053] Shallen: attacks
+[19273] Shallen: mortal
+[ 8122] Shallen: affects
+[ 8122] Shallen: affectss
+[ 8122] Shallen: affect
+[14004] Shallen: necklace
+[ 3005] Shallen: upgrade
+[31131] Shallen: brief
+[31126] Shallen: upgrade
+[11126] Shallen: weapon
+[ 3758] Keljin: info
+[ 3758] Keljin: information
+[ 3004] Keljin: mortal
+[ 3004] Keljin: guild
+[ 3004] Keljin: peasent
+[ 3744] Pikkon: clandisc
+[ 3744] Magus: mastery magic
+[ 3700] Zuhalter: calss
+[ 3054] Nazerak: rune
+[ 3054] Nazerak: creation
+[ 3700] Lox: reborn
+[ 3700] Avendarian: stances
+[ 3054] Nazerak: create major
+[ 3054] Nazerak: major creation
+[ 3054] Nazerak: copy
+[ 3054] Nazerak: major
+[ 3054] Nazerak: damage spells
+[ 3054] Nazerak: 'damage spells'
+[ 3054] Nazerak: damagespell
+[ 3054] Nazerak: damagespells
+[ 3054] Nazerak: spellsdamage
+[ 3054] Nazerak: action
+[ 3054] Nazerak: action spells
+[ 3054] Nazerak: spell targets
+[ 3054] Nazerak: targets
+[ 3054] Nazerak: spell messages
+[ 3054] Nazerak: spell applications
+[ 3054] Nazerak: affects
+[ 3054] Nazerak: bonus
+[ 3054] Nazerak: duration
+[ 3054] Nazerak: flags
+[ 3054] Nazerak: 'MASTERY MAGIC'
+[30001] Nazerak: types
+[30001] Nazerak: rune
+[30001] Nazerak: glyph
+[30001] Nazerak: sigil
+[30001] Nazerak: damage spells
+[30001] Nazerak: damage spell
+[30001] Nazerak: affecrt
+[30001] Nazerak: smple-affect-spell
+[30001] Nazerak: page
+[30001] Nazerak: chant
+[30001] Nazerak: example
+[30001] Nazerak: example-affect-spell
+[30001] Nazerak: sample-damage-spell
+[ 3054] Nazerak: magicmastery has a lot of its entries missing.
+[ 3054] Nazerak: conne
+[ 3700] Thule: mastery magic
+[ 3700] Thule: create major
+[ 3700] Thule: 'create major'
+[ 3700] Thule: create_major
+[ 3700] Malum: find
+[ 3700] Malum: poly
+[ 3054] Nazerak: spell targets
+[ 3054] Akelse: delete
+[ 3054] Nazerak: action spells
+[ 3730] Isaac: clasn
+[ 3737] Defam: brief
+[ 3001] Kimosabe: gossip
+[ 3700] Jifeo: forge
+[ 3700] Jifeo: abomination
+[ 3700] Jifeo: ghosts
+[ 3700] Jifeo: reborn
+[ 3700] Jifeo: kuei-jin
+[ 3700] Jifeo: edges
+[ 3700] Jifeo: extrapsells
+[ 3700] Jifeo: <time>
+[ 3700] Jifeo: eagle
+[ 3026] Tracker: appeals
+[ 3026] Tracker: appeals
+[ 3721] Tracker: chaos
+[ 3721] Tracker: chaotic
+[ 3721] Tracker: cap
+[ 3001] Tracker: mal
+[ 3001] Tracker: summery
+[ 3700] Mystical: changes
+[ 3700] Mystical: oldchanges
+[ 3700] Mystical: changes
+[ 3700] Zeranamu: changes
+[ 3700] Mystical: oldchanges
+[ 3700] Zeranamu: kensai
+[ 3001] Mystical: todo
+[ 3001] Mystical: colors
+[ 3001] Mystical: colors2
+[ 3001] Mystical: mudstat
+[    1] Mystical: mightrate
+[    1] Mystical: might
+[    1] Mystical: coder
+[    1] Mystical: coders
+[ 3700] Javidan: kensai
+[ 3728] Theron: riposte
+[ 3014] Tracker: kensai
+[ 3714] PReacher: legendstat
+[ 3714] PReacher: lstat
+[ 3715] PReacher: legend
+[ 3722] PReacher: legend
+[ 3725] Tengu: pmage
+[ 3731] Tengu: statcap
+[ 3737] Tengu: research
+[ 3737] Leah: pmage
+[    1] Tracker: double
+[    1] Tracker: qp
+[    1] Mystical: sex
+[    1] Mystical: pussy is good
+[    1] Mystical: pussy is good
+[    1] Mystical: pussy is good
+[    1] Mystical: pussy is good
+[    1] Mystical: pussy is good
+[    1] Mystical: pussy is good
+[ 3700] Kelane: changes
+[ 3727] Kelane: forge
+[ 3738] Chris: pmage
+[ 3700] Veil: changes
+[ 3744] Asmodeus: legnd
+[ 3734] Shikar: move
+[ 3734] Shikar: dmeon
+[ 3700] Malver: changes
+[ 3739] Aqer: reqs
+[ 3739] Aqer: correspondecne
+[ 3738] Kazuma: newbie xp
+[ 3739] Kazuma: itempurge
+[    2] Tracker: itempurge
+[ 3700] Kazuma: ansi
+[ 3001] Kazuma: godwards
+[ 3001] Kazuma: rage
+[ 3001] Kazuma: quils
+[ 3001] Kazuma: mtis
+[ 3001] Kazuma: form
+[ 3001] Kazuma: pilodox
+[ 3001] Kazuma: philodx
+[ 3001] Kazuma: viper
+[ 3700] Greystar: mantra
+[ 3001] Kazuma: auto]
+[ 3001] Kazuma: auto
+[ 3001] Kazuma: loki
+[ 3018] Kazuma: mother's
+[ 3005] Kazuma: gil
+[ 3014] Kazuma: klaive
+[ 3014] Kazuma: kal
+[ 3014] Kazuma: klai
+[ 3014] Kazuma: klaive
+[ 3001] Aqer: leader
+[ 3700] Ivy: changes
+[ 3004] Ivy: progress
+[ 3746] Ramus: gaou
+[ 3746] Ramus: gaoru
+[ 9242] Aqer: itempurge
+[ 9251] Kazuma: copy
+[ 9251] Kazuma: copy
+[ 3735] Lasrus: clans
+[ 2387] Kazuma: gate
+[ 2387] Kazuma: moongate
+[ 2387] Kazuma: gatemoon
+[ 3207] Nafai: matterr
+[ 3470] Kazuma: form
+[ 3470] Kazuma: rage
+[25006] Kazuma: card
+[ 3013] Kazuma: paw
+[19204] Lasrus: entropu
+[ 3471] Kazuma: wither
+[ 3471] Kazuma: generation
+[30001] Kazuma: klaive
+[ 3015] Lasrus: gold
+[ 3739] Darien: forge
+[  924] Nafai: immine
+[ 2213] Lasrus: clans
+[ 3054] Kazuma: items
+[ 3054] Kazuma: quest_teims
+[ 3054] Kazuma: lcommands
+[ 3054] Kazuma: lcommmands
+[ 3207] Nafai: brief
+[ 3207] Kazuma: eye
+[ 3001] Darien: forge
+[ 1645] Kazuma: selfclass
+[ 3001] Kazuma: uke
+[ 3001] Kazuma: uke
+[ 9507] Kazuma: top
+[ 3727] Talos: demonarmor
+[ 3727] Talos: demonpoins
+[ 2067] Kazuma: clan
+[ 9500] Kazuma: toler
+[ 9500] Kazuma: silver tolerance
+[ 9500] Kazuma: tolerance
+[ 9500] Kazuma: silver points
+[ 9218] Talos: statcap
+[11029] Nafai: lcommands
+[ 3713] Michel: brief
+[ 3723] Michel: clan
+[ 9505] Kazuma: grandmaster
+[ 9505] Kazuma: gnosis
+[ 8116] Kazuma: stargazors
+[ 9504] Kazuma: mongoose
+[ 9504] Kazuma: stances
+[ 8117] Kazuma: bridge
+[ 3736] Braxus: lcommands
+[ 9258] Michel: glasswalkers
+[ 2118] Kazuma: nte
+[ 8024] Michel: songofrage
+[ 9242] Michel: lcommands
+[ 3054] Kazuma: rk
+[ 3001] Kazuma: eye
+[ 3001] Kazuma: eye
+[ 3014] Kazuma: halo
+[ 3054] Kazuma: elegend
+[ 9505] Kazuma: lcommands
+[ 3001] Kazuma: fame
+[ 3005] Kazuma: lol
+[ 9503] Kazuma: corrow
+[31062] Kazuma: uke
+[ 3723] Lista: selfclass
+[ 3001] Kazuma: shaman
+[ 9505] Kazuma: lcommands
+[ 3010] Lista: golcanda
+[31176] Kazuma: store
+[31176] Kazuma: changes
+[31176] Kazuma: all
+[31176] Kazuma: combat
+[31176] Kazuma: objects
+[31176] Kazuma: hlist
+[31176] Kazuma: draw
+[30000] Kazuma: stars
+[30000] Kazuma: wed
+[19207] Lista: deon
+[ 3054] Kazuma: multiplay
+[19257] Kurenai: quint
+[19210] Lista: generation
+[31095] Lista: statcap
+[31095] Lista: lcommands
+[ 9505] Kurenai: statcap
+[ 3001] Kazuma: wendgo
+[31113] Lista: clan
+[31115] Lista: kinglist
+[31095] Lista: clan
+[ 9202] Kazuma: stag
+[ 9210] Kazuma: sign
+[ 3001] Kyouran: archmage
+[ 9507] Kurenai: brief
+[ 3001] Kurenai: book
+[ 1128] Kurenai: correst
+[ 3575] Kazuma: changes
+[ 3001] Kazuma: str
+[ 3001] Kazuma: strength
+[ 3001] Kazuma: stats
+[ 3001] Kazuma: constitution
+[ 3054] Kazuma: starfaz
+[ 3001] Kazuma: song
+[ 3001] Kazuma: theuge
+[ 3001] Talos: clans
+[ 3001] Talos: clan
+[ 3700] Myolin: changes
+[ 9245] Talos: changes
+[19207] Myolin: changes
+[19206] Talos: pk
+[19208] Myolin: feral
+[19206] Talos: qcard
+[10112] Myolin: hand
+[10112] Myolin: 'hand of the earth lords'
+[10101] Myolin: statcap
+[19208] Laeh: pmage
+[19208] Laeh: mastery magic
+[10102] Laeh: files
+[19206] Laeh: tether
+[19206] Laeh: changes
+[19207] Laeh: chant
+[19207] Laeh: spellbook
+[19208] Laeh: major
+[19208] Myolin: rune
+[10138] Laeh: mastery magic
+[ 3700] Laeh: major
+[ 3700] Laeh: create major
+[ 3700] Laeh: wwbrew
+[ 3700] Laeh: write
+[ 3746] Calos: clagg
+[ 3726] Calos: werewold
+[ 3728] Calos: wed
+[ 3725] Calos: luna
+[ 3725] Calos: galliarsd
+[ 3732] Calos: fiannia
+[19203] Calos: galliars
+[19209] Talos: move
+[19206] Talos: brief
+[19210] Talos: stats
+[    1] Tijer: changes
+[25008] Talos: cobra
+[25008] Talos: advancestances
+[25008] Talos: advancedstances
+[25008] Talos: advancestances
+[    1] Tijer: atlered
+[    1] Tijer: altered
+[ 3735] Indirian: clan
+[ 3727] Indirian: wolf
+[31095] Aqer: furry
+[    1] Tijer: furry
+[    1] Tracker: wolf
+[ 3700] Mystic: primalsphere
+[11114] Talos: statcap
+[ 9507] Kazuma: statcap
+[ 9505] Kazuma: lcommand
+[19209] Manx: forge
+[31173] Kazuma: sw
+[ 3516] Kazuma: werewolfarm
+[ 3516] Kazuma: garouarmor
+[19206] Manx: clans
+[ 3516] Kazuma: feral
+[ 3516] Kazuma: klaive
+[ 3516] Kazuma: walk
+[ 3054] Kazuma: rage
+[ 3054] Kazuma: afme
+[ 3054] Kazuma: fame
+[19203] Mystic: clans
+[ 3054] Kazuma: cann
+[ 3005] Kazuma: grecall
+[11135] Talos: changes
+[11135] Talos: dragons
+[30001] Kazuma: card
+[30001] Kazuma: erset
+[ 3054] Kazuma: clanrecall
+[ 1499] Nafai: changes
+[ 3001] Kazuma: uke
+[ 3744] Narfly: changes
+[ 3728] Sheneron: top
+[ 3001] Asmodeus: ganging
+[ 3700] Dechyla: changes
+[ 3001] Myolin: dragon
+[    1] Tracker: changes
+[31133] Nafai: dragon
+[ 3741] Sheneron: world
+[19207] Kazuma: rabbit
+[10134] Laeh: darn
+[ 3701] Legend: wyrm
+[ 3757] Legend: speheres
+[ 6101] Laeh: fore
+[ 9208] Dahlia: forge
+[ 9707] Talos: hybrid
+[31135] Talos: changes
+[11131] Talos: multiclassing
+[ 3723] Laeh: multiclassing
+[ 3723] Laeh: mult
+[11103] Talos: multiclas
+[ 9202] Bardock: multiclass
+[ 9202] Bardock: multiclassing
+[ 3733] Lasrus: multiclassing
+[ 3733] Lasrus: multiclass
+[    1] Tijer: changes
+[31126] Nafai: multiclassing
+[31126] Nafai: hint
+[31126] Nafai: hints
+[31126] Nafai: multi
+[11126] Nafai: multiclassing
+[ 3748] Sheneron: multiclassing
+[ 3748] Sheneron: multi
+[ 3754] Sheneron: world
+[ 3738] Ranathon: dorwpowers
+[ 3746] Cairon: kansai
+[ 3746] Cairon: dragon
+[ 3729] Cairon: statcap
+[ 3729] Cairon: hint
+[    1] Tijer: dragon
+[30000] Talos: multi
+[ 3014] Izak: multiclassing
+[ 3014] Izak: multiclass
+[    1] Tijer: clan
+[ 8118] Kazuma: hint
+[ 8141] Kazuma: dodge
+[ 8142] Kazuma: viper
+[ 8142] Kazuma: stances
+[30000] Talos: dragon
+[19207] Kazuma: int
+[19207] Kazuma: stats
+[19205] Kazuma: structures
+[ 9504] Talos: advancestance
+[30000] Talos: hunt
+[ 3001] Korinne: mul
+[ 8127] Kazuma: uket
+[ 6005] Kazuma: canni
+[ 2583] Kazuma: michi
+[ 2583] Kazuma: chiy
+[ 8122] Kazuma: eyeofcobta
+[ 3005] Myolin: dazzle
+[ 3005] Kazuma: madness
+[ 3700] Sanford: tier
+[ 8120] Kazuma: unarmed
+[ 9212] Sanford: multiclassing
+[ 9212] Sanford: mutli
+[ 9212] Sanford: multi
+[ 9212] Sanford: multiclassing
+[ 9245] Kyouran: multiclass
+[ 9245] Kyouran: multi
+[ 9260] Kyouran: multiclassing
+[19206] Mugnir: clan
+[19206] Mugnir: clans
+[ 2565] Kazuma: auto
+[10140] Myolin: dragon
+[ 3020] Saryon: amge
+[19207] Mugnir: clan
+[ 3015] Saryon: polymorph
+[19205] Mugnir: multi
+[ 3054] Saryon: gateway
+[ 9209] Saryon: runes
+[ 9209] Saryon: wizard
+[ 9209] Saryon: teach
+[ 9209] Saryon: magecreate
+[ 9212] Saryon: quent
+[ 3054] Talos: changes
+[ 3054] Talos: multi
+[ 3054] Talos: dragon
+[ 3001] Hyosuke: mclass
+[ 3700] Jae: changes
+[ 5386] Nafai: multiclass
+[ 5385] Nafai: daiminion
+[ 9513] Kurenai: dragon
+[  118] Kurenai: lcommands
+[ 3054] Kazuma: changes
+[ 3054] Kazuma: dragons
+[ 3054] Nafya: ausps
+[ 3002] Lista: multiclassing
+[19203] Lista: demonarmor
+[19203] Lista: multi
+[19203] Lista: multiclassing
+[ 3700] Zeranamu: multi
+[ 3700] Zeranamu: multiclassing
+[ 3740] Zeranamu: brief
+[ 3741] Zeranamu: dragon
+[ 3723] Zeranamu: multiclass
+[ 3729] Apollyon: statcap
+[ 3005] Apollyon: brief
+[ 5551] Apollyon: iktena
+[ 9209] Apollyon: multiclassing
+[19204] Korinne: mul
+[11019] Nafya: obeahg
+[ 3739] Xalimentai: changes
+[ 3739] Xalimentai: forge
+[ 9229] Cairon: statcap
+[ 3741] Mussiah: multiclassing
+[ 2210] Cairon: arouhn
+[ 2210] Cairon: aro
+[31130] Cairon: clan
+[31130] Cairon: kingodm
+[11015] Cairon: bridge
+[11001] Cairon: arena
+[11001] Cairon: battle
+[ 3001] Cairon: multiclass
+[ 3001] Cairon: multi
+[ 3001] Cairon: multiclassing
+[ 3001] Cairon: multiclassing
+[ 3014] Myolin: clan
+[ 3014] Myolin: clans
+[ 3014] Myolin: clanleader
+[ 9226] Bardock: lcommands
+[ 3723] Lestat: dragon
+[ 3001] Vexus: selfclass
+[10128] Demagog: favotr
+[10124] Demagog: finn
+[19208] Myolin: spriggan
+[ 3700] Nyn: gretting
+[ 3723] Zeranamu: multiclass
+[10104] Zeranamu: wereowlf
+[10134] Zeranamu: clan
+[ 3710] Nyn: changes
+[ 3722] Eudora: forge
+[31055] Nyn: ummune
+[ 9209] Kagai: forge
+[ 9201] Aberrach: ahroud
+[ 9217] Aberrach: mutliclassing
+[ 9217] Aberrach: multiclassing
+[ 9217] Aberrach: multi
+[ 2210] Aberrach: dragon
+[ 9706] Nafai: dragon
+[  926] Apollyon: stances
+[  926] Apollyon: advancedstances
+[ 3714] Michel: brie
+[ 3714] Michel: brief
+[31117] Lista: dragon
+[ 9206] Michel: multiclassing
+[ 9207] Michel: lcommands
+[11106] Lista: diab
+[11135] Lista: questlimit
+[ 3041] Taliesin: shere
+[ 3041] Taliesin: mastery magic
+[ 3041] Taliesin: masteryt
+[ 8135] Apollyon: gnosis
+[ 3001] Apollyon: top
+[ 9211] Eudora: quint
+[ 3700] Awu: brief
+[ 3700] Awu: multiclassing
+[ 3700] Awu: multiclassing
+[ 3712] Awu: clandis
+[ 3712] Awu: mastery magic
+[ 3712] Awu: polymorph
+[ 3712] Awu: polymorph
+[ 3712] Awu: wwbrew
+[ 3712] Awu: forge
+[ 3015] Awu: michi
+[ 3014] Awu: chikku
+[31095] Aqer: multiclassing
+[31095] Aqer: statcap
+[31095] Aqer: multi
+[ 3700] Angelus: changes
+[ 3001] Apollyon: questor
+[ 3722] Moargoth: ymage
+[ 3722] Moargoth: multiclassing
+[ 3722] Moargoth: multi
+[ 3722] Moargoth: demondisc
+[ 3722] Moargoth: ninjka
+[ 3001] Moargoth: multiclassing
+[ 3738] Ethigrax: form
+[ 3738] Ethigrax: ronin
+[ 3700] Xen: multiclassing
+[ 3700] Xen: multiclassing
+[ 3730] Ethigrax: gold
+[ 3730] Ethigrax: worth
+[ 3730] Ethigrax: auto
+[ 3722] Ethigrax: rage
+[ 3722] Ethigrax: wereowlf
+[ 3723] Ethigrax: gnois
+[ 3723] Ethigrax: gnosis
+[ 3700] Xen: demonpowers
+[ 3701] Ethigrax: learn
+[ 3701] Ethigrax: power
+[ 3701] Ethigrax: power
+[ 3710] Kaskala: brief
+[ 3709] Kaskala: multiclassing
+[ 3709] Kaskala: multi
+[ 3713] Kaskala: multiclassing
+[ 3713] Kaskala: multiclassing
+[ 3712] Kaskala: forge
+[ 3001] Minagera: kinglist
+[ 3001] Minagera: multiclassing
+[ 3700] Ashley: changes
+[ 3700] Ashley: news
+[ 3716] Ashley: classing
+[ 3716] Ashley: selfclass
+[ 9214] Eudora: learn
+[ 1583] Ashley: multiclass
+[ 1583] Ashley: changes
+[ 3700] Eros: brief
+[ 3739] Eros: multiclassing
+[ 3739] Eros: multiclassing
+[ 3739] Eros: multiclassing
+[ 3728] Eros: multiclassing
+[ 3728] Eros: multi
+[ 3728] Eros: classing
+[ 3728] Eros: multiclass
+[ 9216] Eudora: brief
+[ 3728] Eros: multiclass
+[ 3728] Eros: multiclassing
+[19264] Ashley: multi
+[ 3739] Eros: dragon
+[ 3741] Eros: multiclassing
+[ 3728] Eros: multiclassing
+[    1] Mystical: monkcomo
+[    1] Mystical: monkcombos
+[ 3760] Ashley: taum
+[31134] Ashley: selfclass
+[31134] Ashley: selfclass
+[ 3729] Crosis: ddemonform
+[    1] Tijer: dragon
+[ 2549] Ashley: weaponform
+[ 2549] Ashley: dweaponform
+[19262] Ashley: clans
+[19262] Ashley: clans
+[19253] Ashley: top
+[ 3744] Cyan: brief
+[ 3725] Cyan: multiclassing
+[ 3724] Cyan: hint
+[ 3700] Zen: calndisc
+[ 3723] Agares: remort
+[ 3723] Agares: tier
+[ 3054] Agares: multiclassing
+[ 3001] Kyouran: multiclass
+[ 3735] Ikari: multi
+[ 3735] Ikari: multiclassing
+[ 3735] Ikari: mul
+[ 3735] Ikari: multiclassing
+[ 3729] Ikari: multiclassing
+[ 3001] Kyouran: multiclass
+[ 3744] Ikari: ui
+[ 9203] Asmodeus: multiclassing
+[ 9203] Asmodeus: multiclass
+[ 3001] Cairon: multiclass
+[ 3054] Hyru: multiclass
+[ 3054] Hyru: 'muticlass
+[ 3054] Hyru: multi
+[ 3054] Hyru: 'muticlas
+[ 3054] Hyru: multi
+[ 3054] Hyru: multiclasses'
+[ 3054] Hyru: muticlassing
+[ 3054] Hyru: multiclassing
+[ 3054] Hyru: 'mul
+[ 3054] Hyru: multiclassing
+[ 3054] Hyru: multiclassin
+[ 9202] Hyru: froge
+[ 9202] Hyru: forge
+[ 3745] Akari: brief
+[ 3746] Akari: princiles
+[ 3700] Dulik: multiclassing
+[11110] Zen: shikyu
+[ 3700] Keliver: lasrus
+[ 3004] Keliver: kinglist
+[ 3004] Keliver: kinglist
+[    1] Tracker: changes
+[ 9228] Keliver: upgrade
+[11104] Zen: multiclasing
+[31095] Zen: statcap
+[ 9212] Keliver: card
+[ 3736] Akari: multiclassing
+[ 3736] Akari: hybrid
+[ 9223] Akari: multi
+[31131] Zen: grant
+[ 9233] Akari: multi
+[ 9235] Akari: mantra
+[31104] Zen: matron
+[ 9207] Akari: clans
+[ 9207] Akari: kinglist
+[ 3700] Zantaga: changes
+[  125] Nafya: demonpower
+[  125] Nafya: demonpowers
+[  125] Nafya: inparts
+[  906] Eudora: arena
+[31129] Akari: dragon
+[ 9214] Akari: monkmantra
+[25008] Akari: learn
+[19202] Lista: dragon
+[ 3207] Zantaga: astral
+[25004] Zantaga: ancilla
+[ 3001] Akari: princeples
+[11126] Zantaga: lcommands
+[  699] Kazuma: selfclass
+[  699] Kazuma: changes
+[ 9704] Akari: top
+[31619] Lista: lcommands
+[31619] Lista: legendcom
+[31619] Lista: legendp
+[31611] Lista: golcanda
+[31902] Lista: brief
+[11246] Lista: arena
+[19262] Ashley: top
+[19262] Ashley: top10
+[19262] Ashley: leader
+[31117] Ashley: lcommands
+[ 9216] Eudora: mnok
+[ 3726] TriX: statustable
+[ 3726] TriX: statcap
+[ 3723] Astrid: polymorph
+[ 3759] Astrid: generation
+[ 3759] Astrid: gosis
+[ 3759] Astrid: gosispoints
+[ 3719] Astrid: remort
+[ 3719] Astrid: mort
+[ 3726] Astrid: findfamilar
+[ 3726] Astrid: find
+[ 9209] Keliver: total
+[ 3001] Astrid: teurge
+[ 3735] Astrid: gnosis
+[ 3760] Mashira: silvert
+[ 3760] Mashira: rage
+[ 3760] Mashira: ahround
+[ 3760] Mashira: solver
+[ 3004] Astrid: copy
+[ 3004] Astrid: energyflux
+[ 3004] Astrid: enchantweapon
+[11131] Mashira: arena
+[11131] Mashira: challenge
+[11132] Mashira: pk
+[ 3001] Keliver: generation
+[ 3001] Keliver: gen
+[ 9421] Astrid: rage
+[ 9421] Astrid: ragesong
+[31134] Mashira: statcap
+[11165] Keliver: exchange
+[ 9735] Talos: changes
+[ 9711] Talos: warptyps
+[31126] Zantaga: chemirstry
+[31133] Zantaga: forge
+[31135] Mashira: project
+[19267] Mashira: protection good
+[19267] Mashira: protection from good
+[ 9510] Mashira: chikyk
+[ 3722] Kalgaleth: amge
+[ 3725] Kalgaleth: damagespell
+[ 3723] Kalgaleth: runes
+[ 3723] Kalgaleth: rune
+[ 3700] Edge: monkcomo
+[ 3700] Edge: nngenno
+[ 3700] Edge: remort
+[31912] Khal: bridge
+[14120] Zen: krecall
+[14120] Zen: :)
+[ 9727] Zen: remort
+[ 9710] Zen: collor
+[19207] Myolin: sstable
+[19207] Myolin: superstancetable
+[ 9720] Khal: darn
+[ 3001] Lasrus: sigil
+[ 3001] Lasrus: amge
+[ 8117] Akari: stances
+[ 8139] Akari: aggravated
+[ 9730] Zen: forge
+[ 3729] Etrigan: dpower
+[ 3729] Etrigan: inparts
+[ 3054] Kazuma: multiclasses
+[31126] Zantaga: multiplayer
+[11135] Zantaga: tier
+[31133] Zantaga: daimoninon
+[31137] Akari: forge
+[31130] Akari: move
+[31130] Akari: movement
+[ 3733] Wungar: forg
+[ 3054] Akari: cass
+[ 3054] Akari: upu
+[ 3054] Akari: demoarmur
+[ 3054] Akari: demoarmour
+[ 3054] Akari: kenshi
+[ 3001] Akari: top
+[  117] Lista: dir
+[ 3746] Asmodeus: mud
+[10127] Redrum: pk
+[ 3746] Xaverious: stances
+[ 3746] Xaverious: weapons
+[ 3746] Xaverious: selfcalss
+[ 3746] Xaverious: selfclass
+[25000] Akari: warpstypes
+[25000] Akari: mge
+[ 2140] Astrid: doubletrain
+[ 3745] Aztek: changes
+[31106] Mashira: clan
+[31106] Mashira: clans
+[ 9214] Eudora: golc
+[  925] Eudora: daimin
+[19267] Mashira: finger
+[ 3054] Kazuma: games
+[31910] Mashira: dragons
+[31910] Mashira: dragon
+[31910] Mashira: dunnerve
+[ 3724] Omni: luna
+[ 3722] Omni: dragon
+[ 3760] Mashira: dragon
+[ 3760] Mashira: dragons
+[19261] Mashira: dragon
+[25000] Akari: superstances
+[  117] Zen: dragons
+[ 3001] Legend: sphere mind
+[  909] Zen: ummune
+[  909] Zen: sorry
+[ 3729] Simple: consume
+[ 3731] Xander: diciples
+[31081] Akari: chu
+[ 3760] Mashira: hilo
+[ 3700] Bartim: densai
+[ 3712] Bartim: forge
+[ 3712] Bartim: lcommand
+[ 3712] Bartim: lcommands
+[ 3717] Bartim: gleaming
+[ 9206] Bartim: arena
+[ 9206] Bartim: challenge
+[  915] Simple: age
+[ 9721] Moralis: combo
+[ 9212] Bartim: top
+[19251] Simple: age
+[31912] Zen: demonpowers
+[31912] Zen: sorry
+[ 3735] Solat: dragonsyntax
+[ 2204] Solat: mask
+[ 9216] Solat: peer
+[11131] Solat: dragonsyntax
+[11131] Simple: dsynt
+[31618] Lista: spriit
+[ 3001] Moralis: power
+[ 3004] Lista: legendstatus
+[31563] Lista: demonarmor
+[ 3700] Edge: changes
+[ 3700] Edge: statcap
+[ 3734] Edge: statcap
+[ 3734] Edge: stats
+[ 3734] Edge: gen
+[ 3722] Edge: mastery magic
+[ 3728] Moksha: dragons
+[ 3722] Moksha: polymorph
+[ 8131] Moksha: lcommands
+[ 8131] Moksha: lcommands
+[ 3760] Mashira: portection
+[ 3725] Omni: dragonsyntax
+[ 3700] Tucker: selfclass
+[ 3722] Tucker: demonpowers
+[ 3722] Tucker: demonpower
+[ 3722] Tucker: demonarmor
+[ 9201] Tucker: brief
+[ 9211] Tucker: double train
+[ 9210] Tucker: hp
+[ 9210] Tucker: move
+[ 9210] Tucker: stats
+[ 9210] Tucker: pk
+[ 9204] Tucker: gem
+[ 9204] Tucker: forge
+[ 9205] Tucker: set
+[ 7711] Simple: statcap
+[25001] Simple: arena
+[ 9721] Zen: sphere life
+[ 9207] Simple: lurk
+[ 9710] Zen: monkabilties
+[ 9710] Zen: sorry *sigh*
+[ 2134] Astrid: arena
+[   69] Astrid: belts
+[ 3700] Jak: selfclass
+[ 3714] Jak: changes
+[ 3745] Gerad: dragons
+[31912] Akari: codecredits
+[31907] Akari: muti
+[ 6605] Talos: mutli
+[ 9211] Solat: breath
+[ 3054] Akari: stances
+[30000] Talos: pk
+[30000] Talos: paradox
+[11129] Talos: demongifts
+[11129] Talos: demonpowers
+[ 3054] Zen: ???? what
+[  921] Talos: ctitle
+[30000] Talos: arena
+[30000] Talos: challenge
+[30000] Talos: chall
+[ 3741] Andre: pheres
+[ 3700] Ricochet: brief
+[ 3744] Ricochet: dragonage
+[31904] Zen: sphere life
+[31903] Andre: polymorph
+[ 9720] Nafya: superstances
+[ 9712] Nafya: rabbit
+[11029] Cairon: changes
+[11029] Cairon: ctitle
+[11172] Akari: fortiude
+[11172] Nafya: demonpower
+[11172] Nafya: inparts
+[10136] TombStone: drahgon
+[ 3040] TombStone: age
+[ 2652] TombStone: age
+[ 9701] Nafya: belt
+[ 3738] Ranathon: tier
+[ 3738] Ranathon: clandisc
+[ 3726] Ranathon: age
+[ 3701] Daleth: auto
+[31095] Zen: werewolf real easy
+[ 2130] Astrid: wwbrew
+[ 3718] Daleth: ninjagear
+[ 3758] Daleth: age
+[ 3758] Daleth: dgain
+[ 3758] Daleth: paradox
+[ 3758] Daleth: self
+[ 5223] Daleth: favor
+[ 5223] Daleth: ninjagear
+[ 5223] Daleth: gain
+[ 9201] Daleth: forge
+[30000] Talos: paradox
+[ 3054] Nafya: challenge
+[31912] Talos: changes
+[ 3014] Nafya: coloe
+[31133] Talos: lander
+[ 6610] Zen: forge
+[ 2919] Astrid: hunt
+[ 2919] Astrid: track
+[ 3710] Felix: autoclass
+[ 3710] Felix: selfclass
+[ 3005] Astrid: clan
+[ 3712] Felix: abilities
+[ 3725] Felix: chaosblast
+[ 3725] Felix: drowmage
+[    1] Tracker: paradox
+[ 6603] Felix: immunte
+[ 1571] Astrid: sting
+[ 9725] Nafya: forge
+[ 9709] Zen: legened
+[ 9707] Zen: umbue
+[ 5335] Zolo: age
+[ 2217] Jak: rare
+[ 8001] Jak: lcommand
+[ 8001] Jak: lcommands
+[ 8001] Jak: lcommands
+[ 2131] Astrid: ummune
+[ 2131] Astrid: help iuumune
+[ 2131] Astrid: iuumune
+[ 3001] Jak: dex
+[ 3001] Jak: str
+[ 3001] Jak: attributes
+[ 3001] Jak: attribute
+[ 3041] Talos: paradoc
+[ 3041] Talos: pk
+[10117] Lista: lstatus
+[ 3725] Sheol: forge
+[ 1570] Sheol: ninga
+[25002] Minagera: runts
+[ 3001] Sheol: lcommands
+[ 9212] Minagera: forge
+[ 3054] Minagera: statcap
+[ 3001] Minagera: shadowwalk
+[ 3001] Astrid: rape
+[ 5011] Nafai: flick
+[31732] Falundir: forge
+[ 1350] Jak: age
+[ 1350] Jak: dyagsyntax
+[ 3014] Akari: dragonage
+[ 3003] Legend: spsirit
+[ 3003] Legend: spsirit
+[31102] Astrid: michi
+[ 3054] Akari: superstnace
+[ 3054] Akari: demonpowers
+[ 9250] Jak: top
+[ 3744] Asmodeus: leader
+[ 9701] Felix: xsocial
+[ 6610] Felix: resist pain
+[ 3001] Zolo: pforge
+[ 3001] Zolo: forge
+[ 3741] Minu: acco
+[ 3001] Astrid: dragonarmor
+[ 9255] Zolo: dragonarmor
+[ 9255] Zolo: polymorph
+[ 3001] Moksha: changes
+[ 3001] Moksha: quintessence
+[ 3054] Moksha: clearstat
+[ 3054] Moksha: polymorph
+[ 3001] Moksha: dpoly
+[ 3700] Shadimar: multieclass
+[ 3700] Shadimar: dragonsyntax
+[ 3700] Shadimar: selfclass
+[ 3744] Shadimar: selfclass
+[ 3744] Shadimar: dpoly
+[ 3739] Shadimar: auto
+[ 3739] Shadimar: autoconsume
+[ 3739] Shadimar: consume
+[ 3001] Talos: imbude
+[30001] Astrid: runt
+[30001] Astrid: table
+[ 3758] Hileo: tgtrain
+[ 2105] Astrid: clearstat
+[ 3700] Moksha: dpoly
+[ 3700] Moksha: draonpowers
+[ 3700] Moksha: sragon
+[ 3700] Moksha: dragonsyntax
+[ 3700] Moksha: human
+[ 3737] Rekien: hint
+[ 3737] Rekien: dragons
+[ 3700] Moksha: demonpoers
+[ 3700] Moksha: dpowers
+[19202] Minagera: hint
+[ 3700] Bandue: mastery magic
+[ 3700] Bandue: polymorph
+[ 3700] Bandue: statcap
+[ 3737] Uldas: clandisc
+[ 3044] Uldas: nlood
+[ 3044] Uldas: blood
+[ 3043] Uldas: emb
+[ 3043] Uldas: embrace
+[ 3001] Astrid: ronin
+[ 3729] Merrek: calss
+[ 3001] Merrek: dgraon
+[ 3700] Zaitsev: kendai
+[ 1502] Janie: remort
+[ 1502] Janie: mulit
+[19203] Janie: forge
+[ 9221] Janie: deon
+[ 3700] Vem: auto
+[ 3001] Vem: ninha
+[ 9209] Serius: klensai
+[ 3207] Serius: mask
+[ 3207] Serius: polymorph
+[ 3207] Serius: terror
+[ 3700] Makai: forge
+[ 3700] Makai: polymorph
+[ 3739] Makai: kwalk
+[ 3725] Makai: forge
+[ 3700] Bloodyrage: statcap
+[ 3716] Treize: selfclass
+[ 1583] Treize: lmind
+[ 1584] Treize: mastery magic
+[ 1584] Treize: 'mastery magic'
+[ 1584] Treize: create major
+[ 1584] Treize: 'create major'
+[ 1572] Treize: rune
+[ 1572] Treize: magec
+[ 1571] Treize: extra spells
+[ 1571] Treize: createmajor
+[ 1571] Treize: create major
+[ 1571] Treize: 'create major'
+[    1] Tracker: glyph
+[ 3014] Kazuma: changes
+[ 3014] Kazuma: clans
+[19265] Turiya: age
+[19265] Turiya: dragonage
+[19265] Turiya: dage
+[ 3714] Destrac: selfclass
+[ 3722] Destrac: poly
+[ 3722] Destrac: polymorph
+[ 5201] Destrac: insert
+[ 5201] Destrac: insert page
+[ 5201] Destrac: copy
+[11106] Janie: generation
+[ 3758] Destrac: lcommands
+[ 3758] Destrac: ancilla
+[19262] Felix: eagle
+[30001] Destrac: questing
+[30001] Destrac: card
+[30001] Destrac: copy
+[ 3758] Destrac: ancilla
+[ 3758] Destrac: elder
+[14047] Destrac: belt
+[ 3014] Slivver: forge
+[19203] Slivver: changes
+[ 3700] Corn: changes
+[ 3700] Corn: statcap
+[ 3001] Grhevin: selfclass
+[ 3001] Grhevin: dragonsyntax
+[31061] Zen: ctitle
+[ 3729] Kalani: changes
+[ 3729] Kalani: changes
+[ 3001] Moksha: magick
+[19262] Moksha: challenge
+[ 3001] Moksha: move
+[19207] Moksha: ctitle
+[ 8143] Janie: wonds
+[ 8143] Janie: wounds
+[11107] Moksha: spehere
+[31111] Zolo: remort
+[  906] Omni: gold
+[30305] Moksha: top
+[27717] Moksha: pkill
+[31104] Zolo: brief
+[ 9235] Omni: age
+[19203] Seint: entrpoy
+[ 9725] Zolo: stances
+[31126] Moksha: monktouch
+[31126] Moksha: homkchi
+[19255] Moksha: arti
+[19255] Moksha: artifact
+[ 3738] Batair: dragons
+[ 3738] Batair: dragonsyntax
+[ 9206] Batair: dragonage
+[ 9218] Batair: dgain
+[ 3700] Beif: brief
+[ 5122] Felix: eagle
+[ 9713] Felix: confuse
+[ 3700] Legend: dragons
+[ 3712] Legend: draon
+[ 3712] Legend: drao
+[ 3712] Legend: dsr
+[ 3712] Legend: dragonp[oints
+[ 3005] Legend: age
+[11100] Solat: dragonsyntadx
+[ 3007] Legend: age
+[ 3701] Legend: age
+[ 3005] Legend: dragonsyn
+[ 3005] Legend: dragonsyn
+[ 3713] Legend: dragonsyn
+[ 3713] Legend: drag syn
+[31712] Solat: move
+[31701] Solat: mutli
+[31902] Janie: shperes
+[ 3742] Gad: forge
+[ 9729] Grhevin: req
+[ 3723] Xavier: draon
+[ 3739] Valmor: double xp
+[ 3739] Valmor: double XP
+[ 3739] Valmor: dragin
+[ 3725] Valmor: tracker
+[ 3041] Tepes: dragsynatx
+[ 3005] Valmor: lantern
+[ 3005] Valmor: day
+[ 9424] Tepes: dgain
+[ 9211] Cirin: parry
+[ 8131] Zolo: mask
+[ 8135] Solat: changes
+[19257] Moksha: move
+[ 3700] Kitty: hint
+[27725] Felix: forge
+[ 3722] Tepes: dragsynxtax
+[ 3729] Kittens: powers
+[31713] Solat: changes
+[ 9203] Cordan: ninjagear
+[ 9207] Cordan: stances
+[31157] Simple: might
+[ 3729] Cordan: weapons
+[ 3729] Cordan: proficiancies
+[ 9212] Cordan: belt
+[ 3736] Ages: dragonpoints
+[ 3736] Ages: points
+[ 3724] Ages: terror
+[ 3732] Eros: mpnl
+[ 3729] Hengeyokai: gleaming
+[ 3729] Hengeyokai: modifiers
+[ 3729] Hengeyokai: special
+[ 3729] Hengeyokai: legendcommands
+[ 3729] Hengeyokai: lcommands
+[19203] Hengeyokai: spellbot
+[19263] Hengeyokai: maxcard
+[19263] Hengeyokai: card
+[ 3729] Jaxom: kinglist
+[ 3722] Jaxom: prompmt
+[ 3722] Jaxom: selfclass
+[    1] Tijer: kkk
+[    1] Tijer: wibble
+[ 3700] Ryo: dragons
+[ 7283] Cirin: set
+[19261] Hengeyokai: legendstatus
+[19261] Hengeyokai: legendabilities
+[19261] Hengeyokai: labilities
+[ 7283] Cirin: mutli
+[ 3700] Krem: kinsei
+[11113] Hengeyokai: warrior
+[11113] Hengeyokai: trait
+[ 3700] Maeveen: kesnai
+[ 3740] Maeveen: create major
+[ 3740] Maeveen: ninjagear
+[ 3740] Maeveen: ninjagear
+[ 2396] Cirin: resets
+[ 2396] Cirin: reset
+[ 2355] Moksha: trait
+[30001] Moksha: lcommands
+[ 9203] Moksha: spehere
+[30001] Moksha: top
+[30001] Zolo: top
+[ 9225] Mystical: changes
+[ 9225] Mystical: oldchanges
+[ 9128] Felix: table
+[ 3712] Kojiro: statcap
+[ 3712] Kojiro: wereolw
+[ 9701] Felix: createminor
+[ 9701] Felix: mastery magic
+[ 9701] Felix: create major
+[ 9701] Felix: create major
+[ 9701] Felix: insert page
+[ 2314] Hengeyokai: magician
+[ 2314] Hengeyokai: trait
+[ 3054] Hengeyokai: dragssyntax
+[ 3700] Destrin: kinglist
+[ 3700] Destrin: selfclass
+[ 3700] Destrin: graon
+[ 3700] Destrin: remort
+[ 3700] Destrin: upgrate
+[ 3739] Cainanth: kinglist
+[ 3722] Destrin: gasbreath
+[ 3722] Destrin: draon
+[ 3722] Destrin: age
+[ 3722] Destrin: dage
+[ 3722] Destrin: dragonage
+[ 3722] Destrin: dage
+[ 3722] Destrin: dragonage
+[ 3724] Destrin: age
+[ 9203] Destrin: dragonsytanx
+[ 3022] Cainanth: forge
+[ 3011] Cainanth: cland
+[ 3044] Cainanth: gold
+[ 9209] Destrin: age
+[ 9209] Destrin: gain
+[ 3001] Destrin: drackform
+[ 3001] Destrin: drackform
+[ 9255] Destrin: coor
+[ 9255] Destrin: dragon color
+[ 9228] Destrin: age
+[31580] Destrin: ages
+[31131] Destrin: brief
+[ 3054] Destrin: terror
+[ 9212] Destrin: age
+[ 6602] Destrin: gold
+[ 3021] Destrin: rune
+[ 3021] Destrin: lcommands
+[10118] Destrin: areadir
+[ 2207] Destrin: breath
+[ 9500] Kurenai: gold
+[ 9733] Zolo: demonpowers
+[ 9733] Zolo: demonpower
+[ 3001] Paspar: ukentena
+[ 3001] Paspar: umbra
+[ 3700] Shane: kensi
+[ 3700] Latyst: demonarmor
+[ 3700] Latyst: demonarmor
+[ 3700] Latyst: selfclass
+[ 3700] Latyst: selfclass
+[ 3700] Latyst: selfclass
+[ 3001] Ages: brief
+[ 9246] Ages: gold
+[ 9253] Ages: stats
+[ 9735] Kupek: forge
+[ 3700] Jade: teach
+[ 9702] Cainanth: exchange
+[ 9250] Destrin: mask
+[ 5122] Ages: drack
+[ 5122] Ages: drackform
+[ 3734] Shane: pmage
+[ 3001] Shane: newa
+[11135] Ages: mastery magic
+[11135] Ages: polymorph
+[ 3740] Abbon: chant
+[ 3740] Abbon: magespells
+[ 3040] Abbon: quintessence
+[ 3012] Makai: skills
+[ 3012] Makai: forge
+[ 3716] Victor: lupis
+[ 3716] Victor: drowpoers
+[   13] Cirin: shakr
+[ 9236] Abbon: challenge
+[ 3001] Mystical: wraight
+[ 3001] Mystical: wraith
+[ 3001] Mystical: Wraith
+[31095] Jak: changes
+[11015] Kupek: sixthsense
+[11015] Simple: demonpowers
+[ 3017] Cainanth: questdir
+[ 9253] Cainanth: exchange
+[ 3700] Merlin: autoclass
+[ 3716] Merlin: sphere_entropy
+[ 3716] Merlin: books
+[ 3716] Merlin: spellbooks
+[ 3716] Merlin: write
+[30001] Merlin: colors
+[ 3741] Jimbob: colro
+[ 9207] Hyru: changes
+[ 9207] Hyru: changes
+[ 9207] Hyru: changes
+[11132] Abbon: stances
+[25002] Merlin: polyappear
+[ 7709] Zolo: demonarmor
+[ 3001] Rurouni: kwalk
+[ 3005] Zen: statcap
+[ 7754] Zolo: dimp
+[ 7754] Zolo: 'magic resistance'
+[ 3700] Empty: dragons
+[ 7722] Zolo: gold
+[ 7722] Zolo: generation
+[31126] Zolo: damcap
+[ 7737] Zolo: traits
+[ 7737] Zolo: trait
+[ 3004] Zolo: warrior
+[ 7763] Zolo: traits
+[ 3007] Merlin: area_ledge
+[ 3001] Merlin: messageboard
+[ 3014] Minagera: dorw
+[ 3001] Skull: selfclass
+[ 3729] Skull: kings
+[ 3744] Hypnos: statcap
+[ 3744] Hypnos: cap
+[ 3745] Hypnos: qgain
+[ 3726] Dexlan: card
+[ 3054] Merlin: top
+[ 3700] Rael: brief
+[ 3731] Rael: arti
+[ 3001] Rael: doubleclass
+[ 3001] Rael: classing

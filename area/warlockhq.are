@@ -1,0 +1,317 @@
+#AREADATA
+Name        Mage HQ~
+Builders    None~
+VNUMs       14040 14059
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#14040
+(null)~
+The wizened wizard~
+An old man in long red flowing robes with a white beard walks the halls.
+~
+~
+8257 4727464 0 S
+1018 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14041
+{x~
+The old man~
+A bald man sits at his desk, randomly casting spells in your direction.
+~
+~
+3 0 0 S
+319 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14040
+In a tall dark tower.    {g[{RHQ{g]{x~
+A large room presents itself to you.  There are hundreds of bookcases
+covered in dust and books, all around the room.  The floor is paved with
+alternating black and white tiles, mimicking a giant chessboard.  The walls
+are decorated with paintings and sculptures of mages long dead.  
+~
+0 16387 0
+D3
+~
+~
+0 0 14045
+D4
+~
+~
+0 0 14041
+S
+#14041
+Climbing the stairs.    {g[{RHQ{g]{x~
+Big windows set in the wall of the tower let you look out onto vast
+expanses of greenery.  Close to here, you see towers belonging to other
+mages and in some windows, there are flashs of light - someone must be
+practicing.  A door leads away from here, and there are more steps to climb.
+~
+0 24579 0
+D3
+~
+~
+0 0 14042
+D4
+~
+~
+0 0 14043
+D5
+~
+~
+0 0 14040
+S
+#14042
+The Warlock's safehold.    {g[{RHQ{g]{x~
+Several chairs surround a large oval table.  Tapestries line the wall in
+a colourful splendour.  A large fire burns noiselessly in the fireplace,
+keeping the room at a reasonable temperature.  
+~
+0 25607 0
+D1
+~
+~
+0 0 14041
+S
+#14043
+Still climbing the stairs.    {g[{RHQ{g]{x~
+You can see the top of the tower just above you.  Around you, there are
+several doors which makes you wonder where they lead to.  
+~
+0 24579 0
+D3
+~
+~
+0 0 14044
+D5
+~
+~
+0 0 14041
+S
+#14044
+The Library.    {g[{RHQ{g]{x~
+The library is huge, with a section down the back for people to work on
+their magic.  The walls have instructional texts and historical references
+for mages both young and old to study and learn.  
+The five coloured doors in this room lead to each house's private study.
+~
+0 24579 0
+D0
+~
+~
+0 0 14046
+D1
+~
+~
+0 0 14043
+D2
+~
+~
+0 0 14049
+D3
+~
+~
+0 0 14047
+D4
+~
+~
+0 0 14048
+D5
+~
+~
+0 0 14050
+S
+#14045
+The Rainbow Vortex.    {g[{RHQ]{x~
+A million colours blend before your eyes, changing from yellow to white
+to black to red to green, all in the twinkle of an eye.  
+~
+0 24581 0
+D1
+~
+~
+0 0 14040
+D3
+~
+~
+0 0 3001
+S
+#14046
+Study of #PAuram#x   #G[#rHQ#G]#x~
+A purple haze surrounds all the objects in this room.  Potions bubbling
+away in various beakers produce gas which is piped elsewhere.  Books of
+various creation spells litter the work-tops and familiars hop around the
+room.  Piles of uneaten pineapple tarts and other old items litter the
+corners of the room.  A torn out page from a spell book is glued to a wall,
+it has some names on it.  
+~
+0 24579 0
+E
+torn out page~
+This torn out page contains the list of Auram Mages.
+(Note Anatole to update this list)
+ 
+Master: Fitzroy
+~
+D2
+~
+~
+0 0 14044
+S
+#14047
+Study of #rIgnem  #G[#rHQ#G]#x~
+Heat radiates from a well in the left hand corner in the room.  Upon
+opening the cover to the well the heat in the room doubles, a ball of fire
+shoots out of the well and removes your eyebrows, the lid is quickly
+replaced after that.  A sign on the wall tells you to remove all magical
+affects from yourself. 
+A blackened metal plaque is nailed to back of the door, it has some names on it.
+~
+0 24579 0
+E
+plaque~
+This plaque commemorates the Ignem Mages.
+(Note Anatole to update this list)
+ 
+Master: Morty
+Acolyte: Aqer
+~
+D1
+~
+~
+0 0 14044
+S
+#14048
+Study of #bAquam #G[#rHQ#G]#x~
+As you enter the room you feel something small whizz past your face,
+followed by a desparate cry of 'LOOK OUT!  ' from an apprentice in the far
+corner, but it's too late...  Something small and furry just slammed into
+the side if your head and sent you sprawling to the floor, as you dust
+yourself off a small white cat fades into existence before you, it looks at
+you...  Looks at the door...  Then becomes a blur moving rapidly in the
+direction of the open door, 'NOT AGAIN!!!  ' exclaims the assistant before
+disapearing out the door after the cat.  Through the commotion you've
+completely forgotten what you came in for, but you do notice a board on the
+wall 
+~
+0 24579 0
+E
+board~
+This board lists the names of the #bBlue#w Mages. They are:
+(Note Anatole to update this list)
+ 
+Master: Keolah
+Acolyte: Malingo
+Acolyte: Tawnos
+Acolyte: Driean
+Acolyte: Reoth
+Acolyte: Galen
+~
+D5
+~
+~
+0 0 14044
+S
+#14049
+Study of #gTerram   #G[#rHQ#G]#x~
+Special glasses for seeing, teleporters that only lead to the otherside
+of the room, futons, a fridge and stone armour litter the floor of this
+study.  Pots of coffee are consistently on for the researchers that invent
+new spells.  Coffee ringed spell books are piled up in another corner.  The
+occasional 'POP' and 'BANG' comes from a researcher workstation, as you
+cross the room you are handed a pair of glasses from an assistant.  Upon
+putting them on you see a noticeboard that wasn't here before.  This
+noticeboard has a list of names on it.  
+~
+0 24579 0
+E
+Noticeboard~
+This noticeboard lists the names of those who research, write and cast spells.
+(Note Anatole to update this list)
+ 
+Master: Kelset
+Adept: Syenath
+Adept: Kahlid
+Adept: Nanama
+Acolyte: Dilcor
+Acolyte: Revelation
+~
+D0
+~
+~
+0 0 14044
+S
+#14050
+Study of #yMentem   #G[#rHQ#G]#x~
+Mirrors for locating objects, drawings of improved weapons and eq.  And
+incantations for improving defense against spells all clutter the floor of
+this room.  A steady beam of yellow light illuminates the room, leaving no
+corner untouched.  In one corner there is a tome, this tome has gold
+emblazzened title of: #oMage Names#w and contains the names of the Mentem
+sorcerers.  
+~
+0 24579 0
+E
+tome~
+This tome contains the names of the Mentem sorcerers. They are:
+(Note Anatole to update this list)
+ 
+Master: Atrox
+Acolyte: Magronic
+Acolyte: Krain
+~
+D4
+~
+~
+0 0 14044
+S
+#14059
+Beyond the diamond barrier.    {g[{RHQ{g]{x~
+Diamonds sparkle everywhere, almost hurting your eyes with their
+brilliance.  The smell of dusty paper and leather comes from ahead.  
+~
+0 24583 0
+D0
+~
+~
+0 0 14040
+S
+#0
+
+
+
+#SPECIALS
+M 14040 spec_clan_mage Load to: The wizened wizard
+M 14041 spec_cast_adept Load to: The old man
+S
+
+
+
+#RESETS
+M 0 14040 1 14040
+M 0 14041 1 14042
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

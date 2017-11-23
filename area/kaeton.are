@@ -1,0 +1,926 @@
+#AREADATA
+Name        Kaeton's area~
+Builders    Kaeton~
+VNUMs       32000 32099
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#32000
+citizen al'or~
+a citizen~
+A citizen stands here, doing her thing.
+~
+~
+1 4194344 0 S
+519 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#32001
+gate keeper al'or~
+a gatekeeper~
+A gatekeeper stands here, keeping the gate
+~
+~
+3 4259880 0 S
+647 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#32002
+citizen al'or~
+a citizen~
+A citizen, goes about his daily business
+~
+~
+1 4194344 0 S
+525 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#32003
+knight Al'or~
+a knight of Al'or~
+A knight of Al'or stands here, looking for trouble
+~
+~
+1 4194344 0 S
+702 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#32000
+the bar~
+The bar sits here holding up the punters.~
+The bar sits here holding up the punters.~
+~
+12 4096 0
+0 0 0 0
+10000 0 0
+#0
+
+
+
+#ROOMS
+#32000
+The Gates Of Al'or~
+You stand before the gates of Al'or.  To your east you can see the busy
+city streets and in the distance you can make out a small market place.  
+~
+0 0 1
+D1
+~
+~
+0 0 32001
+S
+#32001
+Inside the Gates of Al'or~
+You stand on a small crossroads.  The city is a busy place during both
+day and night, you can hear the noises of citizens talking and laughing.  To
+the west lies the gates of Al'or, to the east the town center and market. 
+The paths both north and south run along the inside of the perimeter wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 32002
+D1
+~
+~
+0 0 32003
+D2
+~
+~
+0 0 32004
+D3
+~
+~
+0 0 32000
+S
+#32002
+The Perimeter Path~
+You are on a small gravel path which leads both north and south, to your
+west lies the perimeter wall, and to the east an elaboratly designed
+building.  
+~
+0 0 1
+D0
+~
+~
+0 0 32015
+D2
+~
+~
+0 0 32001
+S
+#32003
+City Street~
+The noise from the south is annoying, even after only a few moments of
+standing here.  To the south lies the Horse & Fish Inn.  To the west the
+citygates and to the east is the market.  
+~
+0 0 1
+D1
+~
+~
+0 0 32005
+D2
+~
+~
+0 0 32029
+D3
+~
+~
+0 0 32001
+S
+#32004
+The Perimeter Path~
+You stand on a small gravel path which leads both north and south, to
+your west lies the perimeter wall, and to the east an elaboratly designed
+building.  Looking through the window of the building you can see that it is
+a small tavern.  
+~
+0 0 1
+D0
+~
+~
+0 0 32001
+D2
+~
+~
+0 0 32018
+S
+#32005
+Al'or Market~
+This is the western side of Al'or Market.
+~
+0 0 1
+D0
+~
+~
+0 0 32006
+D1
+~
+~
+0 0 32008
+D2
+~
+~
+0 0 32010
+D3
+~
+~
+0 0 32003
+S
+#32006
+Al'or Market~
+This is the north-west corner of Al'or Market.
+~
+0 0 1
+D1
+~
+~
+0 0 32007
+D2
+~
+~
+0 0 32005
+S
+#32007
+Al'or Market~
+This is the northern side of Al'or Market.  
+~
+0 0 1
+D0
+~
+~
+0 0 32025
+D1
+~
+~
+0 0 32013
+D2
+~
+~
+0 0 32008
+D3
+~
+~
+0 0 32006
+S
+#32008
+Al'or Market Square~
+The busy sound of the market surrounds you, many traders have travel for
+many days to peddle their goods here.  
+~
+0 0 1
+D0
+~
+~
+0 0 32007
+D1
+~
+~
+0 0 32011
+D2
+~
+~
+0 0 32009
+D3
+~
+~
+0 0 32005
+S
+#32009
+Al'or Market~
+This is the southern side of Al'or Market.  
+~
+0 0 1
+D0
+~
+~
+0 0 32008
+D1
+~
+~
+0 0 32012
+D2
+~
+~
+0 0 32024
+D3
+~
+~
+0 0 32010
+S
+#32010
+Al'or Market~
+This is the south-west corner of Alo'r Market.
+~
+0 0 1
+D0
+~
+~
+0 0 32005
+D1
+~
+~
+0 0 32009
+S
+#32011
+Al'or Market~
+This is the eastern side of Al'or Market.
+~
+0 0 1
+D0
+~
+~
+0 0 32013
+D1
+~
+~
+0 0 32014
+D2
+~
+~
+0 0 32012
+D3
+~
+~
+0 0 32008
+S
+#32012
+Al'or Market~
+This is the south-east corner of Al'or Market.  
+~
+0 0 1
+D0
+~
+~
+0 0 32011
+D3
+~
+~
+0 0 32009
+S
+#32013
+Al'or Market~
+This is the north-east corner of Al'or Market.
+~
+0 0 1
+D2
+~
+~
+0 0 32011
+D3
+~
+~
+0 0 32007
+S
+#32014
+City Street~
+~
+0 0 0
+D1
+~
+~
+0 0 32044
+D3
+~
+~
+0 0 32011
+S
+#32015
+The Perimeter Path~
+You are on a small gravel path which leads both north and south, to your
+west lies the perimeter wall, and to the east an elaboratly designed
+building.  
+~
+0 0 1
+D0
+~
+~
+0 0 32016
+D2
+~
+~
+0 0 32002
+S
+#32016
+Below the Watch Tower~
+The corners of the perimeter wall meet here, and against them lies a
+sturdy looking ladder leading up to a lookout post.  
+~
+0 0 1
+D1
+~
+~
+0 0 32028
+D2
+~
+~
+0 0 32015
+D4
+~
+~
+0 0 32017
+S
+#32017
+The Watch Tower~
+The view from here is superb, looking out of the city you can see the
+countryside for miles around.  
+~
+0 0 0
+D5
+~
+~
+0 0 32016
+S
+#32018
+The Perimeter Path~
+The perimeter path continues, to the south you spot a watch tower.  To
+the east is the small temple where the citizens go about their daily
+worship.  
+~
+0 0 1
+D0
+~
+~
+0 0 32004
+D1
+~
+~
+0 0 32030
+D2
+~
+~
+0 0 32019
+S
+#32019
+Below The Watch Tower~
+The perimeter walls meet here.  Proped up against the wall stands a
+ladder leading up to the watch tower.  
+~
+0 0 1
+D0
+~
+~
+0 0 32018
+D1
+~
+~
+0 0 32021
+D4
+~
+~
+0 0 32020
+S
+#32020
+The Watch Tower~
+You look out from the city.  The countryside runs for miles a sudden
+feeling hits you, you wish you could stay here all day.  
+~
+0 0 0
+D5
+~
+~
+0 0 32019
+S
+#32021
+Perimeter Path~
+You are on a gravel path that runs both east and west.  To the north lies
+a small building that seems to be a temple of some sort.  
+~
+0 0 1
+D1
+~
+~
+0 0 32022
+D3
+~
+~
+0 0 32019
+S
+#32022
+Perimeter Path~
+The perimeter path continues to both the east and west.  The north is
+blocked by a small building and the south by the city's perimeter wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 32023
+D3
+~
+~
+0 0 32021
+S
+#32023
+Perimeter Path~
+You stand on the perimeter path which continues to both the east and
+west.  To the north the path leads towards the city center.  
+~
+0 0 1
+D0
+~
+~
+0 0 32024
+D1
+~
+~
+0 0 32050
+D3
+~
+~
+0 0 32022
+S
+#32024
+City Street~
+You stand on a city street.  To the north is the city market, and the
+south is the perimeter wall.  A door to the west leads you into a small
+house.  
+~
+0 0 1
+D0
+~
+~
+0 0 32009
+D1
+~
+~
+0 0 32051
+D2
+~
+~
+0 0 32023
+D3
+~
+~
+0 0 32031
+S
+#32025
+city Street~
+You stand on a city street.  To the north lies the perimeter path, and
+the south lies the city market.  To both the east and west there are door
+ways leading into buildings.  
+~
+0 0 1
+D0
+~
+~
+0 0 32026
+D1
+~
+~
+0 0 32035
+D2
+~
+~
+0 0 32007
+D3
+~
+~
+0 0 32032
+S
+#32026
+Perimeter Path~
+You stand on the perimeter path, which continues to the east and the
+west.  To the south a road leads to the city center.  
+~
+0 0 1
+D1
+~
+~
+0 0 32036
+D2
+~
+~
+0 0 32025
+D3
+~
+~
+0 0 32027
+S
+#32027
+Perimeter Path~
+You stand on the Perimeter Path, which continues to both the east and the
+west.  
+~
+0 0 1
+D1
+~
+~
+0 0 32026
+D3
+~
+~
+0 0 32028
+S
+#32028
+Perimeter Path~
+You stand on the perimeter path, which continues to both the east and the
+west.  
+~
+0 0 1
+D1
+~
+~
+0 0 32027
+D3
+~
+~
+0 0 32016
+S
+#32029
+The Horse & Fish Inn~
+The light is very low, and the stench of stale alcohol and vomit fills
+the air.  
+~
+0 1 0
+D0
+~
+~
+0 0 32003
+S
+#32030
+The Temple of Al'or~
+The temple is very bare, containing nothing except for a few worn rugs on
+the ground and a few burnt-out candles.  
+~
+0 1 0
+D3
+~
+~
+0 0 32018
+S
+#32031
+A small house~
+There's not much to look at here, just the small home of one of the
+city's many residents.  
+~
+0 0 0
+D1
+~
+~
+0 0 32024
+S
+#32032
+Al'or Barracks~
+You stand in the entrance hall of the barracks of the infamous Al'or
+cityguard's.  The barracks continue to the west.  And to the east lies the
+city streets.  
+~
+0 0 0
+D1
+~
+~
+0 0 32025
+D3
+~
+~
+0 0 32033
+S
+#32033
+Al'or Barracks~
+The air in here is musty, a smell fills the room so foul it makes you
+choke.  The ground is covered in thick blankets, you appear to be in the
+resting area of the barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 32032
+D2
+~
+~
+0 0 32034
+S
+#32034
+Al'or Barracks~
+You stand in the commander's office.  The walls here are covered with
+skulls and the floor is smeared with blood, looks like the commander may be
+a little bit crazy.  
+~
+0 0 0
+D0
+~
+~
+0 0 32033
+S
+#32035
+A Small House~
+This is just a small house of one of the many citizens from the city, not
+really much to see here.  
+~
+0 0 0
+D3
+~
+~
+0 0 32025
+S
+#32036
+Perimeter Path~
+~
+0 0 0
+D1
+~
+~
+0 0 32037
+D3
+~
+~
+0 0 32026
+S
+#32037
+Perimeter Path~
+~
+0 0 0
+D1
+~
+~
+0 0 32038
+D2
+~
+~
+0 0 32040
+D3
+~
+~
+0 0 32036
+S
+#32038
+Below the Watch Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 32041
+D3
+~
+~
+0 0 32037
+D4
+~
+~
+0 0 32039
+S
+#32039
+The Watch Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 32038
+S
+#32040
+A Small House~
+~
+0 0 0
+D0
+~
+~
+0 0 32037
+S
+#32041
+Perimeter Path~
+~
+0 0 0
+D0
+~
+~
+0 0 32038
+D2
+~
+~
+0 0 32042
+S
+#32042
+Perimeter Path~
+~
+0 0 0
+D0
+~
+~
+0 0 32041
+D2
+~
+~
+0 0 32044
+D3
+~
+~
+0 0 32043
+S
+#32043
+A Small House~
+~
+0 0 0
+D1
+~
+~
+0 0 32042
+S
+#32044
+Perimeter Path~
+~
+0 0 0
+D0
+~
+~
+0 0 32042
+D2
+~
+~
+0 0 32045
+D3
+~
+~
+0 0 32014
+S
+#32045
+Perimeter Path~
+~
+0 0 0
+D0
+~
+~
+0 0 32044
+D2
+~
+~
+0 0 32046
+S
+#32046
+Perimeter Path~
+~
+0 0 0
+D0
+~
+~
+0 0 32045
+D2
+~
+~
+0 0 32047
+S
+#32047
+Below the Watch Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 32046
+D3
+~
+~
+0 0 32049
+D4
+~
+~
+0 0 32048
+S
+#32048
+The Watch Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 32047
+S
+#32049
+Perimeter Path~
+~
+0 0 0
+D0
+~
+~
+0 0 32052
+D1
+~
+~
+0 0 32047
+D3
+~
+~
+0 0 32050
+S
+#32050
+Perimeter Path~
+~
+0 0 0
+D1
+~
+~
+0 0 32049
+D3
+~
+~
+0 0 32023
+S
+#32051
+A Small House~
+~
+0 0 0
+D3
+~
+~
+0 0 32024
+S
+#32052
+The Town Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 32053
+D2
+~
+~
+0 0 32049
+S
+#32053
+The Mayor's Office~
+~
+0 0 0
+D2
+~
+~
+0 0 32052
+S
+#0
+
+
+
+#SPECIALS
+M 32000 spec_breath_fire Load to: a citizen
+M 32001 spec_guard Load to: a gatekeeper
+M 32002 spec_breath_fire Load to: a citizen
+M 32003 spec_guard Load to: a knight of Al'or
+S
+
+
+
+#RESETS
+O 0 32000 0 32029
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,691 @@
+138
+Mud is up.~
+Tracker~
+02/18/03~
+1045554095
+
+Removed a bit of misc. code.~
+Tracker~
+02/18/03~
+1045554502
+
+Changes command added.~
+Tracker~
+02/18/03~
+1045554510
+
+New who layout.~
+Tracker~
+02/18/03~
+1045554517
+
+New score layout.~
+Tracker~
+02/18/03~
+1045554520
+
+Some colors have been changed.~
+Tracker~
+02/18/03~
+1045554528
+
+Classes rearranged, the keepers are now on help class.~
+Tracker~
+02/18/03~
+1045554537
+
+Double XP, Double QP, Double Train, and Chaos added. (Now to make them actually work)~
+Tracker~
+02/18/03~
+1045554559
+
+Changed something, but I forgot what.~
+Tracker~
+02/18/03~
+1045554583
+
+Made it so your questtrusted/all spells to 100 when you train avatar.~
+Tracker~
+02/18/03~
+1045563734
+
+Added the colored wholist for pk, type 'help who' for more details.~
+Tracker~
+02/18/03~
+1045593277
+
+Project command added. Check it periodically.~
+Mystical~
+02/18/03~
+1045594356
+
+You now see if you're affected by newbie exp, via per kill.~
+Tracker~
+02/18/03~
+1045594489
+
+Double training should work now.~
+Tracker~
+02/18/03~
+1045600795
+
+Double Train & Chaos work correctly now. Helpfiles coming soon~
+Tracker~
+02/18/03~
+1045602955
+
+You cannot train immunties anymore, New system of gaining them coming soon~
+Tracker~
+02/18/03~
+1045603016
+
+G-social added. Syntax: gsocial social~
+Mystical~
+02/18/03~
+1045606476
+
+Immunties now on objects. Helpfile and ways to quest immunties onto objects coming soon.~
+Tracker~
+02/19/03~
+1045638272
+
+HELP IMMUNE is now in, to see what immunties you currently have on type 'immune'~
+Tracker~
+02/19/03~
+1045687640
+
+Newbie equipment comes with immune to charm and sleep.~
+Tracker~
+02/19/03~
+1045687650
+
+Made it so imms can set spells on objects via oedit.~
+Tracker~
+02/19/03~
+1045689068
+
+Hiscore table added. Type, 'top' or 'hiscore' to view them.~
+Tracker~
+02/19/03~
+1045694428
+
+To view other tables use the keywords, ie: top pkill, top pdeath, top status, etc.~
+Tracker~
+02/19/03~
+1045694450
+
+Magecreate is in, and works correctly.~
+Tracker~
+02/19/03~
+1045695837
+
+Magi command is in for mages.~
+Tracker~
+02/19/03~
+1045696155
+
+Command 'spheres' for mages colored.~
+Tracker~
+02/19/03~
+1045696750
+
+Command 'inpart' for demons colored.~
+Tracker~
+02/19/03~
+1045697094
+
+You can now quest immunities on objects. It costs 250 qp~
+Tracker~
+02/20/03~
+1045775519
+
+Added timer to Double XP, Double QP, Double Train, and Chaos~
+Tracker~
+02/21/03~
+1045853586
+
+Made a toggle all command for imms.~
+Tracker~
+02/21/03~
+1045853602
+
+Added how long everything is on, on the command 'time'~
+Tracker~
+02/21/03~
+1045853762
+
+To see help on Double XP/QP/TRAIN or Chaos see 'HELP DOUBLE'~
+Tracker~
+02/21/03~
+1045854028
+
+Minutes & Seconds added to score, along with Hours, (Thanks Cirin)~
+Tracker~
+02/21/03~
+1045861817
+
+Tweaked the timers again, they're a little more accurate now, only off by a tad.~
+Tracker~
+02/22/03~
+1045960811
+
+New regen.~
+Tracker~
+02/23/03~
+1046029081
+
+Newbie exp lasts for 10 hours, exp upped while in newbie hours.~
+Tracker~
+02/23/03~
+1046029194
+
+Yay! We're on TMC~
+Tracker~
+02/23/03~
+1046029201
+
+Objectgate re-added for mages.~
+Tracker~
+02/23/03~
+1046041306
+
+Added wait states to objectgate, and mgate.. Along with mana requirements to use em. (damn mages)~
+Tracker~
+02/23/03~
+1046042711
+
+HL's now have a class travel. --> kwalk~
+Tracker~
+02/23/03~
+1046051375
+
+Wolves no longer need the moon out to use gatemoon.~
+Tracker~
+02/23/03~
+1046051988
+
+Stopped the pesky little legend status being reset every login./~
+Tracker~
+02/23/03~
+1046058996
+
+Info channel now tells you when people log in or out.~
+Tracker~
+02/23/03~
+1046059208
+
+Madness wont crash us anymore.~
+Tracker~
+02/24/03~
+1046071555
+
+Couple mess-ups on my part fixed.~
+Tracker~
+02/24/03~
+1046071570
+
+New changes code, thx to Cirin~
+Tracker~
+02/24/03~
+1046073264
+
+Yet again, fixed them damn timers. Double Train wont turn off, then come right back on with 0 seconds.~
+Tracker~
+02/24/03~
+1046076139
+
+Newbie hours lowered to 5 hours.~
+Tracker~
+02/24/03~
+1046076893
+
+Primal cost upgraded by 1,000 exp.~
+Tracker~
+02/24/03~
+1046078816
+
+Mage books shouldn't explode anymore (Stupid ass LoW)~
+Tracker~
+02/24/03~
+1046079145
+
+Runes wont disappear after each copy now.~
+Tracker~
+02/24/03~
+1046079303
+
+Mages should be able to bless/train non-mages, lemme know if they can't~
+Tracker~
+02/24/03~
+1046079315
+
+Removed the damn "Your inventory is covered in fur." message.~
+Tracker~
+02/24/03~
+1046110918
+
+Gtell colorized.~
+Tracker~
+02/24/03~
+1046110926
+
+Mages, be aware of using objectgate. There is a chance that you could lose 500 mana (perm) randomly.~
+Tracker~
+02/24/03~
+1046119115
+
+Locate will now provide numbers ahead of them ie: 1) this item, 2) this item~
+Tracker~
+02/24/03~
+1046119543
+
+Quest cards can get mean at times, they now randomly eat the item your trying to complete onto the card.~
+Tracker~
+02/24/03~
+1046119570
+
+Forgot to add this, but your max weapon levels are raised by 25 per status you have.~
+Tracker~
+02/24/03~
+1046120021
+
+Starting to implement dragons.. (Yay?)~
+Tracker~
+02/24/03~
+1046130166
+
+Stupid ass code was paradoxin' when they were blue. It wont dox you anymore.~
+Tracker~
+02/24/03~
+1046131094
+
+Demon's can now make demonic weapons, via demonarm~
+Tracker~
+02/24/03~
+1046131400
+
+Damn whiners.. Beware when you hit 50k hp/mana/move. The cost will be extreme.~
+Tracker~
+02/24/03~
+1046142348
+
+Train silver now lets you train the whole 100 at once, and wont crash the damn mud anymore.~
+Tracker~
+02/24/03~
+1046144903
+
+Train hp/mana/move all now in. :)~
+Tracker~
+02/25/03~
+1046169364
+
+Starting my progress on multiclassing... Fun, eh~
+Tracker~
+02/25/03~
+1046172312
+
+Hint channel added for people under 5 hrs. (newbies) If you think of a hint that needs to be added, lemme know.~
+Tracker~
+02/25/03~
+1046173802
+
+Doors can now be OLC'd in, several other olc bugs squished~
+Tijer~
+02/25/03~
+1046207977
+
+Fixed serveral mage bugs 1) Mages dont lose their trust when th ey get decapped now 2) invisible on chant spells no longer meks mages blind... infra~
+Tijer~
+02/25/03~
+1046208062
+
+vision no longer puts sanctuary on them~
+Tijer~
+02/25/03~
+1046208079
+
+Tweaked Mage chant spells... lets see if it fixes the not being able to chain bug?~
+Tijer~
+02/25/03~
+1046209604
+
+Redone the boards code. Removed unneeded boards, moved them around slightly...~
+Tijer~
+02/25/03~
+1046210898
+
+Removed the useless IMC protocol~
+Tijer~
+02/25/03~
+1046210909
+
+Double exp now works again. (Code was acting stupid)~
+Tracker~
+02/25/03~
+1046212106
+
+Demon/Ninja multis shouldn't overlap now.~
+Tracker~
+02/25/03~
+1046234834
+
+Mage colors shouldn't clash anymore.~
+Tracker~
+02/25/03~
+1046237766
+
+Fixed a pesky bug with the new anti-mage clashing.~
+Tracker~
+02/25/03~
+1046238374
+
+Dragons are 75% complete, dum-dum-dum.~
+Tracker~
+02/25/03~
+1046238385
+
+Autoconsume for dragons are in.~
+Tracker~
+02/25/03~
+1046238401
+
+Dragon powers now save upon exit.~
+Tracker~
+02/25/03~
+1046238408
+
+Dragons can now cast spells while in drackform~
+Tracker~
+02/25/03~
+1046238415
+
+Dragons can now stance while in drackform~
+Tracker~
+02/25/03~
+1046238420
+
+Mages can create masterys again, silly code.~
+Tracker~
+02/25/03~
+1046239058
+
+cast soulblade works again.~
+Tracker~
+02/26/03~
+1046239239
+
+Vampires embrace will now stop when the mob leaves the room.  Once again, Sage's messup :)~
+Tracker~
+02/26/03~
+1046240409
+
+Vamp age reset via login fixed.~
+Tracker~
+02/26/03~
+1046252324
+
+Can train while morted now :P~
+Tracker~
+02/26/03~
+1046313146
+
+Hunt fixed.~
+Tracker~
+02/26/03~
+1046320953
+
+Demons tails/horns/etc. should all work via combat now.~
+Tracker~
+02/26/03~
+1046320969
+
+Ninja shiroken should work now.~
+Tracker~
+02/26/03~
+1046320989
+
+Vampire's awe should work now.~
+Tracker~
+02/26/03~
+1046321545
+
+Monk's shouldn't see 'You parry blah's attack with your claws' anymore. If you do, lemme know.~
+Tracker~
+02/26/03~
+1046321593
+
+Mage bombs do a little more damage now.~
+Tracker~
+02/26/03~
+1046322401
+
+Every 10,000 moves you should encounter an extra attack.~
+Tracker~
+02/26/03~
+1046324795
+
+Circle should work now.~
+Tracker~
+02/27/03~
+1046332609
+
+Nofollow is now in.~
+Tracker~
+02/27/03~
+1046378330
+
+Made it so drow's don't clash while multi'd.. Current drows have lost all drow powers. See me for reimbursments.~
+Tracker~
+02/28/03~
+1046414742
+
+Bloodwater should make you fight the victim now.~
+Tracker~
+03/01/03~
+1046514179
+
+Cleanwarps for demons is in.~
+Tracker~
+03/01/03~
+1046514265
+
+Mage trains have been fixed. You may now use them on other players.~
+Tracker~
+03/01/03~
+1046514306
+
+Misc. drow powers now work (again)~
+Tracker~
+03/01/03~
+1046514330
+
+Drow's spider arms should work now.~
+Tracker~
+03/01/03~
+1046556227
+
+Fixed some minor bugs with drows.~
+Tracker~
+03/01/03~
+1046556235
+
+A little bit more lag added onto unnerve (I hate this skill)~
+Tracker~
+03/01/03~
+1046556818
+
+Mutliclassed chars can now set their own class titles. Via the 'ctitle' command. It costs 500 qp.~
+Tracker~
+03/01/03~
+1046558492
+
+btw. On class titles. I will reset your class title if it is lame, moronic, has profanity, or if I just plain don't like it. And you will -NOT- be r~
+Tracker~
+03/01/03~
+1046558535
+
+reimbursed*~
+Tracker~
+03/01/03~
+1046558578
+
+Quest cards don't eat items as often anymore.~
+Tracker~
+03/01/03~
+1046559032
+
+Dragons added to selfclass, give me input on em.~
+Tracker~
+03/01/03~
+1046564530
+
+Mages added back to selfclass.~
+Tracker~
+03/01/03~
+1046564537
+
+Bitch channel added. Want to bitch, use it, or i'll silence you.~
+Tracker~
+03/01/03~
+1046569406
+
+Changed it so when a leader of a group berserks, it will not attack the players in the group.~
+Tracker~
+03/02/03~
+1046646367
+
+Ninja belts added, I'm not gonna tell you what they do.~
+Tracker~
+03/02/03~
+1046648463
+
+Arena fixed. It tried to throw you into a room that didn't exist :)~
+Tracker~
+03/02/03~
+1046649700
+
+All them high level mobs that never gave exp, should give exp now.~
+Tracker~
+03/02/03~
+1046651577
+
+Made it so the war will automatically toggle itself.~
+Tracker~
+03/02/03~
+1046655591
+
+Every time you log in you have a small chance of having a 25 qp bounty placed upon your head. Exploit this, and I'll exploit you.~
+Tracker~
+03/02/03~
+1046656883
+
+Demons now also need 1,000 qp to make a piece of brass armor.~
+Tracker~
+03/03/03~
+1046728208
+
+From people's complaints. Now red, copper, bronze AND brass all cost qps.~
+Tracker~
+03/03/03~
+1046728804
+
+Max q-card now is 500.~
+Tracker~
+03/03/03~
+1046729001
+
+Drowfire changed.~
+Tracker~
+03/03/03~
+1046739331
+
+Be careful when you decapitate someone whom is out of range for you. There is a new paradox code in, see 'HELP PARADOX'~
+Tracker~
+03/03/03~
+1046740299
+
+And yes, Chaos will evade the flick, also.~
+Tracker~
+03/03/03~
+1046740386
+
+Dragon armor is now is, syntax: dragonarmor~
+Tracker~
+03/03/03~
+1046748090
+
+Got rid of the Bonus: message if you have no bonus.~
+Tracker~
+03/03/03~
+1046749123
+
+Fixed the weaponform crash bug.~
+Tracker~
+03/04/03~
+1046766773
+
+Switched over the vampire skills to a new field in save.c..~
+Tracker~
+03/04/03~
+1046766835
+
+Thus, all you vampires might experience some skills not working, if you find anything strange or odd let me know so I can get it fixed.~
+Tracker~
+03/04/03~
+1046766837
+
+Legend QP cost upgraded.~
+Tracker~
+03/04/03~
+1046766897
+
+Legend status command added. Imbue, must be legend 5 to use. HELP IMBUE~
+Tracker~
+03/04/03~
+1046768887
+
+Tired of seeing 'a smurf hat' on quests? Changed it so it randomized between certain items. So you shouldn't see the hat as much anymore.~
+Tracker~
+03/04/03~
+1046769329
+
+Thanks to my idioticy, and Tijer's wittyness, dragon armor is now fixed. (It's wearable now)~
+Tracker~
+03/05/03~
+1046889225
+
+Felt generious, dragons now get more dps via consume.~
+Tracker~
+03/07/03~
+1047079482
+
+Exp upped.~
+Tracker~
+03/07/03~
+1047093725
+
+Dragon's scry fixed.~
+Tracker~
+03/10/03~
+1047338561
+
+You can now travel to people if you have more movement than them. (Even if their summon is off)~
+Tracker~
+03/10/03~
+1047338575
+
+Spell training should be a bit more 'simple' now. -chuckles-~
+Tracker~
+03/11/03~
+1047414079
+
+Spells should go up a little faster now, and they have been fixed. They wont pause for a long period of time anymore (hopefully) lemme know.~
+Tracker~
+03/12/03~
+1047509955
+
+Gold is in, next to make it worthwile :)~
+Tracker~
+03/12/03~
+1047511196
+

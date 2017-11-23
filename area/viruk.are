@@ -1,0 +1,79 @@
+#AREADATA
+Name        Viruk's area~
+Builders    Viruk~
+VNUMs       31800 31899
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#31800
+Entrance to the plain of despair~
+You look around and all you see is an unnervingly desolate lansdscape,
+empty, save for a single bare tree, and a creature sitting high up on the
+tree (but it's too far to tell exactly what it is),and just beyond that is a
+huge cloud of mist.  
+~
+0 6 0
+D0
+~
+~
+0 0 31801
+S
+#31801
+The Plain of Despair~
+As you approach the tree you see that the creature in the tree is
+actually a crow, only it's about 11 to 12 feet in height.  The mist seems to
+be swirling in on it's self, and you can hear a slight buzz in it's general
+direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 31802
+D2
+~
+~
+0 0 31800
+S
+#31802
+Beside The Dead(?) Tree~
+~
+0 0 0
+D2
+~
+~
+0 0 31801
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,3582 @@
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[ 9245] Revelation: typo You hit the Fire Ruler extremely hardn![643]
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 30006 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 30004 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[30001] Baalzamon: cmd: quest trust
+[30001] Baalzamon: can scry with 0 move
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 30029 not found.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: read_project: no match: ~
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: load_hiscores: # not found
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: QUEST: 28 don't exist.
+
+[*****] BUG: QUEST: 83 don't exist.
+
+[*****] BUG: QUEST: 90 don't exist.
+
+[*****] BUG: QUEST: 150 don't exist.
+
+[*****] BUG: QUEST: 71 don't exist.
+
+[*****] BUG: QUEST: 75 don't exist.
+
+[*****] BUG: QUEST: 59 don't exist.
+
+[*****] BUG: QUEST: 80 don't exist.
+
+[*****] BUG: QUEST: 146 don't exist.
+
+[*****] BUG: QUEST: 112 don't exist.
+
+[*****] BUG: QUEST: 95 don't exist.
+
+[*****] BUG: QUEST: 113 don't exist.
+
+[*****] BUG: QUEST: 52 don't exist.
+
+[*****] BUG: QUEST: 230 don't exist.
+[*****] BUG: QUEST: 258 don't exist.
+[*****] BUG: QUEST: 133 don't exist.
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 81 don't exist.
+[*****] BUG: QUEST: 247 don't exist.
+[*****] BUG: QUEST: 37 don't exist.
+[*****] BUG: QUEST: 93 don't exist.
+[*****] BUG: QUEST: 152 don't exist.
+[*****] BUG: QUEST: 230 don't exist.
+[*****] BUG: QUEST: 138 don't exist.
+[*****] BUG: QUEST: 67 don't exist.
+[*****] BUG: QUEST: 262 don't exist.
+[*****] BUG: QUEST: 93 don't exist.
+[*****] BUG: QUEST: 18 don't exist.
+[*****] BUG: QUEST: 189 don't exist.
+[*****] BUG: QUEST: 122 don't exist.
+[*****] BUG: QUEST: 197 don't exist.
+[*****] BUG: QUEST: 63 don't exist.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: QUEST: 134 don't exist.
+[*****] BUG: QUEST: 118 don't exist.
+[*****] BUG: QUEST: 216 don't exist.
+[*****] BUG: QUEST: 47 don't exist.
+[*****] BUG: QUEST: 75 don't exist.
+[*****] BUG: QUEST: 71 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 83 don't exist.
+[*****] BUG: QUEST: 249 don't exist.
+[*****] BUG: QUEST: 265 don't exist.
+[*****] BUG: QUEST: 226 don't exist.
+[*****] BUG: QUEST: 61 don't exist.
+[*****] BUG: QUEST: 116 don't exist.
+[*****] BUG: QUEST: 47 don't exist.
+[*****] BUG: QUEST: 98 don't exist.
+[*****] BUG: QUEST: 54 don't exist.
+[*****] BUG: QUEST: 204 don't exist.
+[*****] BUG: QUEST: 25 don't exist.
+[*****] BUG: QUEST: 61 don't exist.
+[*****] BUG: QUEST: 212 don't exist.
+[*****] BUG: QUEST: 266 don't exist.
+[*****] BUG: QUEST: 1 don't exist.
+[*****] BUG: QUEST: 58 don't exist.
+[*****] BUG: QUEST: 62 don't exist.
+[*****] BUG: QUEST: 205 don't exist.
+[*****] BUG: QUEST: 235 don't exist.
+[*****] BUG: QUEST: 220 don't exist.
+[*****] BUG: QUEST: 251 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 267 don't exist.
+[*****] BUG: QUEST: 194 don't exist.
+[*****] BUG: QUEST: 43 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 4 don't exist.
+[*****] BUG: QUEST: 144 don't exist.
+[*****] BUG: QUEST: 195 don't exist.
+[*****] BUG: QUEST: 223 don't exist.
+[*****] BUG: QUEST: 180 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 45 don't exist.
+[*****] BUG: QUEST: 257 don't exist.
+[*****] BUG: QUEST: 185 don't exist.
+[*****] BUG: QUEST: 173 don't exist.
+[*****] BUG: QUEST: 67 don't exist.
+[*****] BUG: QUEST: 64 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 82 don't exist.
+[*****] BUG: QUEST: 140 don't exist.
+[*****] BUG: QUEST: 257 don't exist.
+[*****] BUG: QUEST: 209 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 221 don't exist.
+[*****] BUG: QUEST: 111 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 95 don't exist.
+[*****] BUG: QUEST: 62 don't exist.
+[*****] BUG: QUEST: 131 don't exist.
+[*****] BUG: QUEST: 257 don't exist.
+[*****] BUG: QUEST: 91 don't exist.
+[*****] BUG: QUEST: 51 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 134 don't exist.
+[*****] BUG: QUEST: 216 don't exist.
+[*****] BUG: QUEST: 264 don't exist.
+[*****] BUG: QUEST: 162 don't exist.
+[*****] BUG: QUEST: 149 don't exist.
+[*****] BUG: QUEST: 155 don't exist.
+[*****] BUG: QUEST: 115 don't exist.
+[*****] BUG: QUEST: 6 don't exist.
+[*****] BUG: QUEST: 47 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 223 don't exist.
+[*****] BUG: QUEST: 249 don't exist.
+[*****] BUG: QUEST: 24 don't exist.
+[*****] BUG: QUEST: 118 don't exist.
+[*****] BUG: QUEST: 143 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: QUEST: 166 don't exist.
+[*****] BUG: QUEST: 181 don't exist.
+[*****] BUG: QUEST: 110 don't exist.
+[*****] BUG: QUEST: 217 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 194 don't exist.
+[*****] BUG: QUEST: 148 don't exist.
+[*****] BUG: QUEST: 150 don't exist.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 90 don't exist.
+[*****] BUG: QUEST: 115 don't exist.
+[*****] BUG: QUEST: 40 don't exist.
+[*****] BUG: QUEST: 195 don't exist.
+[*****] BUG: QUEST: 33 don't exist.
+[*****] BUG: QUEST: 159 don't exist.
+[*****] BUG: QUEST: 271 don't exist.
+[*****] BUG: QUEST: 9 don't exist.
+[*****] BUG: QUEST: 114 don't exist.
+[*****] BUG: QUEST: 37 don't exist.
+[*****] BUG: QUEST: 256 don't exist.
+[*****] BUG: QUEST: 188 don't exist.
+[*****] BUG: QUEST: 112 don't exist.
+[*****] BUG: QUEST: 29 don't exist.
+[*****] BUG: QUEST: 221 don't exist.
+[*****] BUG: QUEST: 37 don't exist.
+[*****] BUG: QUEST: 79 don't exist.
+[*****] BUG: QUEST: 207 don't exist.
+[*****] BUG: QUEST: 177 don't exist.
+[*****] BUG: QUEST: 215 don't exist.
+[*****] BUG: QUEST: 55 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 212 don't exist.
+[*****] BUG: QUEST: 176 don't exist.
+[*****] BUG: QUEST: 72 don't exist.
+[*****] BUG: QUEST: 26 don't exist.
+[*****] BUG: QUEST: 121 don't exist.
+[*****] BUG: QUEST: 116 don't exist.
+[*****] BUG: QUEST: 17 don't exist.
+[*****] BUG: QUEST: 65 don't exist.
+[*****] BUG: QUEST: 217 don't exist.
+[*****] BUG: QUEST: 129 don't exist.
+[*****] BUG: QUEST: 174 don't exist.
+[*****] BUG: QUEST: 165 don't exist.
+[*****] BUG: QUEST: 62 don't exist.
+[*****] BUG: QUEST: 114 don't exist.
+[*****] BUG: QUEST: 232 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 46 don't exist.
+[*****] BUG: QUEST: 199 don't exist.
+[*****] BUG: QUEST: 232 don't exist.
+[*****] BUG: QUEST: 158 don't exist.
+[*****] BUG: QUEST: 224 don't exist.
+[*****] BUG: QUEST: 218 don't exist.
+[*****] BUG: QUEST: 81 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 204 don't exist.
+[*****] BUG: QUEST: 207 don't exist.
+[*****] BUG: QUEST: 74 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 243 don't exist.
+[*****] BUG: QUEST: 40 don't exist.
+[*****] BUG: QUEST: 174 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 241 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 90 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 111 don't exist.
+[*****] BUG: QUEST: 42 don't exist.
+[*****] BUG: QUEST: 28 don't exist.
+[*****] BUG: QUEST: 263 don't exist.
+[*****] BUG: QUEST: 170 don't exist.
+[*****] BUG: QUEST: 73 don't exist.
+[*****] BUG: QUEST: 34 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 151 don't exist.
+[*****] BUG: QUEST: 17 don't exist.
+[*****] BUG: QUEST: 155 don't exist.
+[*****] BUG: QUEST: 164 don't exist.
+[*****] BUG: QUEST: 192 don't exist.
+[*****] BUG: QUEST: 247 don't exist.
+[*****] BUG: QUEST: 246 don't exist.
+[*****] BUG: QUEST: 126 don't exist.
+[*****] BUG: QUEST: 243 don't exist.
+[*****] BUG: QUEST: 96 don't exist.
+[*****] BUG: QUEST: 4 don't exist.
+[*****] BUG: QUEST: 60 don't exist.
+[*****] BUG: QUEST: 207 don't exist.
+[*****] BUG: QUEST: 245 don't exist.
+[*****] BUG: QUEST: 204 don't exist.
+[*****] BUG: QUEST: 48 don't exist.
+[*****] BUG: QUEST: 264 don't exist.
+[*****] BUG: QUEST: 133 don't exist.
+[*****] BUG: QUEST: 99 don't exist.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 33 don't exist.
+[*****] BUG: QUEST: 53 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: QUEST: 267 don't exist.
+[*****] BUG: QUEST: 4 don't exist.
+[*****] BUG: QUEST: 139 don't exist.
+[*****] BUG: QUEST: 137 don't exist.
+[*****] BUG: QUEST: 247 don't exist.
+[*****] BUG: QUEST: 67 don't exist.
+[*****] BUG: QUEST: 149 don't exist.
+[*****] BUG: QUEST: 122 don't exist.
+[*****] BUG: QUEST: 248 don't exist.
+[*****] BUG: QUEST: 116 don't exist.
+[*****] BUG: QUEST: 161 don't exist.
+[*****] BUG: QUEST: 83 don't exist.
+[*****] BUG: QUEST: 97 don't exist.
+[*****] BUG: QUEST: 222 don't exist.
+[*****] BUG: QUEST: 79 don't exist.
+[*****] BUG: QUEST: 147 don't exist.
+[*****] BUG: QUEST: 148 don't exist.
+[*****] BUG: QUEST: 41 don't exist.
+[*****] BUG: QUEST: 137 don't exist.
+[*****] BUG: QUEST: 154 don't exist.
+[*****] BUG: QUEST: 160 don't exist.
+[*****] BUG: QUEST: 68 don't exist.
+[*****] BUG: QUEST: 63 don't exist.
+[*****] BUG: QUEST: 87 don't exist.
+[*****] BUG: QUEST: 44 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 26 don't exist.
+[*****] BUG: QUEST: 63 don't exist.
+[*****] BUG: QUEST: 184 don't exist.
+[*****] BUG: QUEST: 9 don't exist.
+[*****] BUG: QUEST: 164 don't exist.
+[*****] BUG: QUEST: 64 don't exist.
+[*****] BUG: QUEST: 81 don't exist.
+[*****] BUG: QUEST: 226 don't exist.
+[*****] BUG: QUEST: 172 don't exist.
+[*****] BUG: QUEST: 251 don't exist.
+[*****] BUG: QUEST: 191 don't exist.
+[*****] BUG: QUEST: 73 don't exist.
+[*****] BUG: QUEST: 141 don't exist.
+[*****] BUG: QUEST: 98 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 211 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 267 don't exist.
+[*****] BUG: QUEST: 224 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 238 don't exist.
+[*****] BUG: QUEST: 115 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 124 don't exist.
+[*****] BUG: QUEST: 31 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 258 don't exist.
+[*****] BUG: QUEST: 246 don't exist.
+[*****] BUG: QUEST: 149 don't exist.
+[*****] BUG: QUEST: 94 don't exist.
+[*****] BUG: QUEST: 144 don't exist.
+[*****] BUG: QUEST: 232 don't exist.
+[*****] BUG: QUEST: 139 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 226 don't exist.
+[*****] BUG: QUEST: 61 don't exist.
+[*****] BUG: QUEST: 257 don't exist.
+[*****] BUG: QUEST: 149 don't exist.
+[*****] BUG: QUEST: 206 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 92 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 142 don't exist.
+[*****] BUG: QUEST: 222 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: QUEST: 228 don't exist.
+[*****] BUG: QUEST: 71 don't exist.
+[*****] BUG: QUEST: 131 don't exist.
+[*****] BUG: QUEST: 185 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 28 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 70 don't exist.
+[*****] BUG: QUEST: 69 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: QUEST: 55 don't exist.
+[*****] BUG: QUEST: 149 don't exist.
+[*****] BUG: QUEST: 112 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 44 don't exist.
+[*****] BUG: QUEST: 41 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 18 don't exist.
+[*****] BUG: QUEST: 4 don't exist.
+[*****] BUG: QUEST: 161 don't exist.
+[*****] BUG: QUEST: 165 don't exist.
+[*****] BUG: QUEST: 241 don't exist.
+[*****] BUG: QUEST: 120 don't exist.
+[*****] BUG: QUEST: 125 don't exist.
+[*****] BUG: QUEST: 241 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 167 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 136 don't exist.
+[*****] BUG: QUEST: 68 don't exist.
+[*****] BUG: QUEST: 204 don't exist.
+[*****] BUG: QUEST: 226 don't exist.
+[*****] BUG: QUEST: 160 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 205 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 226 don't exist.
+[*****] BUG: QUEST: 45 don't exist.
+[*****] BUG: QUEST: 248 don't exist.
+[*****] BUG: QUEST: 175 don't exist.
+[*****] BUG: QUEST: 250 don't exist.
+[*****] BUG: QUEST: 217 don't exist.
+[*****] BUG: QUEST: 150 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 87 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 93 don't exist.
+[*****] BUG: QUEST: 53 don't exist.
+[*****] BUG: QUEST: 224 don't exist.
+[*****] BUG: QUEST: 214 don't exist.
+[*****] BUG: QUEST: 206 don't exist.
+[*****] BUG: QUEST: 24 don't exist.
+[*****] BUG: QUEST: 244 don't exist.
+[*****] BUG: QUEST: 172 don't exist.
+[*****] BUG: QUEST: 90 don't exist.
+[*****] BUG: QUEST: 28 don't exist.
+[*****] BUG: QUEST: 268 don't exist.
+[*****] BUG: QUEST: 19 don't exist.
+[*****] BUG: QUEST: 246 don't exist.
+[*****] BUG: QUEST: 264 don't exist.
+[*****] BUG: QUEST: 48 don't exist.
+[*****] BUG: QUEST: 225 don't exist.
+[*****] BUG: QUEST: 161 don't exist.
+[*****] BUG: QUEST: 178 don't exist.
+[*****] BUG: QUEST: 249 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 139 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 182 don't exist.
+[*****] BUG: QUEST: 135 don't exist.
+[*****] BUG: QUEST: 88 don't exist.
+[*****] BUG: QUEST: 202 don't exist.
+[*****] BUG: QUEST: 84 don't exist.
+[*****] BUG: QUEST: 269 don't exist.
+[*****] BUG: QUEST: 35 don't exist.
+[*****] BUG: QUEST: 43 don't exist.
+[*****] BUG: QUEST: 125 don't exist.
+[*****] BUG: QUEST: 190 don't exist.
+[*****] BUG: QUEST: 248 don't exist.
+[*****] BUG: QUEST: 40 don't exist.
+[*****] BUG: QUEST: 96 don't exist.
+[*****] BUG: QUEST: 138 don't exist.
+[*****] BUG: QUEST: 192 don't exist.
+[*****] BUG: QUEST: 171 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 6 don't exist.
+[*****] BUG: QUEST: 31 don't exist.
+[*****] BUG: QUEST: 214 don't exist.
+[*****] BUG: QUEST: 214 don't exist.
+[*****] BUG: QUEST: 30 don't exist.
+[*****] BUG: QUEST: 41 don't exist.
+[*****] BUG: QUEST: 4 don't exist.
+[*****] BUG: QUEST: 59 don't exist.
+[*****] BUG: QUEST: 139 don't exist.
+[*****] BUG: QUEST: 185 don't exist.
+[*****] BUG: QUEST: 71 don't exist.
+[*****] BUG: QUEST: 113 don't exist.
+[*****] BUG: QUEST: 4 don't exist.
+[*****] BUG: QUEST: 47 don't exist.
+[*****] BUG: QUEST: 233 don't exist.
+[*****] BUG: QUEST: 231 don't exist.
+[*****] BUG: QUEST: 250 don't exist.
+[*****] BUG: QUEST: 64 don't exist.
+[*****] BUG: QUEST: 69 don't exist.
+[*****] BUG: QUEST: 45 don't exist.
+[*****] BUG: QUEST: 121 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 82 don't exist.
+[*****] BUG: QUEST: 184 don't exist.
+[*****] BUG: QUEST: 161 don't exist.
+[*****] BUG: QUEST: 150 don't exist.
+[*****] BUG: QUEST: 82 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 211 don't exist.
+[*****] BUG: QUEST: 259 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 178 don't exist.
+[*****] BUG: QUEST: 55 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 181 don't exist.
+[*****] BUG: QUEST: 124 don't exist.
+[*****] BUG: QUEST: 88 don't exist.
+[*****] BUG: QUEST: 152 don't exist.
+[*****] BUG: QUEST: 202 don't exist.
+[*****] BUG: QUEST: 210 don't exist.
+[*****] BUG: QUEST: 264 don't exist.
+[*****] BUG: QUEST: 225 don't exist.
+[*****] BUG: QUEST: 170 don't exist.
+[*****] BUG: QUEST: 71 don't exist.
+[*****] BUG: QUEST: 154 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 9 don't exist.
+[*****] BUG: QUEST: 86 don't exist.
+[*****] BUG: QUEST: 234 don't exist.
+[*****] BUG: QUEST: 174 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 152 don't exist.
+[*****] BUG: QUEST: 98 don't exist.
+[*****] BUG: QUEST: 154 don't exist.
+[*****] BUG: QUEST: 31 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 238 don't exist.
+[*****] BUG: QUEST: 29 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 144 don't exist.
+[*****] BUG: QUEST: 239 don't exist.
+[*****] BUG: QUEST: 246 don't exist.
+[*****] BUG: QUEST: 119 don't exist.
+[*****] BUG: QUEST: 249 don't exist.
+[*****] BUG: QUEST: 165 don't exist.
+[*****] BUG: QUEST: 188 don't exist.
+[*****] BUG: QUEST: 155 don't exist.
+[*****] BUG: QUEST: 93 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 197 don't exist.
+[*****] BUG: QUEST: 228 don't exist.
+[*****] BUG: QUEST: 42 don't exist.
+[*****] BUG: QUEST: 224 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 68 don't exist.
+[*****] BUG: QUEST: 33 don't exist.
+[*****] BUG: QUEST: 67 don't exist.
+[*****] BUG: QUEST: 253 don't exist.
+[*****] BUG: QUEST: 79 don't exist.
+[*****] BUG: QUEST: 6 don't exist.
+[*****] BUG: QUEST: 240 don't exist.
+[*****] BUG: QUEST: 116 don't exist.
+[*****] BUG: QUEST: 46 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 258 don't exist.
+[*****] BUG: QUEST: 220 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 176 don't exist.
+[*****] BUG: QUEST: 96 don't exist.
+[*****] BUG: QUEST: 188 don't exist.
+[*****] BUG: QUEST: 45 don't exist.
+[*****] BUG: QUEST: 176 don't exist.
+[*****] BUG: QUEST: 127 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 91 don't exist.
+[*****] BUG: QUEST: 255 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 54 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: QUEST: 217 don't exist.
+[*****] BUG: QUEST: 25 don't exist.
+[*****] BUG: QUEST: 213 don't exist.
+[*****] BUG: QUEST: 211 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 143 don't exist.
+[*****] BUG: QUEST: 173 don't exist.
+[*****] BUG: QUEST: 261 don't exist.
+[*****] BUG: QUEST: 166 don't exist.
+[*****] BUG: QUEST: 79 don't exist.
+[*****] BUG: QUEST: 69 don't exist.
+[*****] BUG: QUEST: 114 don't exist.
+[*****] BUG: QUEST: 118 don't exist.
+[*****] BUG: QUEST: 6 don't exist.
+[*****] BUG: QUEST: 256 don't exist.
+[*****] BUG: QUEST: 270 don't exist.
+[*****] BUG: QUEST: 271 don't exist.
+[*****] BUG: QUEST: 212 don't exist.
+[*****] BUG: QUEST: 86 don't exist.
+[*****] BUG: QUEST: 114 don't exist.
+[*****] BUG: QUEST: 90 don't exist.
+[*****] BUG: QUEST: 251 don't exist.
+[*****] BUG: QUEST: 139 don't exist.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: QUEST: 163 don't exist.
+[*****] BUG: QUEST: 141 don't exist.
+[*****] BUG: QUEST: 119 don't exist.
+[*****] BUG: QUEST: 71 don't exist.
+[*****] BUG: QUEST: 76 don't exist.
+[*****] BUG: QUEST: 209 don't exist.
+[*****] BUG: QUEST: 117 don't exist.
+[*****] BUG: QUEST: 224 don't exist.
+[*****] BUG: QUEST: 257 don't exist.
+[*****] BUG: QUEST: 242 don't exist.
+[*****] BUG: QUEST: 30 don't exist.
+[*****] BUG: QUEST: 138 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 188 don't exist.
+[*****] BUG: QUEST: 117 don't exist.
+[*****] BUG: QUEST: 269 don't exist.
+[*****] BUG: QUEST: 86 don't exist.
+[*****] BUG: QUEST: 95 don't exist.
+[*****] BUG: QUEST: 122 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 150 don't exist.
+[*****] BUG: QUEST: 115 don't exist.
+[*****] BUG: QUEST: 62 don't exist.
+[*****] BUG: QUEST: 112 don't exist.
+[*****] BUG: QUEST: 24 don't exist.
+[*****] BUG: QUEST: 96 don't exist.
+[*****] BUG: QUEST: 226 don't exist.
+[*****] BUG: QUEST: 214 don't exist.
+[*****] BUG: QUEST: 193 don't exist.
+[*****] BUG: QUEST: 42 don't exist.
+[*****] BUG: QUEST: 262 don't exist.
+[*****] BUG: QUEST: 222 don't exist.
+[*****] BUG: QUEST: 258 don't exist.
+[*****] BUG: QUEST: 42 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 37 don't exist.
+[*****] BUG: QUEST: 95 don't exist.
+[*****] BUG: QUEST: 140 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 164 don't exist.
+[*****] BUG: QUEST: 251 don't exist.
+[*****] BUG: QUEST: 59 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 86 don't exist.
+[*****] BUG: QUEST: 206 don't exist.
+[*****] BUG: QUEST: 91 don't exist.
+[*****] BUG: QUEST: 61 don't exist.
+[*****] BUG: QUEST: 82 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 17 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 211 don't exist.
+[*****] BUG: QUEST: 92 don't exist.
+[*****] BUG: QUEST: 212 don't exist.
+[*****] BUG: QUEST: 76 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 99 don't exist.
+[*****] BUG: QUEST: 171 don't exist.
+[*****] BUG: QUEST: 254 don't exist.
+[*****] BUG: QUEST: 239 don't exist.
+[*****] BUG: QUEST: 268 don't exist.
+[*****] BUG: QUEST: 189 don't exist.
+[*****] BUG: QUEST: 187 don't exist.
+[*****] BUG: QUEST: 127 don't exist.
+[*****] BUG: QUEST: 184 don't exist.
+[*****] BUG: QUEST: 42 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 135 don't exist.
+[*****] BUG: QUEST: 138 don't exist.
+[*****] BUG: QUEST: 18 don't exist.
+[*****] BUG: QUEST: 86 don't exist.
+[*****] BUG: QUEST: 33 don't exist.
+[*****] BUG: QUEST: 18 don't exist.
+[*****] BUG: QUEST: 166 don't exist.
+[*****] BUG: QUEST: 99 don't exist.
+[*****] BUG: QUEST: 194 don't exist.
+[*****] BUG: QUEST: 45 don't exist.
+[*****] BUG: QUEST: 124 don't exist.
+[*****] BUG: QUEST: 94 don't exist.
+[*****] BUG: QUEST: 32 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 169 don't exist.
+[*****] BUG: QUEST: 58 don't exist.
+[*****] BUG: QUEST: 87 don't exist.
+[*****] BUG: QUEST: 198 don't exist.
+[*****] BUG: QUEST: 129 don't exist.
+[*****] BUG: QUEST: 34 don't exist.
+[*****] BUG: QUEST: 180 don't exist.
+[*****] BUG: QUEST: 87 don't exist.
+[*****] BUG: QUEST: 46 don't exist.
+[*****] BUG: QUEST: 70 don't exist.
+[*****] BUG: QUEST: 228 don't exist.
+[*****] BUG: QUEST: 222 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 163 don't exist.
+[*****] BUG: QUEST: 208 don't exist.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 215 don't exist.
+[*****] BUG: QUEST: 185 don't exist.
+[*****] BUG: QUEST: 79 don't exist.
+[*****] BUG: QUEST: 171 don't exist.
+[*****] BUG: QUEST: 265 don't exist.
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 208 don't exist.
+[*****] BUG: QUEST: 148 don't exist.
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 127 don't exist.
+[*****] BUG: QUEST: 97 don't exist.
+[*****] BUG: QUEST: 5 don't exist.
+[*****] BUG: QUEST: 267 don't exist.
+[*****] BUG: QUEST: 81 don't exist.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: QUEST: 110 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 261 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 168 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 247 don't exist.
+[*****] BUG: QUEST: 270 don't exist.
+[*****] BUG: QUEST: 135 don't exist.
+[*****] BUG: QUEST: 241 don't exist.
+[*****] BUG: QUEST: 40 don't exist.
+[*****] BUG: QUEST: 166 don't exist.
+[*****] BUG: QUEST: 119 don't exist.
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 63 don't exist.
+[*****] BUG: QUEST: 176 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 111 don't exist.
+[*****] BUG: QUEST: 113 don't exist.
+[*****] BUG: QUEST: 148 don't exist.
+[*****] BUG: QUEST: 151 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 77 don't exist.
+[*****] BUG: QUEST: 251 don't exist.
+[*****] BUG: QUEST: 131 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 136 don't exist.
+[*****] BUG: QUEST: 190 don't exist.
+[*****] BUG: QUEST: 222 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 244 don't exist.
+[*****] BUG: QUEST: 266 don't exist.
+[*****] BUG: QUEST: 96 don't exist.
+[*****] BUG: QUEST: 199 don't exist.
+[*****] BUG: QUEST: 173 don't exist.
+[*****] BUG: QUEST: 243 don't exist.
+[*****] BUG: QUEST: 90 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 83 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 112 don't exist.
+[*****] BUG: QUEST: 83 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 93 don't exist.
+[*****] BUG: QUEST: 222 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 84 don't exist.
+[*****] BUG: QUEST: 247 don't exist.
+[*****] BUG: QUEST: 175 don't exist.
+[*****] BUG: QUEST: 51 don't exist.
+[*****] BUG: QUEST: 34 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 239 don't exist.
+[*****] BUG: QUEST: 184 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 74 don't exist.
+[*****] BUG: QUEST: 147 don't exist.
+[*****] BUG: QUEST: 210 don't exist.
+[*****] BUG: QUEST: 127 don't exist.
+[*****] BUG: QUEST: 159 don't exist.
+[*****] BUG: QUEST: 31 don't exist.
+[*****] BUG: QUEST: 74 don't exist.
+[*****] BUG: QUEST: 184 don't exist.
+[*****] BUG: QUEST: 65 don't exist.
+[*****] BUG: QUEST: 225 don't exist.
+[*****] BUG: QUEST: 189 don't exist.
+[*****] BUG: QUEST: 64 don't exist.
+[*****] BUG: QUEST: 126 don't exist.
+[*****] BUG: QUEST: 140 don't exist.
+[*****] BUG: QUEST: 243 don't exist.
+[*****] BUG: QUEST: 32 don't exist.
+[*****] BUG: QUEST: 247 don't exist.
+[*****] BUG: QUEST: 56 don't exist.
+[*****] BUG: QUEST: 164 don't exist.
+[*****] BUG: QUEST: 174 don't exist.
+[*****] BUG: QUEST: 30 don't exist.
+[*****] BUG: QUEST: 170 don't exist.
+[*****] BUG: QUEST: 200 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: QUEST: 75 don't exist.
+[*****] BUG: QUEST: 142 don't exist.
+[*****] BUG: QUEST: 221 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 91 don't exist.
+[*****] BUG: QUEST: 159 don't exist.
+[*****] BUG: QUEST: 122 don't exist.
+[*****] BUG: QUEST: 198 don't exist.
+[*****] BUG: QUEST: 95 don't exist.
+[*****] BUG: QUEST: 175 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 25 don't exist.
+[*****] BUG: QUEST: 114 don't exist.
+[*****] BUG: QUEST: 87 don't exist.
+[*****] BUG: QUEST: 207 don't exist.
+[*****] BUG: QUEST: 197 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 54 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 210 don't exist.
+[*****] BUG: QUEST: 28 don't exist.
+[*****] BUG: QUEST: 258 don't exist.
+[*****] BUG: QUEST: 42 don't exist.
+[*****] BUG: QUEST: 24 don't exist.
+[*****] BUG: QUEST: 220 don't exist.
+[*****] BUG: QUEST: 175 don't exist.
+[*****] BUG: QUEST: 194 don't exist.
+[*****] BUG: QUEST: 126 don't exist.
+[*****] BUG: QUEST: 99 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 190 don't exist.
+[*****] BUG: QUEST: 250 don't exist.
+[*****] BUG: QUEST: 87 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 190 don't exist.
+[*****] BUG: QUEST: 186 don't exist.
+[*****] BUG: QUEST: 230 don't exist.
+[*****] BUG: QUEST: 163 don't exist.
+[*****] BUG: QUEST: 138 don't exist.
+[*****] BUG: QUEST: 51 don't exist.
+[*****] BUG: QUEST: 111 don't exist.
+[*****] BUG: QUEST: 173 don't exist.
+[*****] BUG: QUEST: 126 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: QUEST: 83 don't exist.
+[*****] BUG: QUEST: 96 don't exist.
+[*****] BUG: QUEST: 245 don't exist.
+[*****] BUG: QUEST: 195 don't exist.
+[*****] BUG: QUEST: 64 don't exist.
+[*****] BUG: QUEST: 131 don't exist.
+[*****] BUG: QUEST: 108 don't exist.
+[*****] BUG: QUEST: 182 don't exist.
+[*****] BUG: QUEST: 13 don't exist.
+[*****] BUG: QUEST: 66 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 18 don't exist.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11122.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11122.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11122.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11122.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11122.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11122.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 104 don't exist.
+[*****] BUG: QUEST: 89 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 9 don't exist.
+[*****] BUG: QUEST: 256 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 40 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 191 don't exist.
+[*****] BUG: QUEST: 102 don't exist.
+[*****] BUG: QUEST: 70 don't exist.
+[*****] BUG: QUEST: 224 don't exist.
+[*****] BUG: QUEST: 268 don't exist.
+[*****] BUG: QUEST: 177 don't exist.
+[*****] BUG: QUEST: 73 don't exist.
+[*****] BUG: QUEST: 35 don't exist.
+[*****] BUG: QUEST: 90 don't exist.
+[*****] BUG: QUEST: 3 don't exist.
+[*****] BUG: QUEST: 245 don't exist.
+[*****] BUG: QUEST: 257 don't exist.
+[*****] BUG: QUEST: 251 don't exist.
+[*****] BUG: QUEST: 116 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 118 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 185 don't exist.
+[*****] BUG: QUEST: 131 don't exist.
+[*****] BUG: QUEST: 99 don't exist.
+[*****] BUG: QUEST: 3 don't exist.
+[*****] BUG: QUEST: 47 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 169 don't exist.
+[*****] BUG: Fread_char: no match. WORD: Kith
+[*****] BUG: Fread_char: no match. WORD: Kith
+[*****] BUG: Fread_char: no match. WORD: Kith
+[*****] BUG: Fread_char: no match. WORD: Kith
+[*****] BUG: Fread_char: no match. WORD: Kith
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Dragonaff
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 7 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: QUEST: 128 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: QUEST: 24 don't exist.
+[*****] BUG: QUEST: 258 don't exist.
+[*****] BUG: QUEST: 191 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 159 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: QUEST: 125 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 220 don't exist.
+[*****] BUG: QUEST: 29 don't exist.
+[*****] BUG: QUEST: 88 don't exist.
+[*****] BUG: QUEST: 67 don't exist.
+[*****] BUG: QUEST: 262 don't exist.
+[*****] BUG: QUEST: 164 don't exist.
+[*****] BUG: QUEST: 268 don't exist.
+[*****] BUG: QUEST: 206 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 58 don't exist.
+[*****] BUG: QUEST: 202 don't exist.
+[*****] BUG: QUEST: 98 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 92 don't exist.
+[*****] BUG: QUEST: 23 don't exist.
+[*****] BUG: QUEST: 109 don't exist.
+[*****] BUG: QUEST: 104 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 202 don't exist.
+[*****] BUG: QUEST: 19 don't exist.
+[*****] BUG: QUEST: 265 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 76 don't exist.
+[*****] BUG: QUEST: 225 don't exist.
+[*****] BUG: QUEST: 136 don't exist.
+[*****] BUG: QUEST: 24 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 97 don't exist.
+[*****] BUG: QUEST: 254 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 98 don't exist.
+[*****] BUG: QUEST: 122 don't exist.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: QUEST: 266 don't exist.
+[*****] BUG: QUEST: 89 don't exist.
+[*****] BUG: QUEST: 106 don't exist.
+[*****] BUG: QUEST: 244 don't exist.
+[*****] BUG: QUEST: 271 don't exist.
+[*****] BUG: QUEST: 215 don't exist.
+[*****] BUG: QUEST: 79 don't exist.
+[*****] BUG: QUEST: 148 don't exist.
+[*****] BUG: QUEST: 216 don't exist.
+[*****] BUG: QUEST: 256 don't exist.
+[*****] BUG: QUEST: 241 don't exist.
+[*****] BUG: QUEST: 207 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 182 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 152 don't exist.
+[*****] BUG: QUEST: 212 don't exist.
+[*****] BUG: QUEST: 174 don't exist.
+[*****] BUG: QUEST: 150 don't exist.
+[*****] BUG: QUEST: 89 don't exist.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 112 don't exist.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 98 don't exist.
+[*****] BUG: QUEST: 224 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 120 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 187 don't exist.
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 31 don't exist.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: QUEST: 142 don't exist.
+[*****] BUG: QUEST: 235 don't exist.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 96 don't exist.
+[*****] BUG: QUEST: 105 don't exist.
+[*****] BUG: QUEST: 116 don't exist.
+[*****] BUG: QUEST: 212 don't exist.
+[*****] BUG: QUEST: 172 don't exist.
+[*****] BUG: QUEST: 246 don't exist.
+[*****] BUG: QUEST: 106 don't exist.
+[*****] BUG: QUEST: 37 don't exist.
+[*****] BUG: QUEST: 267 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 166 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 54 don't exist.
+[*****] BUG: QUEST: 228 don't exist.
+[*****] BUG: QUEST: 178 don't exist.
+[*****] BUG: QUEST: 214 don't exist.
+[*****] BUG: QUEST: 134 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 149 don't exist.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: QUEST: 103 don't exist.
+[*****] BUG: QUEST: 28 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 75 don't exist.
+[*****] BUG: QUEST: 111 don't exist.
+[*****] BUG: QUEST: 166 don't exist.
+[*****] BUG: QUEST: 16 don't exist.
+[*****] BUG: QUEST: 114 don't exist.
+[*****] BUG: QUEST: 169 don't exist.
+[*****] BUG: QUEST: 17 don't exist.
+[*****] BUG: QUEST: 121 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 7 don't exist.
+[*****] BUG: QUEST: 188 don't exist.
+[*****] BUG: QUEST: 256 don't exist.
+[*****] BUG: QUEST: 196 don't exist.
+[*****] BUG: QUEST: 84 don't exist.
+[*****] BUG: QUEST: 170 don't exist.
+[*****] BUG: QUEST: 124 don't exist.
+[*****] BUG: QUEST: 193 don't exist.
+[*****] BUG: QUEST: 229 don't exist.
+[*****] BUG: QUEST: 182 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 100 don't exist.
+[*****] BUG: QUEST: 137 don't exist.
+[*****] BUG: QUEST: 209 don't exist.
+[*****] BUG: QUEST: 165 don't exist.
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 107 don't exist.
+[*****] BUG: QUEST: 76 don't exist.
+[*****] BUG: QUEST: 33 don't exist.
+[*****] BUG: QUEST: 138 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 175 don't exist.
+[*****] BUG: QUEST: 172 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 231 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 234 don't exist.
+[*****] BUG: QUEST: 271 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 101 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 150 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: QUEST: 131 don't exist.
+[*****] BUG: QUEST: 173 don't exist.
+[*****] BUG: QUEST: 22 don't exist.
+[*****] BUG: QUEST: 252 don't exist.
+[*****] BUG: QUEST: 269 don't exist.
+[*****] BUG: QUEST: 106 don't exist.
+[*****] BUG: QUEST: 165 don't exist.
+[*****] BUG: QUEST: 101 don't exist.
+[*****] BUG: QUEST: 95 don't exist.
+[*****] BUG: QUEST: 93 don't exist.
+[*****] BUG: QUEST: 22 don't exist.
+[*****] BUG: QUEST: 41 don't exist.
+[*****] BUG: QUEST: 245 don't exist.
+[*****] BUG: QUEST: 41 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 151 don't exist.
+[*****] BUG: QUEST: 78 don't exist.
+[*****] BUG: QUEST: 264 don't exist.
+[*****] BUG: QUEST: 75 don't exist.
+[*****] BUG: QUEST: 3 don't exist.
+[*****] BUG: QUEST: 171 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 103 don't exist.
+[*****] BUG: QUEST: 107 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 181 don't exist.
+[*****] BUG: QUEST: 196 don't exist.
+[*****] BUG: QUEST: 180 don't exist.
+[*****] BUG: QUEST: 217 don't exist.
+[*****] BUG: QUEST: 143 don't exist.
+[*****] BUG: QUEST: 134 don't exist.
+[*****] BUG: QUEST: 189 don't exist.
+[*****] BUG: QUEST: 113 don't exist.
+[*****] BUG: QUEST: 255 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 6 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 140 don't exist.
+[*****] BUG: QUEST: 254 don't exist.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: QUEST: 38 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 207 don't exist.
+[*****] BUG: QUEST: 196 don't exist.
+[*****] BUG: QUEST: 152 don't exist.
+[*****] BUG: QUEST: 10 don't exist.
+[*****] BUG: QUEST: 239 don't exist.
+[*****] BUG: QUEST: 128 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: QUEST: 263 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 117 don't exist.
+[*****] BUG: QUEST: 139 don't exist.
+[*****] BUG: QUEST: 20 don't exist.
+[*****] BUG: QUEST: 185 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 167 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 194 don't exist.
+[*****] BUG: QUEST: 51 don't exist.
+[*****] BUG: QUEST: 7 don't exist.
+[*****] BUG: QUEST: 171 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11105.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11105.
+[*****] BUG: QUEST: 101 don't exist.
+[*****] BUG: QUEST: 46 don't exist.
+[*****] BUG: QUEST: 169 don't exist.
+[*****] BUG: QUEST: 5 don't exist.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 11105.
+[*****] BUG: QUEST: 73 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 211 don't exist.
+[*****] BUG: QUEST: 245 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 176 don't exist.
+[*****] BUG: QUEST: 12 don't exist.
+[*****] BUG: QUEST: 72 don't exist.
+[*****] BUG: QUEST: 103 don't exist.
+[*****] BUG: QUEST: 137 don't exist.
+[*****] BUG: QUEST: 196 don't exist.
+[*****] BUG: QUEST: 212 don't exist.
+[*****] BUG: QUEST: 154 don't exist.
+[*****] BUG: QUEST: 49 don't exist.
+[*****] BUG: QUEST: 68 don't exist.
+[*****] BUG: QUEST: 108 don't exist.
+[*****] BUG: QUEST: 37 don't exist.
+[*****] BUG: QUEST: 167 don't exist.
+[*****] BUG: QUEST: 12 don't exist.
+[*****] BUG: QUEST: 92 don't exist.
+[*****] BUG: QUEST: 207 don't exist.
+[*****] BUG: QUEST: 189 don't exist.
+[*****] BUG: QUEST: 94 don't exist.
+[*****] BUG: QUEST: 10 don't exist.
+[*****] BUG: QUEST: 102 don't exist.
+[*****] BUG: QUEST: 227 don't exist.
+[*****] BUG: QUEST: 37 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 101 don't exist.
+[*****] BUG: QUEST: 93 don't exist.
+[*****] BUG: QUEST: 205 don't exist.
+[*****] BUG: QUEST: 181 don't exist.
+[*****] BUG: QUEST: 195 don't exist.
+[*****] BUG: QUEST: 7 don't exist.
+[*****] BUG: QUEST: 187 don't exist.
+[*****] BUG: QUEST: 270 don't exist.
+[*****] BUG: QUEST: 266 don't exist.
+[*****] BUG: QUEST: 109 don't exist.
+[*****] BUG: QUEST: 128 don't exist.
+[*****] BUG: QUEST: 11 don't exist.
+[*****] BUG: QUEST: 199 don't exist.
+[*****] BUG: QUEST: 147 don't exist.
+[*****] BUG: QUEST: 171 don't exist.
+[*****] BUG: QUEST: 54 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 184 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 250 don't exist.
+[*****] BUG: QUEST: 146 don't exist.
+[*****] BUG: QUEST: 178 don't exist.
+[*****] BUG: QUEST: 165 don't exist.
+[*****] BUG: QUEST: 268 don't exist.
+[*****] BUG: QUEST: 138 don't exist.
+[*****] BUG: QUEST: 206 don't exist.
+[*****] BUG: QUEST: 41 don't exist.
+[*****] BUG: QUEST: 3 don't exist.
+[*****] BUG: QUEST: 259 don't exist.
+[*****] BUG: QUEST: 184 don't exist.
+[*****] BUG: QUEST: 74 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: QUEST: 197 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: QUEST: 182 don't exist.
+[*****] BUG: QUEST: 152 don't exist.
+[*****] BUG: QUEST: 42 don't exist.
+[*****] BUG: QUEST: 159 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 89 don't exist.
+[*****] BUG: QUEST: 62 don't exist.
+[*****] BUG: QUEST: 118 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 239 don't exist.
+[*****] BUG: QUEST: 228 don't exist.
+[*****] BUG: QUEST: 172 don't exist.
+[*****] BUG: QUEST: 72 don't exist.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: Strn_cmp: null bstr.
+[*****] BUG: QUEST: 43 don't exist.
+[*****] BUG: QUEST: 106 don't exist.
+[*****] BUG: QUEST: 79 don't exist.
+[*****] BUG: QUEST: 8 don't exist.
+[*****] BUG: QUEST: 4 don't exist.
+[*****] BUG: QUEST: 13 don't exist.
+[*****] BUG: QUEST: 265 don't exist.
+[*****] BUG: QUEST: 204 don't exist.
+[*****] BUG: QUEST: 214 don't exist.
+[*****] BUG: QUEST: 188 don't exist.
+[*****] BUG: QUEST: 83 don't exist.
+[*****] BUG: QUEST: 198 don't exist.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2357.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2357.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2357.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2357.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2357.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2346.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2346.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2347.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2348.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2348.
+[*****] BUG: QUEST: 53 don't exist.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 2348.
+[*****] BUG: QUEST: 100 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 203 don't exist.
+[*****] BUG: QUEST: 34 don't exist.
+[*****] BUG: Save_resets: !NO_MOB! in [mahntor.are]
+[*****] BUG: Get_room_index: bad vnum 0.
+[*****] BUG: Get_room_index: bad vnum 0.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 192 don't exist.
+[*****] BUG: QUEST: 210 don't exist.
+[*****] BUG: QUEST: 181 don't exist.
+[*****] BUG: QUEST: 46 don't exist.
+[*****] BUG: QUEST: 261 don't exist.
+[*****] BUG: QUEST: 248 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 151 don't exist.
+[*****] BUG: QUEST: 179 don't exist.
+[*****] BUG: QUEST: 168 don't exist.
+[*****] BUG: QUEST: 271 don't exist.
+[*****] BUG: QUEST: 21 don't exist.
+[*****] BUG: QUEST: 125 don't exist.
+[*****] BUG: QUEST: 70 don't exist.
+[*****] BUG: QUEST: 73 don't exist.
+[*****] BUG: QUEST: 126 don't exist.
+[*****] BUG: QUEST: 223 don't exist.
+[*****] BUG: QUEST: 106 don't exist.
+[*****] BUG: QUEST: 143 don't exist.
+[*****] BUG: QUEST: 226 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 202 don't exist.
+[*****] BUG: QUEST: 214 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 68 don't exist.
+[*****] BUG: QUEST: 19 don't exist.
+[*****] BUG: QUEST: 157 don't exist.
+[*****] BUG: QUEST: 104 don't exist.
+[*****] BUG: QUEST: 269 don't exist.
+[*****] BUG: QUEST: 16 don't exist.
+[*****] BUG: QUEST: 177 don't exist.
+[*****] BUG: QUEST: 267 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 220 don't exist.
+[*****] BUG: QUEST: 103 don't exist.
+[*****] BUG: QUEST: 56 don't exist.
+[*****] BUG: QUEST: 80 don't exist.
+[*****] BUG: QUEST: 12 don't exist.
+[*****] BUG: QUEST: 131 don't exist.
+[*****] BUG: QUEST: 9 don't exist.
+[*****] BUG: QUEST: 117 don't exist.
+[*****] BUG: QUEST: 251 don't exist.
+[*****] BUG: QUEST: 246 don't exist.
+[*****] BUG: QUEST: 270 don't exist.
+[*****] BUG: QUEST: 202 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 20 don't exist.
+[*****] BUG: QUEST: 166 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 225 don't exist.
+[*****] BUG: QUEST: 63 don't exist.
+[*****] BUG: QUEST: 127 don't exist.
+[*****] BUG: QUEST: 107 don't exist.
+[*****] BUG: QUEST: 17 don't exist.
+[*****] BUG: QUEST: 52 don't exist.
+[*****] BUG: QUEST: 47 don't exist.
+[*****] BUG: QUEST: 180 don't exist.
+[*****] BUG: QUEST: 22 don't exist.
+[*****] BUG: QUEST: 157 don't exist.
+[*****] BUG: QUEST: 70 don't exist.
+[*****] BUG: QUEST: 252 don't exist.
+[*****] BUG: QUEST: 232 don't exist.
+[*****] BUG: QUEST: 15 don't exist.
+[*****] BUG: QUEST: 20 don't exist.
+[*****] BUG: QUEST: 250 don't exist.
+[*****] BUG: QUEST: 163 don't exist.
+[*****] BUG: QUEST: 139 don't exist.
+[*****] BUG: QUEST: 18 don't exist.
+[*****] BUG: QUEST: 227 don't exist.
+[*****] BUG: QUEST: 49 don't exist.
+[*****] BUG: QUEST: 238 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 216 don't exist.
+[*****] BUG: QUEST: 94 don't exist.
+[*****] BUG: QUEST: 110 don't exist.
+[*****] BUG: QUEST: 154 don't exist.
+[*****] BUG: QUEST: 206 don't exist.
+[*****] BUG: QUEST: 142 don't exist.
+[*****] BUG: QUEST: 269 don't exist.
+[*****] BUG: QUEST: 100 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 157 don't exist.
+[*****] BUG: QUEST: 240 don't exist.
+[*****] BUG: QUEST: 92 don't exist.
+[*****] BUG: QUEST: 236 don't exist.
+[*****] BUG: QUEST: 14 don't exist.
+[*****] BUG: QUEST: 172 don't exist.
+[*****] BUG: QUEST: 61 don't exist.
+[*****] BUG: QUEST: 29 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: QUEST: 72 don't exist.
+[*****] BUG: QUEST: 181 don't exist.
+[*****] BUG: QUEST: 157 don't exist.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: QUEST: 164 don't exist.
+[*****] BUG: QUEST: 129 don't exist.
+[*****] BUG: QUEST: 32 don't exist.
+[*****] BUG: QUEST: 5 don't exist.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: QUEST: 2 don't exist.
+[*****] BUG: QUEST: 183 don't exist.
+[*****] BUG: QUEST: 237 don't exist.
+[*****] BUG: QUEST: 54 don't exist.
+[*****] BUG: QUEST: 119 don't exist.
+[*****] BUG: QUEST: 21 don't exist.
+[*****] BUG: QUEST: 177 don't exist.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: QUEST: 24 don't exist.
+[*****] BUG: QUEST: 20 don't exist.
+[*****] BUG: QUEST: 135 don't exist.
+[*****] BUG: QUEST: 260 don't exist.
+[*****] BUG: QUEST: 46 don't exist.
+[*****] BUG: QUEST: 64 don't exist.
+[*****] BUG: QUEST: 67 don't exist.
+[*****] BUG: QUEST: 11 don't exist.
+[*****] BUG: QUEST: 53 don't exist.
+[*****] BUG: QUEST: 239 don't exist.
+[*****] BUG: QUEST: 16 don't exist.
+[*****] BUG: QUEST: 62 don't exist.
+[*****] BUG: QUEST: 7 don't exist.
+[*****] BUG: QUEST: 80 don't exist.
+[*****] BUG: QUEST: 57 don't exist.
+[*****] BUG: QUEST: 124 don't exist.
+[*****] BUG: QUEST: 168 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 163 don't exist.
+[*****] BUG: QUEST: 246 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 178 don't exist.
+[*****] BUG: QUEST: 100 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 233 don't exist.
+[*****] BUG: QUEST: 240 don't exist.
+[*****] BUG: QUEST: 89 don't exist.
+[*****] BUG: QUEST: 116 don't exist.
+[*****] BUG: QUEST: 185 don't exist.
+[*****] BUG: QUEST: 6 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 145 don't exist.
+[*****] BUG: QUEST: 137 don't exist.
+[*****] BUG: QUEST: 173 don't exist.
+[*****] BUG: QUEST: 129 don't exist.
+[*****] BUG: QUEST: 75 don't exist.
+[*****] BUG: QUEST: 149 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 22 don't exist.
+[*****] BUG: QUEST: 123 don't exist.
+[*****] BUG: QUEST: 168 don't exist.
+[*****] BUG: QUEST: 58 don't exist.
+[*****] BUG: QUEST: 244 don't exist.
+[*****] BUG: QUEST: 153 don't exist.
+[*****] BUG: QUEST: 15 don't exist.
+[*****] BUG: QUEST: 30 don't exist.
+[*****] BUG: QUEST: 143 don't exist.
+[*****] BUG: QUEST: 101 don't exist.
+[*****] BUG: QUEST: 219 don't exist.
+[*****] BUG: QUEST: 87 don't exist.
+[*****] BUG: QUEST: 118 don't exist.
+[*****] BUG: QUEST: 49 don't exist.
+[*****] BUG: QUEST: 253 don't exist.
+[*****] BUG: QUEST: 31 don't exist.
+[*****] BUG: QUEST: 168 don't exist.
+[*****] BUG: QUEST: 114 don't exist.
+[*****] BUG: QUEST: 40 don't exist.
+[*****] BUG: QUEST: 194 don't exist.
+[*****] BUG: QUEST: 50 don't exist.
+[*****] BUG: QUEST: 259 don't exist.
+[*****] BUG: QUEST: 231 don't exist.
+[*****] BUG: QUEST: 80 don't exist.
+[*****] BUG: QUEST: 101 don't exist.
+[*****] BUG: QUEST: 178 don't exist.
+[*****] BUG: QUEST: 137 don't exist.
+[*****] BUG: QUEST: 12 don't exist.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: QUEST: 54 don't exist.
+[*****] BUG: QUEST: 201 don't exist.
+[*****] BUG: QUEST: 133 don't exist.
+[*****] BUG: QUEST: 5 don't exist.
+[*****] BUG: QUEST: 109 don't exist.
+[*****] BUG: QUEST: 13 don't exist.
+[*****] BUG: QUEST: 199 don't exist.
+[*****] BUG: QUEST: 36 don't exist.
+[*****] BUG: QUEST: 232 don't exist.
+[*****] BUG: QUEST: 117 don't exist.
+[*****] BUG: QUEST: 234 don't exist.
+[*****] BUG: QUEST: 71 don't exist.
+[*****] BUG: QUEST: 230 don't exist.
+[*****] BUG: QUEST: 196 don't exist.
+[*****] BUG: QUEST: 271 don't exist.
+[*****] BUG: QUEST: 216 don't exist.
+[*****] BUG: QUEST: 180 don't exist.
+[*****] BUG: QUEST: 44 don't exist.
+[*****] BUG: QUEST: 100 don't exist.
+[*****] BUG: QUEST: 182 don't exist.
+[*****] BUG: QUEST: 118 don't exist.
+[*****] BUG: QUEST: 169 don't exist.
+[*****] BUG: QUEST: 48 don't exist.
+[*****] BUG: QUEST: 7 don't exist.
+[*****] BUG: QUEST: 28 don't exist.
+[*****] BUG: QUEST: 250 don't exist.
+[*****] BUG: QUEST: 109 don't exist.
+[*****] BUG: QUEST: 89 don't exist.
+[*****] BUG: QUEST: 170 don't exist.
+[*****] BUG: QUEST: 225 don't exist.
+[*****] BUG: QUEST: 70 don't exist.
+[*****] BUG: QUEST: 12 don't exist.
+[*****] BUG: QUEST: 12 don't exist.
+[*****] BUG: QUEST: 264 don't exist.
+[*****] BUG: QUEST: 266 don't exist.
+[*****] BUG: QUEST: 254 don't exist.
+[*****] BUG: QUEST: 244 don't exist.
+[*****] BUG: QUEST: 72 don't exist.
+[*****] BUG: QUEST: 109 don't exist.
+[*****] BUG: QUEST: 16 don't exist.
+[*****] BUG: QUEST: 85 don't exist.
+[*****] BUG: QUEST: 163 don't exist.
+[*****] BUG: QUEST: 148 don't exist.
+[*****] BUG: QUEST: 243 don't exist.
+[*****] BUG: QUEST: 104 don't exist.
+[*****] BUG: QUEST: 160 don't exist.
+[*****] BUG: QUEST: 115 don't exist.
+[*****] BUG: QUEST: 249 don't exist.

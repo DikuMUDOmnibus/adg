@@ -1,0 +1,749 @@
+#AREADATA
+Name        The Cavernous City~
+Builders    None~
+VNUMs       28000 28039
+Security    6
+Flags       0
+End
+
+
+#MOBILES
+#28000
+Gerald Tarrant~
+Gerald Tarrant~
+Gerald Tarrant walks down the stairs to greet you.
+~
+Gerald Tarrant looks at you with a thin smile on his face.  His head
+slightly to one side almost as if he's listening to something.  
+~
+99 4727936 0 S
+547 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#28001
+NAME LOST~
+SHORT LOST~
+LONG LOST
+~
+{Œ@quivering brain of a Fardeath Evil One wobbles on the floor.~
+35 8320 0 S
+266 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#28005
+White Tree~
+A White Tree draws on your will.~
+A White Tree draws on your will.~
+~
+15 3586 0
+0 0 0 0
+999 0 0
+#0
+
+
+
+#ROOMS
+#28000
+Entrance to the Wasting~
+Fire.  Rising up out of the bowel of the earth, licking the walls of the
+cavern.  Rising up into the canyons of the ceiling, lost in its whorls and
+crevices.  A man's arm, shackled to an iron bar.  An icy sword, blazing with
+silver power.  A man-or a demon who had once been a man-confined to the
+fires of Hell while still alive, consumed by the unearthly flames even as he
+struggles to heal himself...  These are the images that race through your
+mind as a warning before you venture on... 
+A sign blows back and forth in the breeze
+~
+0 24576 0
+E
+Sign~
+Many of the rooms in this area have extra descriptions, The rooms will
+hint you of their existence.  
+~
+D0
+~
+~
+0 0 28001
+S
+#28001
+Along the pathway of ashen flesh~
+He tries to crawl foreward, but the heat it too great to bear.  Tries to
+reach out to his devil incarnate-his enemy, his companion-but the fire melts
+his flesh even as he struggles foreward, and he knows that the moment is
+lost, the battle is over the Enemy has won...  No!  He screams.  Refusing to
+accept it.  His hands are gone now, charred to cinders, but he uses the
+stumps to pull himself foreward, inch by inch into the blazing heat...  Why
+are these images being forced into your mind, could this be a warning from
+the one who just passed here before you?  
+~
+0 0 0
+D0
+~
+~
+0 0 28002
+D1
+~
+~
+0 0 28018
+D2
+~
+~
+0 0 28000
+S
+#28002
+Valley of the Wasting~
+The hard earth feels strange beneath your feet, taking concentration not
+to stumble on the seemingly chaotic convolutions.  Darkness swallows up the
+hills.  Your are left walking on a blackened stone sea without any land in
+sight.  Cold stone ripples pass beneath your feet, frozen wavelets, rigid
+whirlpools.  The hard ground making your ankles ache and the constant need
+to study it as you walk along-lest some crack or crevise surprise you. 
+Testing your will to continue onward.  
+~
+0 24576 0
+D0
+~
+~
+0 0 28005
+D1
+~
+~
+0 0 28004
+D2
+~
+~
+0 0 28001
+D3
+~
+~
+0 0 28003
+S
+#28003
+Strange crack in the ground~
+As you near the crack flames burst out of it showing you yet another
+vision.  A face with slashes of red above and below distorted human
+features.  Beside it another appears, equally grotesque, crudely painted. 
+The faces of your childhood nightmares, masks of the demons of your past. 
+Bodies painted with the colors of blood and death, their bones tied to their
+weapons.  Their wooden spears and crude arrows are all stained brown or
+black about the tip from the blood of many kills which has seeped down into
+the wood You try to move but your jaw drops in astonishment.  
+They are but children....
+~
+0 24576 0
+E
+flame children face crack~
+As you stare into the flames they speak to you themselves
+Mine are the children of Calesta for I am he
+He who shrouds your pain to imbue your desires
+To end in the achievement of my desires
+To shroud all within my illusions
+~
+D1
+~
+~
+0 0 28002
+S
+#28004
+A small pool of what seems like water~
+The rippling black waste continues all about you, looking down you see a
+pool of water that seems to flicker in and out of sight.  When you try to
+focus your eyes on it another set of images intrude into your mind.  Into
+the flames themselves, a white hot silhouette...  
+~
+0 24576 0
+E
+fire flames silhouette~
+Man's face, insect eyes.
+Faceted
+Glittering
+Laughing...
+~
+D3
+~
+~
+0 0 28002
+S
+#28005
+Farther down the Valley of the Wasting~
+The sea of the hard black soil continues all around you, yet the images
+in your mind cease.  White trees that seem to absorb the light around them,
+give you a sense of yearning.  As if they are trying to draw you to them. 
+Losing control for just a moment draws you in closer to one.  You feel the
+yearning of the tree grow stronger.  In raw panic you take a few steps back.
+What is it that this tree wants?  
+~
+0 24576 0
+E
+tree~
+White and twisted it seems to move toward you
+Shaking your head you tell yourself that this is not possible.
+Or is it?
+~
+D0
+~
+~
+0 0 28008
+D2
+~
+~
+0 0 28002
+D3
+~
+~
+0 0 28006
+S
+#28006
+Entrance to the Shrine of Calesta~
+The air is rank with the smell of decay.  As you look at the left over
+ruins, the still hard packed earth is a sign at how often this shrine was
+visited.  Calesta the creaator of disease awaits your visit.  
+~
+0 24576 0
+D1
+~
+~
+0 0 28005
+D3
+~
+~
+0 0 28024
+S
+#28007
+At the bottom of the cliff~
+Well you've seem to have fallen off the edge of the cliff.
+~
+0 26629 5
+S
+#28008
+The Wasting~
+The fall of man cries out to you as a warning.  It is the wasting itself,
+mans own destruction.  Ruled by Gerald Tarrant, it seeks you as the new
+source.  Will you fall or defeat Gerald?  Do not fool yourself into thinking
+that if you slay him you save mankind.  Man awaits and yearns for his own
+demise.  Gerald is just offering their wishes to them 
+~
+0 24576 0
+D0
+~
+~
+0 0 28011
+D1
+~
+~
+0 0 28010
+D2
+~
+~
+0 0 28005
+D3
+~
+~
+0 0 28009
+S
+#28009
+Rock Overhang~
+As you look over the edge hot air rises up against you, searing at your
+skin.  The black ground warped in jagged convolutions in every direction.  
+~
+0 24576 0
+D1
+~
+~
+0 0 28008
+D5
+~
+~
+0 0 28007
+S
+#28010
+Pile of bones at the base of a tree~
+You stumble as part of the black soil crumbles in, then as you look to
+where you almost fell.  You notice that wasnt soil you stepped in, but the
+rotted remains of a...  
+Ugh... it was a.. a..
+Well a you cant seem to tell.
+It looks like it was part human at least.
+~
+0 24576 0
+E
+remain remains rotted~
+The body seems to be half eaten by the ground itself.  Reaching up
+towards you it begs for aid.  
+~
+D3
+~
+~
+0 0 28008
+S
+#28011
+The Wasting~
+You can here it calling to you.
+The Wasting it's self, it's calling for you. It knows who you are.
+It's calling your name pulling you onwards, forwards, always forwards.
+~
+0 24576 0
+D0
+~
+~
+0 0 28014
+D1
+~
+~
+0 0 28013
+D2
+~
+~
+0 0 28008
+D3
+~
+~
+0 0 28012
+S
+#28012
+The Wasting~
+~
+0 24576 0
+D1
+~
+~
+0 0 28011
+S
+#28013
+The Wasting~
+The jagged ground gets worse as you look on to the east, til it becomes
+but a sheer wall.  Strange etchings appear all along the wall.  You wonder
+to yourself how someone was able to get to the wall to make them,
+none-the-less what they mean.  
+~
+0 24576 0
+E
+Etching Etchings~
+Michiarta Biakuliasma Tibiartua
+~
+D3
+~
+~
+0 0 28011
+S
+#28014
+Eroded Path~
+Another vision comes crashing down over you.  A man silent and cold
+standing in his own home.  Standing there silent while his family screams in
+terror.  Blood upon his hands, looking down on them, a faint grin slowly
+spreading on his face.  His sword passing through the flesh of what seems to
+be his wife.  His son begging to know why this is being done, sobbing
+wondering why this has come to be.  Then utter silence, his family slain. 
+The pact fulfilled.  
+~
+0 24576 0
+D0
+~
+~
+0 0 28017
+D1
+~
+~
+0 0 28016
+D2
+~
+~
+0 0 28011
+D3
+~
+~
+0 0 28015
+S
+#28015
+Forrest of Illusions~
+As your eyes pass along the white trees, flickering images of monsters
+and demons alike mock you.  Charging at you, but staying out of reach. 
+Laughter in their eyes, eyes knowing of something hidden from you.  
+~
+0 24576 0
+D1
+~
+~
+0 0 28014
+S
+#28016
+A small well~
+A dilapidated well barely stands before you.  The wood and brick alike
+seem charred from some infernal flame.  Leaning over the well you see a
+thick black fluid.  At first glance you idly assume its the black sand all
+about you is in the water.  And then you see it.  Or rather her.  Her eyes
+empty of all love.  A thick white scar along her throat.  Slowly rising out
+of the well.  Drawing you down in to the well.  
+~
+0 24576 0
+D3
+~
+~
+0 0 28014
+D5
+~
+~
+0 0 28022
+S
+#28017
+Gerald Tarrant's Mansion~
+The mansion is kept immaculate.  You see cages all about you displaying
+mutated creatures, of his own experiment.  Wards upon the floor caging
+enraged demons, and the bones of his family left exactly where they fell. 
+And then he comes walking down the stairs.  Apparently already knowing about
+your arrival.  
+~
+0 16390 0
+D2
+~
+~
+0 0 28014
+S
+#28018
+Canyon of the Wasting~
+As you descend into the valley the true scale of things dawns on you... 
+The mangeled corpses pilled as high as the ski, some still alive, some still
+on fire.  All of them seem to be moaning out to you and to everything else
+that can hear them.  
+~
+0 24576 0
+D0
+~
+~
+0 0 28019
+D1
+~
+~
+0 0 28021
+D2
+~
+~
+0 0 28020
+D3
+~
+~
+0 0 28001
+S
+#28019
+Canyon of the Wasting~
+Corpses..People..Beasts..
+Nothings missed here..somewhere..
+~
+0 24576 0
+D2
+~
+~
+0 0 28018
+S
+#28020
+Canyon of the Wasting~
+Corpses everywhere..No way to turn..
+Only way is back..
+Only way is through..
+~
+0 24576 0
+D0
+~
+~
+0 0 28018
+S
+#28021
+Canyon of the Wasting~
+The canyon seems to continue but you dont push on.  The force of the
+bodys groping out to you, trying to pull themselfs to you stops you.  You
+see an opening apear south but it seems to be filling up as more 'people'
+see you.  
+~
+0 24576 0
+D2
+~
+~
+0 0 28023
+D3
+~
+~
+0 0 28018
+S
+#28022
+Bottom of the Well~
+You follow her down before you relise what your doing.
+Now it's to late.
+Images start to flash before your eyes and you start to re-live her last moments of..life.
+~
+0 24580 8
+S
+#28023
+Canyon of the Wasting~
+Corpses everywhere..No way to turn..Which way to go..
+So many of them..To many of them..
+Where..Where..
+~
+0 24576 0
+D0
+~
+~
+0 0 28021
+S
+#28024
+Hall of the Shrine of Calesta~
+Each step makes the putrid scent grow stronger.  The air thick with
+disease and the stale scent of decay.  Intensifies its assault upon your
+senses.  
+~
+0 24576 0
+D1
+~
+~
+0 0 28006
+D3
+~
+~
+0 0 28027
+S
+#28025
+Dirty path between the catacombs~
+The tunnel is amplifying all sound that you make. Passage ways lead 
+off in all directions.
+~
+0 24576 0
+D0
+~
+~
+0 0 28028
+D1
+~
+~
+0 0 28032
+D2
+~
+~
+0 0 28034
+D3
+~
+~
+0 0 28031
+S
+#28026
+Tomb of the other son of Gerald Tarrant~
+This is the tom of Gerald's first son. The coffin is empty. Runes and
+sigils whisper the life story of this son.
+~
+0 24576 0
+D1
+~
+~
+0 0 28028
+S
+#28027
+Hall of the Shrine of Calesta~
+Random appendages show through the walls and floor.  Legs an ear, a knee
+all showing signs of rotting, yet why are they still here?  Shouldn't they
+have rotted away years ago?  
+~
+0 24576 0
+D1
+~
+~
+0 0 28024
+D3
+~
+~
+0 0 28030
+S
+#28028
+Dirty path between the catacombs~
+You can hear echos that seems to be coming from the North.  Faint screams
+and mad laughter..  
+Again passages lead off in all directions.
+~
+0 24576 0
+D0
+~
+~
+0 0 28035
+D1
+~
+~
+0 0 28029
+D2
+~
+~
+0 0 28025
+D3
+~
+~
+0 0 28026
+S
+#28029
+Tomb of Gerald Tarrants Wife~
+This is the tomb of Gerald's wife. The coffin is empty but the
+ensciptions around it depict her life story.
+~
+0 24576 0
+D3
+~
+~
+0 0 28028
+S
+#28030
+Hall of the Shrine of Calesta~
+Arms of differing lengths reach towards the west.  Half exposed faces
+moan in anguish.  Maggots crawling in their eyes sockets and falling on the
+cement.  
+~
+0 24576 0
+D1
+~
+~
+0 0 28027
+D3
+~
+~
+0 0 28033
+S
+#28031
+Tomb of Gerald Tarrants daughter~
+This is the tomb of Gerald's only Daughter. The craftmanship of the
+whole room is as fine as you have ever seen. The runes have that
+Finess that only a master runesmith can accomplish. The life story is
+happy until that fateful day. The coffin is open and empty, it appears
+to be completly unused.
+~
+0 24576 0
+D1
+~
+~
+0 0 28025
+S
+#28032
+Tomb of one of Gerald Tarrants son~
+This is the tomb of Gerald's second son. There are runes and sigils
+surrounding the room and coffin. These seem to be faintly whispering
+about the tale of his life, short as it was.
+~
+0 24576 0
+D3
+~
+~
+0 0 28025
+S
+#28033
+Hall of the Shrine of Calesta~
+These walls are covered with hands.  All of them reaching out to you
+trying to pull you over to them.  There everywhere and they all seem to be
+calling out your name to you, pushing you down braking your will as well as
+your body.  
+~
+0 24576 0
+D0
+~
+~
+0 0 28034
+D1
+~
+~
+0 0 28030
+D3
+~
+~
+0 0 28036
+S
+#28034
+Entrance to the catacombs~
+As youe eyes adjust to the dark light you can see your in some sort of
+catacombs that strech as far as the eye can see.  
+~
+0 24576 0
+D0
+~
+~
+0 0 28025
+D2
+~
+~
+0 0 28033
+S
+#28035
+A glowing empty tomb~
+The passage widens into a large tomb.  In the center of the room is an
+open sarcophagus which seems to be pulsating with something...  Not good, or
+evil but power.  
+~
+0 24576 0
+D2
+~
+~
+0 0 28028
+S
+#28036
+The Shrine of Calesta~
+Statues of Calesta cover the walls of this room.  As you pay attention in
+particular to one.  You notice this is the man in the first vision.  
+~
+0 17408 0
+D0
+~
+~
+0 0 28037
+D1
+~
+~
+0 0 28033
+D2
+~
+~
+0 0 28038
+S
+#28037
+Calesta's Study~
+This room is a comlpete chaotic mess.  Books made from the flesh of man,
+and written in the blood of dragons covers the desk and the floor.  Looking
+over and open book on the desk, you notice that the sigils on the pages
+shift and move as you look them over.  Making it completely impossible to
+understand their meaning.  
+~
+0 24576 0
+D2
+~
+~
+0 0 28036
+S
+#28038
+Tomb of Calesta~
+Looking through the glass door of the catacomb, you see Calesta is
+leaning against the wall in a deep sleep.  But, as you move through the room
+his head turns and follows you as if his closed eyes are watching you.  
+~
+0 24576 0
+D0
+~
+~
+0 0 28036
+S
+#0
+
+
+
+#SPECIALS
+M 28000 spec_rogue Load to: Gerald Tarrant
+M 28001 spec_fido Load to: SHORT LOST
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

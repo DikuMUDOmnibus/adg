@@ -1,0 +1,647 @@
+#29696
+mage mask~
+a mage mask~
+A mask made of pure magic  lies here.~
+~
+9 16448 -32767
+25 0 0 21
+1 0 0
+A
+12 1000
+A
+18 5
+A
+19 5
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+2097152 0
+#29697
+mage girth~
+a mage girth~
+A girth made of pure magic lies here..~
+~
+9 16448 2049
+25 0 0 16
+5 0 0
+A
+12 0
+A
+18 0
+A
+19 0
+A
+17 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+2097152 0
+#29698
+mage cape~
+a mage cape~
+A cape made of pure magic lies here.~
+~
+9 16448 1025
+25 0 0 17
+5 0 0
+A
+12 0
+A
+18 0
+A
+19 0
+A
+17 0
+A
+12 1000
+A
+0 5
+A
+0 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+2097152 0
+
+#29650
+black demonic ring~
+a black demonic ring~
+A ring crafted from black demonsteel lies here.~
+~
+9 0 3
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29651
+black demonic collar~
+a black demonic collar~
+A collar crafted from black demonsteel lies here.~
+~
+9 0 5
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29652
+black demonic armor armour breastplate plate~
+a black demonic breastplate~
+A collar crafted from black demonsteel lies here.~
+~
+9 0 9
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29653
+black demonic helmet~
+a black demonic helmet~
+A helmet crafted from black demonsteel lies here.~
+~
+9 0 17
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29654
+black demonic leggings~
+a pair of black demonic leggings~
+A pair of leggings crafted from black demonsteel lies here.~
+~
+9 0 33
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29655
+black demonic boots~
+a pair of black demonic boots~
+A pair of boots crafted from black demonsteel lies here.~
+~
+9 0 65
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29656
+black demonic gauntlets gloves~
+a pair of black demonic gauntlets~
+A pair of gauntlets crafted from black demonsteel lies here.~
+~
+9 0 129
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29657
+black demonic sleeves~
+a pair of black demonic sleeves~
+A pair of sleeves crafted from black demonsteel lies here.~
+~
+9 0 257
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29658
+black demonic cape~
+a black demonic cape~
+A cape crafted from black demonsilk lies here.~
+~
+9 0 1025
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29659
+black demonic belt~
+a black demonic belt~
+A belt crafted from black demonsteel lies here.~
+~
+9 0 2049
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29660
+black demonic bracer~
+a black demonic bracer~
+A bracer crafted from black demonsteel lies here.~
+~
+9 0 4097
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29661
+black demonic visor~
+a black demonic visor~
+A visor crafted from black demonsteel lies here.~
+~
+9 0 -32767
+25 0 0 0
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29662
+black demonic longsword sword~
+a black demonic longsword~
+A longsword crafted from black demonsteel lies here.~
+~
+5 16384 8193
+18000 50 75 1
+1 1000000 0
+A
+19 15
+A
+18 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29663
+black demonic shortsword sword~
+a black demonic shortsword~
+A shortsword crafted from black demonsteel lies here.~
+~
+5 16384 8193
+17000 50 75 1
+1 1000000 0
+A
+19 5
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29670
+Red demonic ring~
+a Red demonic ring~
+A ring crafted from Red demonsteel lies here.~
+~
+9 0 3
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29671
+Red demonic collar~
+a Red demonic collar~
+A collar crafted from Red demonsteel lies here.~
+~
+9 0 5
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29672
+Red demonic armor armour breastplate plate~
+a Red demonic breastplate~
+A collar crafted from Red demonsteel lies here.~
+~
+9 0 9
+25 0 0 54
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29673
+Red demonic helmet~
+a Red demonic helmet~
+A helmet crafted from Red demonsteel lies here.~
+~
+9 0 17
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29674
+Red demonic leggings~
+a pair of Red demonic leggings~
+A pair of leggings crafted from Red demonsteel lies here.~
+~
+9 0 33
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29675
+Red demonic boots~
+a pair of Red demonic boots~
+A pair of boots crafted from Red demonsteel lies here.~
+~
+9 0 65
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29676
+Red demonic gauntlets gloves~
+a pair of Red demonic gauntlets~
+A pair of gauntlets crafted from Red demonsteel lies here.~
+~
+9 0 129
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29677
+Red demonic sleeves~
+a pair of Red demonic sleeves~
+A pair of sleeves crafted from Red demonsteel lies here.~
+~
+9 0 257
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29678
+Red demonic cape~
+a Red demonic cape~
+A cape crafted from Red demonsilk lies here.~
+~
+9 0 1025
+25 0 0 57
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29679
+Red demonic belt~
+a Red demonic belt~
+A belt crafted from Red demonsteel lies here.~
+~
+9 0 2049
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29680
+Red demonic bracer~
+a Red demonic bracer~
+A bracer crafted from Red demonsteel lies here.~
+~
+9 0 4097
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29681
+Red demonic visor~
+a Red demonic visor~
+A visor crafted from Red demonsteel lies here.~
+~
+9 0 -32767
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
